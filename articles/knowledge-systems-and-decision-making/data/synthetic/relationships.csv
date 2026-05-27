@@ -1,4 +1,5 @@
 source,target,relationship
-Knowledge Systems and Decision-Making,Interdisciplinary Research, Systems, Sustainability, and Governance,belongs_to_section
-Knowledge Systems and Decision-Making,Knowledge Architecture,belongs_to_pillar
-Interdisciplinary Research, Systems, Sustainability, and Governance,Knowledge Architecture,is_part_of
+Knowledge Systems And Decision Making,Taxonomy,uses
+Knowledge Systems And Decision Making,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

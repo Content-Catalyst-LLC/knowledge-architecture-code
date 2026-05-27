@@ -1,4 +1,5 @@
 source,target,relationship
-Information Architecture vs. Knowledge Architecture,Information Architecture, Digital Platforms, and Research Infrastructure,belongs_to_section
-Information Architecture vs. Knowledge Architecture,Knowledge Architecture,belongs_to_pillar
-Information Architecture, Digital Platforms, and Research Infrastructure,Knowledge Architecture,is_part_of
+Information Architecture Vs Knowledge Architecture,Taxonomy,uses
+Information Architecture Vs Knowledge Architecture,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

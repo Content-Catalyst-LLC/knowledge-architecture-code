@@ -1,5 +1,4 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:structuring_interdisciplinary_knowledge dcterms:title "Structuring Interdisciplinary Knowledge" ;
-  dcterms:isPartOf ka:KnowledgeArchitecture .
+ka:structuringinterdisciplinaryknowledge rdfs:label "Structuring Interdisciplinary Knowledge" .

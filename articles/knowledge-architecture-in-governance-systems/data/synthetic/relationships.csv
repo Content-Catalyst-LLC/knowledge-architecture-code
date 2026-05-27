@@ -1,4 +1,5 @@
 source,target,relationship
-Knowledge Architecture in Governance Systems,Interdisciplinary Research, Systems, Sustainability, and Governance,belongs_to_section
-Knowledge Architecture in Governance Systems,Knowledge Architecture,belongs_to_pillar
-Interdisciplinary Research, Systems, Sustainability, and Governance,Knowledge Architecture,is_part_of
+Knowledge Architecture In Governance Systems,Taxonomy,uses
+Knowledge Architecture In Governance Systems,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

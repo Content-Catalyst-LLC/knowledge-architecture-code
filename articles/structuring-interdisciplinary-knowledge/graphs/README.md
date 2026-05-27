@@ -1,4 +1,3 @@
 # Graph Assets
 
-Use this folder for article-level graph files, node lists, edge lists, centrality outputs, conceptual pathways, semantic networks, and visualization exports.
-
+Use this folder for concept maps, knowledge graphs, edge lists, node tables, centrality outputs, and visualizations.

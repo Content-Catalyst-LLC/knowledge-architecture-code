@@ -1,4 +1,5 @@
 source,target,relationship
-Digital Knowledge Platforms,Information Architecture, Digital Platforms, and Research Infrastructure,belongs_to_section
-Digital Knowledge Platforms,Knowledge Architecture,belongs_to_pillar
-Information Architecture, Digital Platforms, and Research Infrastructure,Knowledge Architecture,is_part_of
+Digital Knowledge Platforms,Taxonomy,uses
+Digital Knowledge Platforms,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

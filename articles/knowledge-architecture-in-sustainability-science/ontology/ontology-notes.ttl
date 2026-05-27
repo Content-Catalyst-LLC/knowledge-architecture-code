@@ -1,5 +1,4 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:knowledge_architecture_in_sustainability_science dcterms:title "Knowledge Architecture in Sustainability Science" ;
-  dcterms:isPartOf ka:KnowledgeArchitecture .
+ka:knowledgearchitectureinsustainabilityscience rdfs:label "Knowledge Architecture In Sustainability Science" .

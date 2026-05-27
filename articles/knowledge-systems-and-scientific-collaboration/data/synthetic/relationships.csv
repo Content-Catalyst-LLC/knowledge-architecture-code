@@ -1,4 +1,5 @@
 source,target,relationship
-Knowledge Systems and Scientific Collaboration,Education, AI, Collaboration, and Future Knowledge Platforms,belongs_to_section
-Knowledge Systems and Scientific Collaboration,Knowledge Architecture,belongs_to_pillar
-Education, AI, Collaboration, and Future Knowledge Platforms,Knowledge Architecture,is_part_of
+Knowledge Systems And Scientific Collaboration,Taxonomy,uses
+Knowledge Systems And Scientific Collaboration,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

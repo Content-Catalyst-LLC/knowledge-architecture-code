@@ -1,5 +1,4 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:designing_scalable_knowledge_systems dcterms:title "Designing Scalable Knowledge Systems" ;
-  dcterms:isPartOf ka:KnowledgeArchitecture .
+ka:designingscalableknowledgesystems rdfs:label "Designing Scalable Knowledge Systems" .

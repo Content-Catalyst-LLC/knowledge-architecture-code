@@ -1,8 +1,8 @@
 CREATE TABLE IF NOT EXISTS concepts (
   concept_id TEXT PRIMARY KEY,
   label TEXT NOT NULL,
-  domain TEXT NOT NULL,
-  level INTEGER NOT NULL
+  domain TEXT,
+  depth INTEGER
 );
 
 CREATE TABLE IF NOT EXISTS relationships (

@@ -1,11 +1,15 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:KnowledgeArchitecture a ka:KnowledgeDomain ;
-  dcterms:title "Knowledge Architecture" ;
-  dcterms:description "A knowledge domain concerned with intellectual infrastructure, taxonomies, ontologies, semantic networks, knowledge graphs, research pathways, and governed knowledge systems." .
+ka:KnowledgeArchitecture a rdfs:Class ;
+  rdfs:label "Knowledge Architecture" ;
+  rdfs:comment "The design of intellectual systems that organize concepts, relationships, research pathways, taxonomies, ontologies, metadata, and knowledge infrastructure." .
 
-ka:Article a ka:Class .
-ka:Section a ka:Class .
-ka:Concept a ka:Class .
-ka:Relationship a ka:Class .
+ka:TaxonomyDesign a rdfs:Class ;
+  rdfs:label "Taxonomy Design" .
+
+ka:OntologyModeling a rdfs:Class ;
+  rdfs:label "Ontology Modeling" .
+
+ka:KnowledgeGraph a rdfs:Class ;
+  rdfs:label "Knowledge Graph" .

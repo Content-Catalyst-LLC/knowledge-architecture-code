@@ -1,24 +1,13 @@
-title: "Knowledge Architecture in Governance Systems"
+title: "Knowledge Architecture In Governance Systems"
 slug: "knowledge-architecture-in-governance-systems"
-section: "Interdisciplinary Research, Systems, Sustainability, and Governance"
-site_url: "https://sustainablecatalyst.com/knowledge-architecture-in-governance-systems/"
-repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-architecture-in-governance-systems"
-description: "An article on how public institutions organize evidence, rules, policy domains, accountability structures, and administrative memory."
-status: scaffolded
-pillar: Knowledge Architecture
-methods:
-  - taxonomy design
-  - semantic relationship modeling
-  - knowledge graph diagnostics
-  - metadata governance
-  - reproducible documentation
-languages:
-  - Python
-  - R
-  - Julia
-  - SQL
-  - Rust
-  - Go
-  - C
-  - C++
-  - Fortran
+series: "Knowledge Architecture"
+status: "scaffolded"
+repository_path: "articles/knowledge-architecture-in-governance-systems"
+keywords:
+  - knowledge architecture
+  - taxonomy
+  - ontology
+  - semantic networks
+  - knowledge graphs
+  - metadata
+  - research infrastructure

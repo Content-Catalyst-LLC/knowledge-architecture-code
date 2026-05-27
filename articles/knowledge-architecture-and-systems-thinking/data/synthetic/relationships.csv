@@ -1,4 +1,5 @@
 source,target,relationship
-Knowledge Architecture and Systems Thinking,Interdisciplinary Research, Systems, Sustainability, and Governance,belongs_to_section
-Knowledge Architecture and Systems Thinking,Knowledge Architecture,belongs_to_pillar
-Interdisciplinary Research, Systems, Sustainability, and Governance,Knowledge Architecture,is_part_of
+Knowledge Architecture And Systems Thinking,Taxonomy,uses
+Knowledge Architecture And Systems Thinking,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

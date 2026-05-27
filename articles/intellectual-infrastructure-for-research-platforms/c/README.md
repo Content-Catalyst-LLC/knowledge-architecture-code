@@ -1,4 +1,3 @@
-# c Scaffolding
+# c examples
 
-Use this folder for compact validation utilities, command-line tools, performance tests, parsers, or reproducible systems examples that support the article's knowledge-architecture workflows.
-
+Use this folder for systems-level, CLI, validation, graph-processing, or performance-oriented examples where useful for the article.

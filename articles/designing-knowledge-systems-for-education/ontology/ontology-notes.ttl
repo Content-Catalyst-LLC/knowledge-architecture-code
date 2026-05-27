@@ -1,5 +1,4 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:designing_knowledge_systems_for_education dcterms:title "Designing Knowledge Systems for Education" ;
-  dcterms:isPartOf ka:KnowledgeArchitecture .
+ka:designingknowledgesystemsforeducation rdfs:label "Designing Knowledge Systems For Education" .

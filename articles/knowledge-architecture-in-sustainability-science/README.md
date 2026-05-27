@@ -1,36 +1,20 @@
-# Knowledge Architecture in Sustainability Science
+# Knowledge Architecture In Sustainability Science
 
-**Section:** Interdisciplinary Research, Systems, Sustainability, and Governance  
-**Article URL:** https://sustainablecatalyst.com/knowledge-architecture-in-sustainability-science/  
-**Repository folder:** https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-architecture-in-sustainability-science
+Article-level research scaffold for the Knowledge Architecture knowledge series.
 
 ## Purpose
 
-A treatment of how ecological, economic, governance, ethical, technological, and social knowledge can be organized into integrated sustainability frameworks.
+This folder supports article-specific examples, metadata, synthetic datasets, taxonomy notes, ontology notes, semantic-network workflows, graph analysis, reproducible notebooks, and technical documentation.
 
-## Folder structure
+## Folder Summary
 
-- `docs/` — article documentation, WordPress embed block, and method notes
-- `metadata/` — title, slug, section, source URL, repo URL, and article status
-- `governance/` — review notes, taxonomy decisions, and revision history
-- `notes/` — research notes and source-development notes
-- `data/` — raw, processed, and synthetic data
-- `notebooks/` — exploratory and reproducible notebooks
+- `docs/` — article documentation and WordPress GitHub block
+- `metadata/` — article metadata
+- `data/` — raw, processed, and synthetic article data
+- `taxonomy/` — taxonomy notes
+- `ontology/` — ontology notes
+- `graphs/` — graph and network artifacts
 - `python/`, `r/`, `julia/`, `sql/` — analytical workflows
-- `rust/`, `go/`, `c/`, `cpp/`, `fortran/` — systems, validation, and performance-oriented examples
-- `schemas/` — article-specific metadata or concept schemas
-- `ontology/` — semantic-model assets
-- `taxonomy/` — article-specific controlled vocabulary or taxonomy notes
-- `graphs/` — graph/network artifacts
-- `outputs/` — figures, tables, and report outputs
-- `tests/` — validation checks and reproducibility tests
-
-## Methods to add
-
-- Taxonomy review
-- Semantic relationship modeling
-- Knowledge-graph diagnostics
-- Metadata coverage analysis
-- Conceptual pathway mapping
-- Governance and revision notes
-
+- `c/`, `cpp/`, `fortran/`, `go/`, `rust/` — systems and tooling examples
+- `outputs/` — figures, tables, and reports
+- `tests/` — validation notes and checks

@@ -1,4 +1,3 @@
 # Tests
 
-Use this folder for validation checks, data-quality tests, schema validation, reproducibility checks, and article-specific workflow tests.
-
+Use this folder for validation checks, schema tests, metadata tests, data-quality checks, and reproducibility checks for `knowledge-architecture-in-governance-systems`.

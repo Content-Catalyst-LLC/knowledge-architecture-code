@@ -1,11 +1,9 @@
-concept_id,label,domain,level
-C001,Knowledge Architecture,root,0
-C002,Taxonomy Design,structure,1
-C003,Ontology Modeling,semantic,1
-C004,Semantic Networks,semantic,1
-C005,Knowledge Graphs,semantic,1
-C006,Information Architecture,navigation,1
-C007,Digital Knowledge Platforms,platform,1
-C008,Interdisciplinary Knowledge Design,research,1
-C009,Governance Systems,governance,1
-C010,AI Knowledge Organization,technology,1
+concept_id,label,domain,depth
+C1,Knowledge Architecture,root,0
+C2,Taxonomy Design,structure,1
+C3,Ontology Modeling,semantic,1
+C4,Knowledge Graphs,semantic,1
+C5,Information Architecture,navigation,1
+C6,Research Platforms,platform,1
+C7,Metadata Governance,governance,2
+C8,Decision Support,decision,2

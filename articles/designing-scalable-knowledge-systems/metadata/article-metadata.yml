@@ -1,24 +1,13 @@
 title: "Designing Scalable Knowledge Systems"
 slug: "designing-scalable-knowledge-systems"
-section: "Education, AI, Collaboration, and Future Knowledge Platforms"
-site_url: "https://sustainablecatalyst.com/designing-scalable-knowledge-systems/"
-repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/designing-scalable-knowledge-systems"
-description: "A capstone-style article on growth, governance, category drift, architecture maintenance, platform scale, and long-term coherence."
-status: scaffolded
-pillar: Knowledge Architecture
-methods:
-  - taxonomy design
-  - semantic relationship modeling
-  - knowledge graph diagnostics
-  - metadata governance
-  - reproducible documentation
-languages:
-  - Python
-  - R
-  - Julia
-  - SQL
-  - Rust
-  - Go
-  - C
-  - C++
-  - Fortran
+series: "Knowledge Architecture"
+status: "scaffolded"
+repository_path: "articles/designing-scalable-knowledge-systems"
+keywords:
+  - knowledge architecture
+  - taxonomy
+  - ontology
+  - semantic networks
+  - knowledge graphs
+  - metadata
+  - research infrastructure

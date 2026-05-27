@@ -1,4 +1,5 @@
 source,target,relationship
-AI and Knowledge Organization,Education, AI, Collaboration, and Future Knowledge Platforms,belongs_to_section
-AI and Knowledge Organization,Knowledge Architecture,belongs_to_pillar
-Education, AI, Collaboration, and Future Knowledge Platforms,Knowledge Architecture,is_part_of
+Ai And Knowledge Organization,Taxonomy,uses
+Ai And Knowledge Organization,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

@@ -1,4 +1,5 @@
 source,target,relationship
-What Is Knowledge Architecture?,Foundations and Core Architecture,belongs_to_section
-What Is Knowledge Architecture?,Knowledge Architecture,belongs_to_pillar
-Foundations and Core Architecture,Knowledge Architecture,is_part_of
+What Is Knowledge Architecture,Taxonomy,uses
+What Is Knowledge Architecture,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

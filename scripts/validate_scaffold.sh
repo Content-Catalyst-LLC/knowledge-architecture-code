@@ -1,19 +1,12 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-required_dirs=(
-  "articles"
-  "docs"
-  "schemas"
-  "taxonomy"
-  "ontology"
-  "governance"
-)
+missing=0
 
-for dir in "${required_dirs[@]}"; do
-  if [ ! -d "$dir" ]; then
-    echo "Missing required directory: $dir"
-    exit 1
+for d in articles docs data governance ontology taxonomy schemas scripts tests; do
+  if [ ! -d "$d" ]; then
+    echo "Missing root directory: $d"
+    missing=1
   fi
 done
 
@@ -22,7 +15,12 @@ echo "Article folder count: $article_count"
 
 if [ "$article_count" -lt 26 ]; then
   echo "Expected at least 26 article folders."
-  exit 1
+  missing=1
 fi
 
-echo "Scaffold validation passed."
+if [ "$missing" -eq 0 ]; then
+  echo "Scaffold validation passed."
+else
+  echo "Scaffold validation failed."
+  exit 1
+fi

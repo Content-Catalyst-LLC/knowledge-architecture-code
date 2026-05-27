@@ -1,24 +1,13 @@
-title: "AI and Knowledge Organization"
+title: "Ai And Knowledge Organization"
 slug: "ai-and-knowledge-organization"
-section: "Education, AI, Collaboration, and Future Knowledge Platforms"
-site_url: "https://sustainablecatalyst.com/ai-and-knowledge-organization/"
-repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/ai-and-knowledge-organization"
-description: "A critical article on how AI systems depend on structured knowledge, metadata, ontologies, retrieval systems, and human-governed interpretation."
-status: scaffolded
-pillar: Knowledge Architecture
-methods:
-  - taxonomy design
-  - semantic relationship modeling
-  - knowledge graph diagnostics
-  - metadata governance
-  - reproducible documentation
-languages:
-  - Python
-  - R
-  - Julia
-  - SQL
-  - Rust
-  - Go
-  - C
-  - C++
-  - Fortran
+series: "Knowledge Architecture"
+status: "scaffolded"
+repository_path: "articles/ai-and-knowledge-organization"
+keywords:
+  - knowledge architecture
+  - taxonomy
+  - ontology
+  - semantic networks
+  - knowledge graphs
+  - metadata
+  - research infrastructure

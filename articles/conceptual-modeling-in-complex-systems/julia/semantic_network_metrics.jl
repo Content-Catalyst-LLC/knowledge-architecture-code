@@ -1,9 +1,6 @@
-# Minimal semantic-network metric scaffold for article-level knowledge architecture.
-# Run from the article folder:
-#   julia julia/semantic_network_metrics.jl
+# Minimal semantic-network metric placeholder for Knowledge Architecture.
 
 using DelimitedFiles
 
-relationships_file = "data/synthetic/relationships.csv"
-println("Semantic-network scaffold ready for: ", relationships_file)
-println("Extend with Graphs.jl, CSV.jl, and DataFrames.jl for richer workflows.")
+println("Semantic network metrics placeholder.")
+println("Extend this script with graph metrics, centrality, or taxonomy diagnostics.")

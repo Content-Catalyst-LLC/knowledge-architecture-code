@@ -1,5 +1,4 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:ontologies_and_semantic_networks dcterms:title "Ontologies and Semantic Networks" ;
-  dcterms:isPartOf ka:KnowledgeArchitecture .
+ka:ontologiesandsemanticnetworks rdfs:label "Ontologies And Semantic Networks" .

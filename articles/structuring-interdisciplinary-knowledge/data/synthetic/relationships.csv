@@ -1,4 +1,5 @@
 source,target,relationship
-Structuring Interdisciplinary Knowledge,Interdisciplinary Research, Systems, Sustainability, and Governance,belongs_to_section
-Structuring Interdisciplinary Knowledge,Knowledge Architecture,belongs_to_pillar
-Interdisciplinary Research, Systems, Sustainability, and Governance,Knowledge Architecture,is_part_of
+Structuring Interdisciplinary Knowledge,Taxonomy,uses
+Structuring Interdisciplinary Knowledge,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

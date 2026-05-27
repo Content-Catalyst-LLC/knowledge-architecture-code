@@ -1,24 +1,13 @@
-title: "Knowledge Architecture in Sustainability Science"
+title: "Knowledge Architecture In Sustainability Science"
 slug: "knowledge-architecture-in-sustainability-science"
-section: "Interdisciplinary Research, Systems, Sustainability, and Governance"
-site_url: "https://sustainablecatalyst.com/knowledge-architecture-in-sustainability-science/"
-repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-architecture-in-sustainability-science"
-description: "A treatment of how ecological, economic, governance, ethical, technological, and social knowledge can be organized into integrated sustainability frameworks."
-status: scaffolded
-pillar: Knowledge Architecture
-methods:
-  - taxonomy design
-  - semantic relationship modeling
-  - knowledge graph diagnostics
-  - metadata governance
-  - reproducible documentation
-languages:
-  - Python
-  - R
-  - Julia
-  - SQL
-  - Rust
-  - Go
-  - C
-  - C++
-  - Fortran
+series: "Knowledge Architecture"
+status: "scaffolded"
+repository_path: "articles/knowledge-architecture-in-sustainability-science"
+keywords:
+  - knowledge architecture
+  - taxonomy
+  - ontology
+  - semantic networks
+  - knowledge graphs
+  - metadata
+  - research infrastructure

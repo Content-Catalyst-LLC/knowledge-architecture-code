@@ -1,4 +1,5 @@
 source,target,relationship
-Ontologies and Semantic Networks,Taxonomies, Hierarchies, Ontologies, and Semantic Structure,belongs_to_section
-Ontologies and Semantic Networks,Knowledge Architecture,belongs_to_pillar
-Taxonomies, Hierarchies, Ontologies, and Semantic Structure,Knowledge Architecture,is_part_of
+Ontologies And Semantic Networks,Taxonomy,uses
+Ontologies And Semantic Networks,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

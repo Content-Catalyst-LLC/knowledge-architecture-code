@@ -1,6 +1,2 @@
--- Example SQLite loading pattern:
--- .mode csv
--- .import data/synthetic/concepts.csv concepts
--- .import data/synthetic/relationships.csv relationships
-
-SELECT 'Knowledge architecture article schema ready' AS status;
+-- Load commands depend on the SQL engine.
+-- For SQLite, import CSVs with the sqlite3 shell .mode csv and .import commands.

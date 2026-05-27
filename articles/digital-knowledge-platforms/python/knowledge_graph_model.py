@@ -1,36 +1,34 @@
-"""Minimal knowledge-graph model for article-level knowledge architecture.
-
-Run from the article folder:
-    python python/knowledge_graph_model.py
+"""
+Synthetic knowledge-graph workflow for a Knowledge Architecture article.
 """
 
 from pathlib import Path
 import csv
-from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parents[1]
+concepts_path = ROOT / "data" / "synthetic" / "concepts.csv"
 relationships_path = ROOT / "data" / "synthetic" / "relationships.csv"
-output_dir = ROOT / "outputs" / "tables"
-output_dir.mkdir(parents=True, exist_ok=True)
+outputs_dir = ROOT / "outputs" / "tables"
+outputs_dir.mkdir(parents=True, exist_ok=True)
 
-nodes = set()
-degree = defaultdict(int)
+with concepts_path.open(newline="", encoding="utf-8") as f:
+    concepts = list(csv.DictReader(f))
 
 with relationships_path.open(newline="", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    for row in reader:
-        source = row["source"]
-        target = row["target"]
-        nodes.add(source)
-        nodes.add(target)
-        degree[source] += 1
-        degree[target] += 1
+    relationships = list(csv.DictReader(f))
 
-metrics_path = output_dir / "article_graph_degree_metrics.csv"
-with metrics_path.open("w", newline="", encoding="utf-8") as f:
+degree = {row["label"]: 0 for row in concepts}
+
+for row in relationships:
+    degree[row["source"]] = degree.get(row["source"], 0) + 1
+    degree[row["target"]] = degree.get(row["target"], 0) + 1
+
+out_path = outputs_dir / "concept_degree_summary.csv"
+
+with out_path.open("w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
-    writer.writerow(["node", "degree"])
-    for node in sorted(nodes):
-        writer.writerow([node, degree[node]])
+    writer.writerow(["concept", "degree"])
+    for concept, value in sorted(degree.items()):
+        writer.writerow([concept, value])
 
-print(f"Wrote {metrics_path}")
+print(f"Wrote {out_path}")

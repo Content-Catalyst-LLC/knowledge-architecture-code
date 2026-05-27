@@ -1,6 +1,3 @@
 # Research Notes
 
-Article: Knowledge Systems in Research Institutions
-
-Use this file to collect source notes, conceptual distinctions, open questions, taxonomy decisions, internal-link ideas, and unresolved interpretive issues.
-
+Use this file for article-specific sources, definitions, conceptual distinctions, modeling assumptions, and future revisions.

@@ -1,24 +1,17 @@
-# Minimal taxonomy diagnostics for article-level knowledge architecture.
-# Run from the article folder:
-#   Rscript r/taxonomy_diagnostics.R
+# Synthetic taxonomy diagnostics for a Knowledge Architecture article.
 
 concepts <- read.csv("data/synthetic/concepts.csv")
 relationships <- read.csv("data/synthetic/relationships.csv")
 
 dir.create("outputs/tables", recursive = TRUE, showWarnings = FALSE)
 
-domain_summary <- aggregate(
-  concept_id ~ domain,
-  data = concepts,
-  FUN = length
+depth_summary <- data.frame(
+  max_depth = max(concepts$depth),
+  mean_depth = mean(concepts$depth),
+  concept_count = nrow(concepts),
+  relationship_count = nrow(relationships)
 )
 
-names(domain_summary) <- c("domain", "concept_count")
+write.csv(depth_summary, "outputs/tables/taxonomy_depth_summary.csv", row.names = FALSE)
 
-write.csv(
-  domain_summary,
-  "outputs/tables/article_domain_summary.csv",
-  row.names = FALSE
-)
-
-print(domain_summary)
+print(depth_summary)

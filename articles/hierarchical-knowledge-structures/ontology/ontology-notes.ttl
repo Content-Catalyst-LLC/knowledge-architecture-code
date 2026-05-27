@@ -1,5 +1,4 @@
 @prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ka:hierarchical_knowledge_structures dcterms:title "Hierarchical Knowledge Structures" ;
-  dcterms:isPartOf ka:KnowledgeArchitecture .
+ka:hierarchicalknowledgestructures rdfs:label "Hierarchical Knowledge Structures" .

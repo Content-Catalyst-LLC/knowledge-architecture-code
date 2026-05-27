@@ -1,4 +1,5 @@
 source,target,relationship
-Intellectual Infrastructure for Research Platforms,Information Architecture, Digital Platforms, and Research Infrastructure,belongs_to_section
-Intellectual Infrastructure for Research Platforms,Knowledge Architecture,belongs_to_pillar
-Information Architecture, Digital Platforms, and Research Infrastructure,Knowledge Architecture,is_part_of
+Intellectual Infrastructure For Research Platforms,Taxonomy,uses
+Intellectual Infrastructure For Research Platforms,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

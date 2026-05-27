@@ -1,6 +1,3 @@
 # Taxonomy Notes
 
-Article: Conceptual Modeling in Complex Systems
-
-Record parent categories, child concepts, sibling concepts, alternate labels, controlled vocabulary decisions, and future taxonomy changes here.
-
+Document article-specific categories, parent-child relationships, controlled vocabulary terms, and classification decisions.

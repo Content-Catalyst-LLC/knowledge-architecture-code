@@ -1,6 +1,7 @@
-section,scope
-Foundations and Core Architecture,Foundational definitions frameworks and analytical models
-Taxonomies Hierarchies Ontologies and Semantic Structure,Classification hierarchy ontology semantic networks and knowledge graphs
-Information Architecture Digital Platforms and Research Infrastructure,Navigation platforms institutions infrastructure and digital libraries
-Interdisciplinary Research Systems Sustainability and Governance,Cross-domain synthesis sustainability policy systems decisions and governance
-Education AI Collaboration and Future Knowledge Platforms,Learning systems AI organization scientific collaboration future platforms and scalable systems
+id,parent_id,label,slug,level
+ka-root,,Knowledge Architecture,knowledge-architecture,0
+ka-foundations,ka-root,Foundations and Core Architecture,foundations-and-core-architecture,1
+ka-semantic,ka-root,Taxonomies Hierarchies Ontologies and Semantic Structure,taxonomies-hierarchies-ontologies-semantic-structure,1
+ka-platforms,ka-root,Information Architecture Digital Platforms and Research Infrastructure,information-architecture-digital-platforms-research-infrastructure,1
+ka-systems,ka-root,Interdisciplinary Research Systems Sustainability and Governance,interdisciplinary-research-systems-sustainability-governance,1
+ka-futures,ka-root,Education AI Collaboration and Future Knowledge Platforms,education-ai-collaboration-future-knowledge-platforms,1
