@@ -1,0 +1,13 @@
+object_id,title,object_type,has_metadata,access_level,status,relationship_degree,is_orphan,governance_record_count,needs_stewardship_review
+research_article,Published Research Article,publication,True,open,active,4,False,1,False
+dataset,Research Dataset,dataset,True,restricted,active,5,False,2,False
+code_repo,Code Repository,software,True,open,active,2,False,0,False
+ethics_protocol,Ethics Protocol,governance_record,True,internal,active,1,False,0,False
+data_management_plan,Data Management Plan,governance_record,True,internal,active,2,False,0,False
+lab_notebook,Laboratory Notebook,research_record,False,internal,active,1,False,1,True
+institutional_repository,Institutional Repository,repository,True,open,active,2,False,1,False
+community_agreement,Community Research Agreement,community_record,False,community_governed,active,1,False,1,True
+public_report,Public Research Report,publication,True,open,active,3,False,0,False
+source_fair,FAIR Guiding Principles,source,True,open,active,1,False,0,False
+source_unesco,UNESCO Recommendation on Open Science,source,True,open,active,1,False,0,False
+source_oecd,OECD Publicly Funded Data Guidance,source,True,open,active,1,False,0,False

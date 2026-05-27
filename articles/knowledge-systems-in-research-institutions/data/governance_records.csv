@@ -1,0 +1,7 @@
+governance_id,object_id,governance_type,sensitivity_level,access_condition,review_status
+GOV-ETH-001,dataset,ethics,high,restricted,current
+GOV-DMP-001,dataset,data_management,medium,restricted,current
+GOV-COM-001,community_agreement,community_agreement,high,community_governed,needs_review
+GOV-AI-001,research_article,AI_retrieval,medium,open,current
+GOV-REP-001,institutional_repository,preservation,low,open,current
+GOV-LAB-001,lab_notebook,access_control,medium,internal,needs_review

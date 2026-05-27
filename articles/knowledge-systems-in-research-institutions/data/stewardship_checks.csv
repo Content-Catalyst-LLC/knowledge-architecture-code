@@ -1,0 +1,9 @@
+check_id,layer,check_name,severity
+STEW-001,metadata,Every active research object has sufficient metadata,high
+STEW-002,provenance,Every relationship has provenance when possible,high
+STEW-003,repository,Datasets and software are linked to repositories,high
+STEW-004,ethics,Sensitive datasets are linked to ethics records,high
+STEW-005,FAIR,Datasets have findability and reuse metadata,medium
+STEW-006,AI,AI retrieval context includes access and sensitivity labels,high
+STEW-007,equity,Community-governed knowledge is not treated as automatically open,high
+STEW-008,preservation,Repository records include preservation status,medium

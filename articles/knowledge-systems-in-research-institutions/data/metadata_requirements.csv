@@ -1,0 +1,16 @@
+object_type,required_field,purpose
+publication,title,human-readable identification
+publication,doi_or_url,persistent access and citation
+publication,related_dataset,research traceability
+publication,related_software,reproducibility
+dataset,creator,authorship and stewardship
+dataset,method,interpretation and reuse
+dataset,access_condition,ethical and legal governance
+dataset,data_dictionary,reuse readiness
+software,repository_url,access and reproducibility
+software,environment,computational reproducibility
+governance_record,review_status,institutional compliance
+governance_record,linked_object,traceability
+community_record,community_review_status,accountability
+community_record,access_condition,responsible stewardship
+repository,preservation_status,long-term availability

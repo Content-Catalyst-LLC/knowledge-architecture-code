@@ -1,0 +1,13 @@
+object_id,title,object_type,has_metadata,access_level,status
+research_article,Published Research Article,publication,true,open,active
+dataset,Research Dataset,dataset,true,restricted,active
+code_repo,Code Repository,software,true,open,active
+ethics_protocol,Ethics Protocol,governance_record,true,internal,active
+data_management_plan,Data Management Plan,governance_record,true,internal,active
+lab_notebook,Laboratory Notebook,research_record,false,internal,active
+institutional_repository,Institutional Repository,repository,true,open,active
+community_agreement,Community Research Agreement,community_record,false,community_governed,active
+public_report,Public Research Report,publication,true,open,active
+source_fair,FAIR Guiding Principles,source,true,open,active
+source_unesco,UNESCO Recommendation on Open Science,source,true,open,active
+source_oecd,OECD Publicly Funded Data Guidance,source,true,open,active
