@@ -1,20 +1,22 @@
 # Knowledge Architecture Code
 
-Companion code, datasets, documentation, and reproducible research assets for the Knowledge Architecture knowledge series.
+Professional research and code assets for the Knowledge Architecture article series.
 
-This repository is organized around article-level folders under `articles/`. Each article folder follows a compact, professional structure:
+This repository mirrors article-level research scaffolds with reproducible examples, small synthetic datasets, documentation, validation utilities, and outputs. Each folder under `articles/` corresponds to a published article and is designed to support serious knowledge-system analysis rather than generic toy examples.
 
-```text
-python/   — analytical workflows and graph/taxonomy diagnostics
-r/        — statistical summaries and reproducible reporting
-julia/    — high-performance structural exploration
-sql/      — schemas for concepts, relationships, metadata, and governance
-rust/     — command-line validation utilities
-go/       — graph and pathway analysis scaffolds
-cpp/      — efficient discrete-structure examples
-fortran/  — recurrence and numerical-structure examples
-c/        — low-level parsing and counting utilities
-docs/     — article notes and model documentation
-data/     — small synthetic datasets
-outputs/  — generated outputs
-```
+## Repository Pattern
+
+Each article folder may include:
+
+- `python/` — diagnostics, graph modeling, metadata audits, and reproducible utilities
+- `r/` — summaries, coverage audits, and analytical tables
+- `julia/` — mathematical or computational exploration
+- `sql/` — schemas for concepts, relationships, metadata, evidence, and governance
+- `rust/` — CLI validation or strongly typed tooling
+- `go/` — lightweight services or validation utilities
+- `cpp/` — efficient structural analysis examples
+- `fortran/` — numerical or legacy scientific-computing examples where useful
+- `c/` — low-level structural or parsing examples
+- `docs/` — research notes, data dictionaries, governance checklists, and model documentation
+- `data/` — small synthetic datasets
+- `outputs/` — generated or expected outputs

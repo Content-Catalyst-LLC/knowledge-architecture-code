@@ -1,0 +1,10 @@
+object_id,title,object_type,has_metadata_context
+publications,Publications,landing_page,true
+knowledge_architecture,Knowledge Architecture,article_map,true
+ia_vs_ka,Information Architecture vs. Knowledge Architecture,article,true
+taxonomy_design,Taxonomy Design for Knowledge Systems,article,true
+hierarchical_structures,Hierarchical Knowledge Structures,article,true
+ontologies_semantic_networks,Ontologies and Semantic Networks,article,true
+knowledge_graphs,Knowledge Graphs and Semantic Relationships,article,true
+repository_folder,Article Repository Folder,repository,false
+w3c_skos,W3C SKOS Reference,source,true

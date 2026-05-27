@@ -1,0 +1,10 @@
+object_id,title,object_type,navigation_degree,semantic_degree,has_metadata_context,alignment_issue
+publications,Publications,landing_page,1,0,True,Navigable but semantically underdeveloped
+knowledge_architecture,Knowledge Architecture,article_map,6,4,True,
+ia_vs_ka,Information Architecture vs. Knowledge Architecture,article,4,5,True,
+taxonomy_design,Taxonomy Design for Knowledge Systems,article,2,3,True,
+hierarchical_structures,Hierarchical Knowledge Structures,article,1,0,True,Navigable but semantically underdeveloped
+ontologies_semantic_networks,Ontologies and Semantic Networks,article,1,1,True,
+knowledge_graphs,Knowledge Graphs and Semantic Relationships,article,2,3,True,
+repository_folder,Article Repository Folder,repository,1,2,False,Missing metadata context
+w3c_skos,W3C SKOS Reference,source,0,2,True,Semantically connected but weakly visible in navigation

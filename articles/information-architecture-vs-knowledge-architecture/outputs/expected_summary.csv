@@ -1,0 +1,7 @@
+metric,value
+object_count,9
+navigation_link_count,9
+semantic_relationship_count,10
+expected_navigation_coverage,0.889
+expected_semantic_coverage,0.889
+expected_metadata_context_coverage,0.889

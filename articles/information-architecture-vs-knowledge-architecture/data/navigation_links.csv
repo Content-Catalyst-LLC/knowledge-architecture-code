@@ -1,0 +1,10 @@
+source_object_id,target_object_id,navigation_type,label
+publications,knowledge_architecture,gateway,Article Map
+knowledge_architecture,ia_vs_ka,article_map,Information Architecture vs Knowledge Architecture
+knowledge_architecture,taxonomy_design,article_map,Taxonomy Design
+knowledge_architecture,hierarchical_structures,article_map,Hierarchical Knowledge Structures
+knowledge_architecture,ontologies_semantic_networks,article_map,Ontologies and Semantic Networks
+knowledge_architecture,knowledge_graphs,article_map,Knowledge Graphs
+ia_vs_ka,repository_folder,repository_link,Complete Code Repository
+ia_vs_ka,taxonomy_design,related_article,Related Article
+ia_vs_ka,knowledge_graphs,related_article,Related Article

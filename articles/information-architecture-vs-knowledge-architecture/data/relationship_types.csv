@@ -1,0 +1,10 @@
+relationship_type,definition,layer
+belongsToSeries,Connects an article to its knowledge series,KA
+contrastsWith,Indicates a meaningful conceptual distinction,KA
+discussesRelatedArticle,Connects an article to a conceptually adjacent article,shared
+supportedByRepository,Connects an article to a reproducible repository folder,KA
+citesSource,Connects a knowledge object to a supporting reference,KA
+supportsArticle,Connects a repository artifact to the article it supports,KA
+gateway,Visible top-navigation pathway,IA
+article_map,Visible article-map pathway,IA
+related_article,Visible related-article pathway,IA
