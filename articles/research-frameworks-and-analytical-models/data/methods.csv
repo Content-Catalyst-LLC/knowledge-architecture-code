@@ -1,0 +1,5 @@
+method_id,method_name,method_type,purpose,limitations
+M001,Relationship audit,graph_diagnostic,Inspect named relationships among framework elements,Requires careful relationship definitions.
+M002,Evidence coverage audit,coverage_diagnostic,Identify which elements are supported by evidence,Does not judge evidence quality by itself.
+M003,Role balance summary,descriptive,Show distribution of conceptual methodological empirical and governance roles,Uneven role balance may be justified by scope.
+M004,Framework revision log,governance,Track changes to assumptions concepts and relationships,Depends on consistent editorial practice.

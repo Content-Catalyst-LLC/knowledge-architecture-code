@@ -1,0 +1,10 @@
+source_id,target_id,relationship_type,documented,assumption_note
+E001,E002,defines_scope,true,The research problem determines which concepts are relevant.
+E002,E006,informs,true,Concepts shape the model structure.
+E003,E006,shapes,true,Assumptions influence how the model represents relationships.
+E004,E006,supports,true,Evidence supports or challenges model elements.
+E005,E004,generates_or_analyzes,true,Methods produce structure or interpret evidence.
+E006,E007,guides,true,The analytical model shapes interpretation of outputs.
+E008,E006,tests,false,Validation practices test model coherence and limitations.
+E007,E009,may_require,true,Interpretation can require framework revision.
+E009,E002,refines,false,Revision can refine the conceptual structure.

@@ -1,0 +1,10 @@
+element_id,label,role,degree,incoming,outgoing,evidence_status
+E006,Analytical Model,modeling,5,4,1,documented
+E002,Concepts,conceptual,3,2,1,documented
+E004,Evidence,empirical,2,1,1,documented
+E007,Interpretation,analytical,2,1,1,documented
+E009,Revision,governance,2,1,1,underdeveloped
+E001,Research Problem,scope,1,0,1,documented
+E003,Assumptions,interpretive,1,0,1,provisional
+E005,Methods,methodological,1,0,1,documented
+E008,Validation,quality,1,0,1,underdeveloped

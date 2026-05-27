@@ -1,0 +1,6 @@
+issue_type,object_id,detail
+element_status,E003,provisional
+element_status,E008,underdeveloped
+element_status,E009,underdeveloped
+undocumented_relationship,relationship_7,tests
+undocumented_relationship,relationship_9,refines

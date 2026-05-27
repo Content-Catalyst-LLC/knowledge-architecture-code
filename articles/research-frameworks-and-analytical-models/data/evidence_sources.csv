@@ -1,0 +1,5 @@
+evidence_id,citation,source_type,url,notes
+S001,"Jabareen 2009 Building a Conceptual Framework",journal_article,https://journals.sagepub.com/doi/10.1177/160940690900800406,Framework-building procedure and qualitative method context.
+S002,"Rocco and Plakhotnik 2009 Literature Reviews Conceptual Frameworks and Theoretical Frameworks",journal_article,https://journals.sagepub.com/doi/10.1177/1534484309332617,Distinctions among framework types.
+S003,"W3C RDF 1.1 Concepts and Abstract Syntax",technical_standard,https://www.w3.org/TR/rdf11-concepts/,Semantic relationship modeling reference.
+S004,"W3C SKOS Simple Knowledge Organization System Reference",technical_standard,https://www.w3.org/TR/skos-reference/,Controlled vocabulary and knowledge organization reference.

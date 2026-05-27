@@ -1,0 +1,10 @@
+element_id,label,role,evidence_status,definition
+E001,Research Problem,scope,documented,The central question or problem the framework is designed to examine.
+E002,Concepts,conceptual,documented,The main ideas or constructs used to organize the inquiry.
+E003,Assumptions,interpretive,provisional,The premises that shape interpretation and model design.
+E004,Evidence,empirical,documented,The sources data or observations used to support analysis.
+E005,Methods,methodological,documented,The procedures used to collect analyze or interpret evidence.
+E006,Analytical Model,modeling,documented,The structured representation used to examine relationships.
+E007,Interpretation,analytical,documented,The meaning assigned to outputs within the framework.
+E008,Validation,quality,underdeveloped,Checks for coherence reproducibility limitations and robustness.
+E009,Revision,governance,underdeveloped,Processes for updating the framework as evidence and interpretation evolve.
