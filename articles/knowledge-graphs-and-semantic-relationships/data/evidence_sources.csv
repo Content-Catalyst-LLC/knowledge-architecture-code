@@ -1,0 +1,9 @@
+provenance_id,source_label,source_type,url,note
+article_metadata,Article metadata,editorial_rationale,,Article-level metadata and series placement
+article_body,Article body,article_body,,Relationship asserted in the article text
+github_link,GitHub repository link,repository_metadata,https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-graphs-and-semantic-relationships,Repository path supporting the article
+w3c_rdf,W3C RDF 1.1 Concepts,standard,https://www.w3.org/TR/rdf11-concepts/,Primary standards source for RDF triples
+w3c_skos,W3C SKOS Reference,standard,https://www.w3.org/TR/skos-reference/,Primary standards source for SKOS concept schemes
+w3c_owl,W3C OWL 2 Primer,standard,https://www.w3.org/TR/owl2-primer/,Primary standards source for OWL ontology modeling
+hogan_kg,Hogan et al. Knowledge Graphs,reference,https://doi.org/10.1145/3447772,Scholarly overview of knowledge graphs
+semantic_model,Semantic model,synthetic_example,,Synthetic semantic model used for article demonstration

@@ -1,3 +1,8 @@
-# C++ Scaffold
+# C++ Graph Utility
 
-Efficient discrete-structure and graph examples for `knowledge-graphs-and-semantic-relationships`.
+Run from the article folder:
+
+```bash
+g++ -std=c++17 cpp/kg_degree.cpp -o outputs/kg_degree_cpp
+./outputs/kg_degree_cpp
+```

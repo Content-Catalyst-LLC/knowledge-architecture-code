@@ -1,0 +1,13 @@
+node_id,label,node_type,description,status
+ka,Knowledge Architecture,Series,Knowledge series on frameworks taxonomies ontologies metadata knowledge graphs and intellectual infrastructure,active
+kg_article,Knowledge Graphs and Semantic Relationships,Article,Article explaining graph-based semantic relationships in knowledge architecture,active
+taxonomy,Taxonomy Design,Concept,Classification of concepts into categories vocabularies and hierarchies,active
+ontology,Ontology Modeling,Concept,Formal modeling of classes properties entities and relationships,active
+metadata,Metadata Systems,Concept,Structured context for retrieval provenance status and governance,active
+rdf,RDF Triple,StandardConcept,Subject predicate object structure used in RDF semantic modeling,active
+skos,SKOS,Standard,Simple Knowledge Organization System for controlled vocabularies and concept schemes,active
+owl,OWL,Standard,Web Ontology Language for formal ontology modeling,active
+ai_retrieval,AI-Assisted Retrieval,Application,Retrieval workflows that use structured context and semantic relationships,active
+repo,Article Repository Folder,RepositoryFolder,GitHub folder containing reproducible article assets,active
+source_w3c_rdf,W3C RDF Documentation,EvidenceSource,W3C source documentation for RDF concepts,active
+source_hogan_kg,Hogan et al. Knowledge Graphs,EvidenceSource,Scholarly reference on knowledge graphs,active

@@ -1,0 +1,6 @@
+Suggested local runs from this article folder:
+
+python3 python/knowledge_graph_pipeline.py
+python3 python/relationship_provenance_audit.py
+Rscript r/knowledge_graph_diagnostics.R
+julia julia/knowledge_graph_metrics.jl

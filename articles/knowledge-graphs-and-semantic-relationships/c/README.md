@@ -1,3 +1,8 @@
-# C Scaffold
+# C Utility Scaffold
 
-Low-level sequence, graph, and file-processing utilities for `knowledge-graphs-and-semantic-relationships`.
+Run from the article folder:
+
+```bash
+cc c/kg_edge_validate.c -o outputs/kg_edge_validate_c
+./outputs/kg_edge_validate_c
+```

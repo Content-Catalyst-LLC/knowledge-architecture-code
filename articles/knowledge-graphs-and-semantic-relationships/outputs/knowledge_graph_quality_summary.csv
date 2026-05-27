@@ -1,0 +1,8 @@
+metric,value
+node_count,12
+edge_count,14
+relationship_type_count,8
+orphan_count,0
+provenance_coverage,1.0
+directed_graph_density,0.106
+warning_count,0

@@ -1,0 +1,11 @@
+relationship_type_id,label,domain_node_type,range_node_type,definition
+belongsToSeries,belongs to series,Article,Series,Connects an article to its knowledge series or article map
+discussesConcept,discusses concept,Article,Concept,Indicates that an article substantially discusses a concept
+supportedByRepository,supported by repository,Article,RepositoryFolder,Connects a publication to its reproducible companion repository folder
+definesStandardConcept,defines standard concept,EvidenceSource,StandardConcept,Indicates that a source defines or documents a standard concept
+canUseStandard,can use standard,Concept,Standard,Indicates that a concept or practice can use a technical standard
+supports,supports,Concept,Application,Indicates that one concept supports an application or workflow
+grounds,grounds,Concept,Application,Indicates that a semantic structure grounds or contextualizes an application
+relatedTo,related to,Concept,Concept,Associative relationship between concepts without hierarchy
+isBroaderThan,is broader than,Concept,Concept,Indicates a broader-to-narrower conceptual relationship
+contrastsWith,contrasts with,Concept,Concept,Indicates conceptual distinction or contrast

@@ -1,18 +1,20 @@
 # Knowledge Graphs and Semantic Relationships
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+Professional companion repository folder for the Knowledge Architecture article **Knowledge Graphs and Semantic Relationships**.
 
 ## Repository Structure
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+- `python/` — knowledge-graph construction, diagnostics, provenance coverage, and semantic relationship audits
+- `r/` — node-type summaries, relationship diagnostics, provenance coverage, and graph quality review
+- `julia/` — graph metrics, adjacency structures, and high-performance relationship analysis scaffold
+- `sql/` — graph nodes, relationship types, edge provenance, evidence sources, and governance schemas
+- `rust/` — CLI validation scaffold for node/edge integrity and relationship typing
+- `go/` — graph audit utility scaffold for repository and metadata checks
+- `cpp/` — efficient graph-degree and edge-list processing examples
+- `fortran/` — adjacency and relationship-count examples for numerical graph diagnostics
+- `c/` — low-level CSV and edge-list validation utilities
+- `docs/` — methodology notes, data dictionary, governance notes, and WordPress GitHub block
+- `data/` — small synthetic node, edge, relationship, and provenance datasets
+- `outputs/` — generated tables and diagnostic outputs
+
+GitHub article folder: https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-graphs-and-semantic-relationships

@@ -1,0 +1,15 @@
+edge_id,source_node_id,relationship_type_id,target_node_id,confidence_level,provenance_id
+E001,kg_article,belongsToSeries,ka,reviewed,article_metadata
+E002,kg_article,discussesConcept,taxonomy,reviewed,article_body
+E003,kg_article,discussesConcept,ontology,reviewed,article_body
+E004,kg_article,discussesConcept,metadata,reviewed,article_body
+E005,kg_article,supportedByRepository,repo,reviewed,github_link
+E006,source_w3c_rdf,definesStandardConcept,rdf,authoritative,w3c_rdf
+E007,ontology,canUseStandard,owl,reviewed,w3c_owl
+E008,taxonomy,canUseStandard,skos,reviewed,w3c_skos
+E009,ontology,canUseStandard,rdf,reviewed,w3c_rdf
+E010,metadata,supports,ai_retrieval,reviewed,article_body
+E011,ontology,grounds,ai_retrieval,reviewed,article_body
+E012,taxonomy,relatedTo,ontology,reviewed,semantic_model
+E013,ontology,relatedTo,metadata,reviewed,semantic_model
+E014,source_hogan_kg,definesStandardConcept,ai_retrieval,provisional,hogan_kg

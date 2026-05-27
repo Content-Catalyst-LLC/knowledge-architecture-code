@@ -1,3 +1,8 @@
 # Fortran Scaffold
 
-Recurrence, sequence, and numerical-structure examples for `knowledge-graphs-and-semantic-relationships`.
+Run from the article folder:
+
+```bash
+gfortran fortran/relationship_counts.f90 -o outputs/relationship_counts_f90
+./outputs/relationship_counts_f90
+```

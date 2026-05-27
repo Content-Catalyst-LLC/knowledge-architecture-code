@@ -1,0 +1,7 @@
+{
+  "required_node_fields": ["node_id", "label", "node_type", "status"],
+  "required_edge_fields": ["edge_id", "source_node_id", "relationship_type_id", "target_node_id", "confidence_level", "provenance_id"],
+  "allowed_confidence_levels": ["provisional", "reviewed", "authoritative"],
+  "allowed_status_values": ["active", "provisional", "deprecated", "archival"],
+  "governance_note": "Edges should use defined relationship types and include provenance whenever possible."
+}

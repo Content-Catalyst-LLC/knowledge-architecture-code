@@ -1,0 +1,9 @@
+relationship_type_id,edge_count
+belongsToSeries,1
+canUseStandard,3
+definesStandardConcept,2
+discussesConcept,3
+grounds,1
+relatedTo,2
+supportedByRepository,1
+supports,1

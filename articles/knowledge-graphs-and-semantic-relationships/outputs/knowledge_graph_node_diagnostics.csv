@@ -1,0 +1,13 @@
+node_id,label,node_type,degree,in_degree,out_degree,is_orphan,status
+ka,Knowledge Architecture,Series,1,1,0,False,active
+kg_article,Knowledge Graphs and Semantic Relationships,Article,5,0,5,False,active
+taxonomy,Taxonomy Design,Concept,3,1,2,False,active
+ontology,Ontology Modeling,Concept,6,2,4,False,active
+metadata,Metadata Systems,Concept,3,2,1,False,active
+rdf,RDF Triple,StandardConcept,2,2,0,False,active
+skos,SKOS,Standard,1,1,0,False,active
+owl,OWL,Standard,1,1,0,False,active
+ai_retrieval,AI-Assisted Retrieval,Application,3,3,0,False,active
+repo,Article Repository Folder,RepositoryFolder,1,1,0,False,active
+source_w3c_rdf,W3C RDF Documentation,EvidenceSource,1,0,1,False,active
+source_hogan_kg,Hogan et al. Knowledge Graphs,EvidenceSource,1,0,1,False,active

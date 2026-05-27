@@ -1,3 +1,10 @@
-# Go Scaffold
+# Go Audit Scaffold
 
-Graph, pathway, and repository-analysis scaffold for `knowledge-graphs-and-semantic-relationships`.
+Run from this article folder:
+
+```bash
+cd go
+go run .
+```
+
+The Go scaffold validates node references in the edge list.

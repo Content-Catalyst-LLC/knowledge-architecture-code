@@ -1,0 +1,15 @@
+edge_id,relationship_type_id,provenance_id,has_provenance_record,source_type
+E001,belongsToSeries,article_metadata,True,editorial_rationale
+E002,discussesConcept,article_body,True,article_body
+E003,discussesConcept,article_body,True,article_body
+E004,discussesConcept,article_body,True,article_body
+E005,supportedByRepository,github_link,True,repository_metadata
+E006,definesStandardConcept,w3c_rdf,True,standard
+E007,canUseStandard,w3c_owl,True,standard
+E008,canUseStandard,w3c_skos,True,standard
+E009,canUseStandard,w3c_rdf,True,standard
+E010,supports,article_body,True,article_body
+E011,grounds,article_body,True,article_body
+E012,relatedTo,semantic_model,True,synthetic_example
+E013,relatedTo,semantic_model,True,synthetic_example
+E014,definesStandardConcept,hogan_kg,True,reference
