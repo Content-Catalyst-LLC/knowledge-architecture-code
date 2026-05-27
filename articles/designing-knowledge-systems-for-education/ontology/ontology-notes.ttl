@@ -1,0 +1,5 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:designing_knowledge_systems_for_education dcterms:title "Designing Knowledge Systems for Education" ;
+  dcterms:isPartOf ka:KnowledgeArchitecture .

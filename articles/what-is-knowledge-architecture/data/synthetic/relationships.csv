@@ -1,0 +1,4 @@
+source,target,relationship
+What Is Knowledge Architecture?,Foundations and Core Architecture,belongs_to_section
+What Is Knowledge Architecture?,Knowledge Architecture,belongs_to_pillar
+Foundations and Core Architecture,Knowledge Architecture,is_part_of

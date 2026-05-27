@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Article Concept Schema",
+  "type": "object",
+  "required": ["concept_id", "label", "domain", "level"],
+  "properties": {
+    "concept_id": { "type": "string" },
+    "label": { "type": "string" },
+    "domain": { "type": "string" },
+    "level": { "type": "integer" }
+  }
+}

@@ -1,0 +1,24 @@
+title: "Knowledge Architecture in Digital Libraries"
+slug: "knowledge-architecture-in-digital-libraries"
+section: "Information Architecture, Digital Platforms, and Research Infrastructure"
+site_url: "https://sustainablecatalyst.com/knowledge-architecture-in-digital-libraries/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-architecture-in-digital-libraries"
+description: "An article on cataloging, classification, controlled vocabularies, archives, digital collections, and long-term discoverability."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

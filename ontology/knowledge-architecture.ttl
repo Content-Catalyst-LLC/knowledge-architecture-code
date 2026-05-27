@@ -1,0 +1,11 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:KnowledgeArchitecture a ka:KnowledgeDomain ;
+  dcterms:title "Knowledge Architecture" ;
+  dcterms:description "A knowledge domain concerned with intellectual infrastructure, taxonomies, ontologies, semantic networks, knowledge graphs, research pathways, and governed knowledge systems." .
+
+ka:Article a ka:Class .
+ka:Section a ka:Class .
+ka:Concept a ka:Class .
+ka:Relationship a ka:Class .

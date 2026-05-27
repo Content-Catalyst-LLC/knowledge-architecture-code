@@ -1,0 +1,4 @@
+source,target,relationship
+Designing Scalable Knowledge Systems,Education, AI, Collaboration, and Future Knowledge Platforms,belongs_to_section
+Designing Scalable Knowledge Systems,Knowledge Architecture,belongs_to_pillar
+Education, AI, Collaboration, and Future Knowledge Platforms,Knowledge Architecture,is_part_of

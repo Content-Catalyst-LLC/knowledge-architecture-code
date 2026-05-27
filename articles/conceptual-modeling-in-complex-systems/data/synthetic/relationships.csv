@@ -1,0 +1,4 @@
+source,target,relationship
+Conceptual Modeling in Complex Systems,Interdisciplinary Research, Systems, Sustainability, and Governance,belongs_to_section
+Conceptual Modeling in Complex Systems,Knowledge Architecture,belongs_to_pillar
+Interdisciplinary Research, Systems, Sustainability, and Governance,Knowledge Architecture,is_part_of

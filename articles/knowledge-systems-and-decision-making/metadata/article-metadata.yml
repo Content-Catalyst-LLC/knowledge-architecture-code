@@ -1,0 +1,24 @@
+title: "Knowledge Systems and Decision-Making"
+slug: "knowledge-systems-and-decision-making"
+section: "Interdisciplinary Research, Systems, Sustainability, and Governance"
+site_url: "https://sustainablecatalyst.com/knowledge-systems-and-decision-making/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-systems-and-decision-making"
+description: "A study of how structured knowledge supports strategic, scientific, institutional, and public decision-making."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

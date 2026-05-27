@@ -1,0 +1,5 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:information_architecture_vs_knowledge_architecture dcterms:title "Information Architecture vs. Knowledge Architecture" ;
+  dcterms:isPartOf ka:KnowledgeArchitecture .

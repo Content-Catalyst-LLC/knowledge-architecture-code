@@ -1,0 +1,24 @@
+title: "Taxonomy Design for Knowledge Systems"
+slug: "taxonomy-design-for-knowledge-systems"
+section: "Taxonomies, Hierarchies, Ontologies, and Semantic Structure"
+site_url: "https://sustainablecatalyst.com/taxonomy-design-for-knowledge-systems/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/taxonomy-design-for-knowledge-systems"
+description: "An article on category logic, controlled vocabularies, hierarchical classification, scalability, and taxonomy governance."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

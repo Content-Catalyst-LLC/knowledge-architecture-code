@@ -1,0 +1,4 @@
+source,target,relationship
+Framework Design in Policy Research,Interdisciplinary Research, Systems, Sustainability, and Governance,belongs_to_section
+Framework Design in Policy Research,Knowledge Architecture,belongs_to_pillar
+Interdisciplinary Research, Systems, Sustainability, and Governance,Knowledge Architecture,is_part_of

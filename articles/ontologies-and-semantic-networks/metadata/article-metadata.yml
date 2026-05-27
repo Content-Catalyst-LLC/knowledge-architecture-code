@@ -1,0 +1,24 @@
+title: "Ontologies and Semantic Networks"
+slug: "ontologies-and-semantic-networks"
+section: "Taxonomies, Hierarchies, Ontologies, and Semantic Structure"
+site_url: "https://sustainablecatalyst.com/ontologies-and-semantic-networks/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/ontologies-and-semantic-networks"
+description: "An article on formal entities, properties, relationships, semantic modeling, and machine-readable conceptual structure."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

@@ -1,0 +1,5 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:knowledge_systems_in_research_institutions dcterms:title "Knowledge Systems in Research Institutions" ;
+  dcterms:isPartOf ka:KnowledgeArchitecture .

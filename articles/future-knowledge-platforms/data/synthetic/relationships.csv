@@ -1,0 +1,4 @@
+source,target,relationship
+Future Knowledge Platforms,Education, AI, Collaboration, and Future Knowledge Platforms,belongs_to_section
+Future Knowledge Platforms,Knowledge Architecture,belongs_to_pillar
+Education, AI, Collaboration, and Future Knowledge Platforms,Knowledge Architecture,is_part_of

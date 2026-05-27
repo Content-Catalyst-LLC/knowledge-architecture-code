@@ -1,0 +1,5 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:knowledge_systems_and_decision_making dcterms:title "Knowledge Systems and Decision-Making" ;
+  dcterms:isPartOf ka:KnowledgeArchitecture .

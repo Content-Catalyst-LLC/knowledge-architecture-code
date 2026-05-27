@@ -1,0 +1,4 @@
+source,target,relationship
+Taxonomy Design for Knowledge Systems,Taxonomies, Hierarchies, Ontologies, and Semantic Structure,belongs_to_section
+Taxonomy Design for Knowledge Systems,Knowledge Architecture,belongs_to_pillar
+Taxonomies, Hierarchies, Ontologies, and Semantic Structure,Knowledge Architecture,is_part_of

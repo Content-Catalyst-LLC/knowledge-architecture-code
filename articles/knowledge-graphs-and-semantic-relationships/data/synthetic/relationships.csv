@@ -1,0 +1,4 @@
+source,target,relationship
+Knowledge Graphs and Semantic Relationships,Taxonomies, Hierarchies, Ontologies, and Semantic Structure,belongs_to_section
+Knowledge Graphs and Semantic Relationships,Knowledge Architecture,belongs_to_pillar
+Taxonomies, Hierarchies, Ontologies, and Semantic Structure,Knowledge Architecture,is_part_of

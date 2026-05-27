@@ -1,0 +1,4 @@
+source,target,relationship
+Knowledge Systems in Research Institutions,Information Architecture, Digital Platforms, and Research Infrastructure,belongs_to_section
+Knowledge Systems in Research Institutions,Knowledge Architecture,belongs_to_pillar
+Information Architecture, Digital Platforms, and Research Infrastructure,Knowledge Architecture,is_part_of

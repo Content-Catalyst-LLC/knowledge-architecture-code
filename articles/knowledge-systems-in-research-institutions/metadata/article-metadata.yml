@@ -1,0 +1,24 @@
+title: "Knowledge Systems in Research Institutions"
+slug: "knowledge-systems-in-research-institutions"
+section: "Information Architecture, Digital Platforms, and Research Infrastructure"
+site_url: "https://sustainablecatalyst.com/knowledge-systems-in-research-institutions/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-systems-in-research-institutions"
+description: "An article on how universities, think tanks, laboratories, public agencies, and research centers structure institutional knowledge."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

@@ -1,0 +1,24 @@
+title: "Information Architecture vs. Knowledge Architecture"
+slug: "information-architecture-vs-knowledge-architecture"
+section: "Information Architecture, Digital Platforms, and Research Infrastructure"
+site_url: "https://sustainablecatalyst.com/information-architecture-vs-knowledge-architecture/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/information-architecture-vs-knowledge-architecture"
+description: "A comparative article distinguishing navigation, labeling, and findability from deeper conceptual and semantic structure."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

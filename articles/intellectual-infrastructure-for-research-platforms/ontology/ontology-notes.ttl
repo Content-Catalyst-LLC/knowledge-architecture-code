@@ -1,0 +1,5 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:intellectual_infrastructure_for_research_platforms dcterms:title "Intellectual Infrastructure for Research Platforms" ;
+  dcterms:isPartOf ka:KnowledgeArchitecture .

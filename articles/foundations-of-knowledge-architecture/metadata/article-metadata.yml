@@ -1,0 +1,24 @@
+title: "Foundations of Knowledge Architecture"
+slug: "foundations-of-knowledge-architecture"
+section: "Foundations and Core Architecture"
+site_url: "https://sustainablecatalyst.com/foundations-of-knowledge-architecture/"
+repository_url: "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/foundations-of-knowledge-architecture"
+description: "An opening article on why complex information requires frameworks, classification, conceptual relationships, and structural governance."
+status: scaffolded
+pillar: Knowledge Architecture
+methods:
+  - taxonomy design
+  - semantic relationship modeling
+  - knowledge graph diagnostics
+  - metadata governance
+  - reproducible documentation
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran

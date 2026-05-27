@@ -1,0 +1,9 @@
+source,target,relationship
+Knowledge Architecture,Taxonomy Design,includes
+Knowledge Architecture,Ontology Modeling,includes
+Knowledge Architecture,Semantic Networks,includes
+Semantic Networks,Knowledge Graphs,supports
+Taxonomy Design,Information Architecture,supports
+Digital Knowledge Platforms,Governance Systems,requires
+AI Knowledge Organization,Ontology Modeling,depends_on
+Interdisciplinary Knowledge Design,Knowledge Architecture,applies

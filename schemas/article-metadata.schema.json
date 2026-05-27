@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Knowledge Architecture Article Metadata",
+  "type": "object",
+  "required": ["title", "slug", "section", "site_url", "repository_url"],
+  "properties": {
+    "title": { "type": "string" },
+    "slug": { "type": "string" },
+    "section": { "type": "string" },
+    "site_url": { "type": "string", "format": "uri" },
+    "repository_url": { "type": "string", "format": "uri" },
+    "description": { "type": "string" },
+    "status": { "type": "string" },
+    "methods": { "type": "array", "items": { "type": "string" } },
+    "languages": { "type": "array", "items": { "type": "string" } }
+  }
+}

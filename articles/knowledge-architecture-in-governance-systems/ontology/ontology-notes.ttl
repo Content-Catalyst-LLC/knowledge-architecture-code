@@ -1,0 +1,5 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+ka:knowledge_architecture_in_governance_systems dcterms:title "Knowledge Architecture in Governance Systems" ;
+  dcterms:isPartOf ka:KnowledgeArchitecture .

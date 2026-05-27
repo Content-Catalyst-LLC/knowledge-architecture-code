@@ -1,0 +1,4 @@
+source,target,relationship
+Hierarchical Knowledge Structures,Taxonomies, Hierarchies, Ontologies, and Semantic Structure,belongs_to_section
+Hierarchical Knowledge Structures,Knowledge Architecture,belongs_to_pillar
+Taxonomies, Hierarchies, Ontologies, and Semantic Structure,Knowledge Architecture,is_part_of

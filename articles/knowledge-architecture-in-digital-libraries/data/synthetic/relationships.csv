@@ -1,0 +1,4 @@
+source,target,relationship
+Knowledge Architecture in Digital Libraries,Information Architecture, Digital Platforms, and Research Infrastructure,belongs_to_section
+Knowledge Architecture in Digital Libraries,Knowledge Architecture,belongs_to_pillar
+Information Architecture, Digital Platforms, and Research Infrastructure,Knowledge Architecture,is_part_of
