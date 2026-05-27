@@ -1,0 +1,13 @@
+metric,value
+concept_count,8
+crosswalk_count,6
+discipline_count,8
+method_count,8
+evidence_type_count,7
+scope_note_coverage,0.875
+method_context_coverage,0.875
+relationship_traceability,0.833
+false_equivalence_risk,0.167
+orphan_count,0
+review_needed_count,2
+relationship_type_count,5

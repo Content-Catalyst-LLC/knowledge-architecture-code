@@ -1,0 +1,10 @@
+check_id,layer,check_name,severity
+ID-001,concepts,Every concept has a discipline context,high
+ID-002,concepts,Every concept has a scope note or review flag,high
+ID-003,methods,Concepts include method context where relevant,medium
+ID-004,crosswalks,Crosswalk relationships are typed and documented,high
+ID-005,crosswalks,Generic related links are reviewed for false-equivalence risk,high
+ID-006,evidence,Evidence types are distinguished and documented,high
+ID-007,ai,AI retrieval distinguishes similarity from equivalence,high
+ID-008,equity,Community-governed and marginalized knowledge are reviewed responsibly,high
+ID-009,revision,Contested terms and crosswalks have revision paths,medium

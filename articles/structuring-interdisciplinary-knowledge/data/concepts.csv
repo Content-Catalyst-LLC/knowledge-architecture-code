@@ -1,6 +1,9 @@
-concept_id,label,domain,depth
-C1,Structuring Interdisciplinary Knowledge,article,0
-C2,Taxonomy,structure,1
-C3,Ontology,semantic,1
-C4,Knowledge Graph,graph,1
-C5,Metadata,governance,2
+concept_id,preferred_label,discipline_id,definition,has_scope_note,has_method_context,status
+resilience_ecology,Resilience,ecology,Capacity of ecological systems to absorb disturbance and reorganize,true,true,active
+resilience_psychology,Resilience,psychology,Adaptation and functioning after adversity,true,true,active
+resilience_infrastructure,Resilience,infrastructure,System performance continuity and recovery under stress,true,true,active
+risk_finance,Risk,finance,Exposure to uncertain loss or return variation,true,true,active
+risk_public_health,Risk,public_health,Probability and severity of harm across populations,true,true,active
+governance_law,Governance,law,Structures of authority legality accountability and procedure,true,false,review_needed
+governance_political_science,Governance,political_science,Institutions rules legitimacy and collective decision-making,true,true,active
+community_knowledge,Community Knowledge,participatory_research,Situated knowledge held by communities and shaped by lived experience,false,true,review_needed

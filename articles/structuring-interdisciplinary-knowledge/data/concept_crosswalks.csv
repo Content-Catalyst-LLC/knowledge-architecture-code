@@ -1,0 +1,7 @@
+source_concept_id,relationship_type,target_concept_id,provenance_note,review_status
+resilience_ecology,closeMatch,resilience_infrastructure,shared system disturbance and recovery language,current
+resilience_psychology,relatedMatch,resilience_ecology,analogous adaptation language but different units of analysis,current
+risk_finance,relatedMatch,risk_public_health,shared uncertainty and harm language with different evidence systems,current
+governance_law,closeMatch,governance_political_science,overlapping institutional vocabulary but distinct methods,provisional
+community_knowledge,contestedMatch,governance_political_science,community authority and institutional governance may conflict,needs_review
+risk_finance,related,resilience_infrastructure,,needs_review

@@ -1,0 +1,9 @@
+concept_id,preferred_label,discipline_id,has_scope_note,has_method_context,status,crosswalk_degree,is_orphan,needs_review
+resilience_ecology,Resilience,ecology,True,True,active,2,False,False
+resilience_psychology,Resilience,psychology,True,True,active,1,False,False
+resilience_infrastructure,Resilience,infrastructure,True,True,active,2,False,False
+risk_finance,Risk,finance,True,True,active,2,False,False
+risk_public_health,Risk,public_health,True,True,active,1,False,False
+governance_law,Governance,law,True,False,review_needed,1,False,True
+governance_political_science,Governance,political_science,True,True,active,2,False,False
+community_knowledge,Community Knowledge,participatory_research,False,True,review_needed,1,False,True

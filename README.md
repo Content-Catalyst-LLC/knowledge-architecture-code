@@ -2,19 +2,21 @@
 
 Professional research and code assets for the Knowledge Architecture article series.
 
-Each folder under `articles/` supports a published article with reproducible examples, small synthetic datasets, documentation, validation utilities, SQL schemas, and generated outputs.
+This repository mirrors article-level research scaffolds with reproducible examples, small synthetic datasets, documentation, validation utilities, and outputs. Each folder under `articles/` corresponds to a published article and is designed to support serious knowledge-system analysis rather than generic toy examples.
 
-## Standard Article Folder Pattern
+## Repository Pattern
 
-- `python/` — diagnostics, audits, and reproducible utilities
-- `r/` — coverage summaries and analytical tables
-- `julia/` — computational metrics
-- `sql/` — schemas and audit queries
-- `rust/` — CLI validation scaffold
-- `go/` — lightweight validation utility
-- `cpp/` — efficient graph/coverage examples
-- `fortran/` — numerical metric examples
-- `c/` — low-level metric examples
-- `docs/` — model notes, data dictionaries, governance notes
+Each article folder may include:
+
+- `python/` — diagnostics, graph modeling, metadata audits, and reproducible utilities
+- `r/` — summaries, coverage audits, and analytical tables
+- `julia/` — mathematical or computational exploration
+- `sql/` — schemas for concepts, relationships, metadata, evidence, repositories, governance, and revisions
+- `rust/` — CLI validation or strongly typed tooling
+- `go/` — lightweight services or validation utilities
+- `cpp/` — efficient structural analysis examples
+- `fortran/` — numerical or legacy scientific-computing examples where useful
+- `c/` — low-level structural or parsing examples
+- `docs/` — research notes, data dictionaries, governance checklists, and model documentation
 - `data/` — small synthetic datasets
 - `outputs/` — generated or expected outputs

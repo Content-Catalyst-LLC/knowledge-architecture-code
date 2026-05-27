@@ -1,0 +1,8 @@
+evidence_type_id,label,typical_disciplines,review_note
+experimental_data,Experimental Data,biology psychology medicine engineering,Requires design sample and replication context
+observational_data,Observational Data,ecology economics public health sociology,Requires sampling measurement and confounding notes
+model_output,Model Output,engineering economics climate science epidemiology,Requires assumptions validation and domain limits
+legal_authority,Legal Authority,law governance,Requires jurisdiction authority level and interpretation
+archival_source,Archival Source,history religious studies humanities,Requires provenance collection context and bias review
+community_knowledge,Community Knowledge,participatory research ecology public health,Requires consent governance and attribution
+conceptual_argument,Conceptual Argument,philosophy law humanities systems analysis,Requires definitions assumptions and counterarguments

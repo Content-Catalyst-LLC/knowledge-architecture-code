@@ -1,0 +1,9 @@
+method_id,method_name,discipline_id,method_type,assumptions,limitations
+field_observation,Field Observation,ecology,observational,ecological patterns can be observed across sites,scale and measurement limitations
+survey_design,Survey Design,psychology,observational,self-reported measures can capture constructs,response and sampling bias
+systems_modeling,Systems Modeling,infrastructure,modeling,system behavior can be represented through components and flows,model assumptions may not transfer
+portfolio_modeling,Portfolio Modeling,finance,modeling,uncertainty can be represented with distributions,tail risk and social context may be underrepresented
+epidemiological_modeling,Epidemiological Modeling,public_health,modeling,population risk can be modeled statistically,data quality and confounding concerns
+legal_interpretation,Legal Interpretation,law,legal meaning depends on authority text precedent and doctrine,not reducible to empirical prediction
+institutional_analysis,Institutional Analysis,political_science,interpretive,governance depends on rules actors incentives and legitimacy,causal attribution may be difficult
+participatory_mapping,Participatory Mapping,participatory_research,participatory,community knowledge should shape interpretation,power and consent must be governed

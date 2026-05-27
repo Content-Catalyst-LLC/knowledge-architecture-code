@@ -1,0 +1,9 @@
+discipline_id,name,scope_note,parent_discipline_id,status
+ecology,Ecology,Living systems populations ecosystems and disturbance,,active
+psychology,Psychology,Human behavior cognition emotion development and adaptation,,active
+infrastructure,Infrastructure Systems,Built technical and civic systems under stress,,active
+finance,Finance,Capital allocation investment risk and markets,economics,active
+public_health,Public Health,Population health risk prevention and institutions,,active
+law,Law,Doctrine authority institutions procedure rights and interpretation,,active
+political_science,Political Science,Power institutions governance legitimacy and collective decision-making,,active
+participatory_research,Participatory Research,Community-engaged knowledge production and accountability,,active
