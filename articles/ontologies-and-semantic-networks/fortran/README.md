@@ -1,3 +1,10 @@
 # Fortran Scaffold
 
-Recurrence, sequence, and numerical-structure examples for `ontologies-and-semantic-networks`.
+Matrix-oriented semantic-network diagnostics.
+
+Suggested future utilities:
+
+- Adjacency matrix construction
+- Relationship-count matrices
+- Simple eigenvector or centrality experiments
+- Numerical summaries of semantic-network structure

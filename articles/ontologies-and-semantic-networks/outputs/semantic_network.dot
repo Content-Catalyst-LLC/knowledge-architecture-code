@@ -1,0 +1,28 @@
+digraph SemanticNetwork {
+  graph [rankdir="LR"];
+  ka [label="Knowledge Architecture\n(Domain)"];
+  ontology [label="Ontology Modeling\n(Concept)"];
+  semantic_network [label="Semantic Network\n(Concept)"];
+  taxonomy [label="Taxonomy Design\n(Concept)"];
+  metadata [label="Metadata Systems\n(Concept)"];
+  knowledge_graph [label="Knowledge Graph\n(Concept)"];
+  ai_retrieval [label="AI-Assisted Retrieval\n(Application)"];
+  rdf [label="RDF\n(Standard)"];
+  rdfs [label="RDFS\n(Standard)"];
+  owl [label="OWL\n(Standard)"];
+  skos [label="SKOS\n(Standard)"];
+  github_folder [label="Article Repository Folder\n(RepositoryFolder)"];
+  ka -> ontology [label="includes"];
+  ka -> semantic_network [label="includes"];
+  taxonomy -> skos [label="can_be_represented_with"];
+  ontology -> owl [label="can_be_represented_with"];
+  ontology -> rdfs [label="can_use"];
+  semantic_network -> knowledge_graph [label="can_inform"];
+  metadata -> ai_retrieval [label="supports"];
+  ontology -> knowledge_graph [label="structures"];
+  rdf -> knowledge_graph [label="can_encode"];
+  skos -> taxonomy [label="models"];
+  owl -> ontology [label="models"];
+  knowledge_graph -> ai_retrieval [label="supports"];
+  github_folder -> ka [label="supports"];
+}

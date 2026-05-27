@@ -1,0 +1,10 @@
+property_id,label,domain_class,range_class,definition
+isPartOfSeries,is part of series,Article,Domain,Connects an article to its broader knowledge series
+discussesConcept,discusses concept,Article,Concept,Connects an article to a concept it discusses
+usesStandard,uses standard,Article,Standard,Connects an article or method to a semantic standard
+supports,supports,KnowledgeObject,KnowledgeObject,Indicates that one object supports another
+requires,requires,KnowledgeObject,KnowledgeObject,Indicates dependency
+models,models,Standard,Concept,Indicates that a standard can model a concept or structure
+canEncode,can encode,Standard,KnowledgeObject,Indicates representational capacity
+structures,structures,Concept,KnowledgeObject,Indicates that one concept structures another object
+isRelatedTo,is related to,KnowledgeObject,KnowledgeObject,General associative relationship

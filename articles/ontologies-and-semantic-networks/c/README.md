@@ -1,3 +1,10 @@
 # C Scaffold
 
-Low-level sequence, graph, and file-processing utilities for `ontologies-and-semantic-networks`.
+Low-level CSV and edge-list parsing scaffold.
+
+Suggested future utilities:
+
+- Minimal CSV parsing
+- Edge-list validation
+- Relationship-type lookup tables
+- Lightweight command-line diagnostics

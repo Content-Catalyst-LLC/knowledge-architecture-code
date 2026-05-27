@@ -1,0 +1,13 @@
+node_id,label,node_type,definition,status
+ka,Knowledge Architecture,Domain,Design of intellectual infrastructure for organizing knowledge,active
+ontology,Ontology Modeling,Concept,Formal modeling of entities classes properties and relationships,active
+semantic_network,Semantic Network,Concept,Relationship structure connecting concepts or knowledge objects,active
+taxonomy,Taxonomy Design,Concept,Classification of concepts into categories hierarchies and vocabularies,active
+metadata,Metadata Systems,Concept,Structured contextual information about knowledge objects,active
+knowledge_graph,Knowledge Graph,Concept,Graph implementation of connected entities and relationships,active
+ai_retrieval,AI-Assisted Retrieval,Application,Retrieval workflows improved by structured semantic context,active
+rdf,RDF,Standard,Subject predicate object model for linked data statements,active
+rdfs,RDFS,Standard,RDF vocabulary for classes properties labels and subclass relationships,active
+owl,OWL,Standard,Ontology language for formal semantic modeling and reasoning,active
+skos,SKOS,Standard,Knowledge organization system for taxonomies thesauri and controlled vocabularies,active
+github_folder,Article Repository Folder,RepositoryFolder,Article-level code and documentation folder,active

@@ -1,0 +1,14 @@
+source,target,relationship,documented,evidence_note
+ka,ontology,includes,true,Ontology modeling is part of knowledge architecture
+ka,semantic_network,includes,true,Semantic networks are relationship structures within knowledge architecture
+taxonomy,skos,can_be_represented_with,true,SKOS supports controlled vocabularies and taxonomies
+ontology,owl,can_be_represented_with,true,OWL supports formal ontology modeling
+ontology,rdfs,can_use,true,RDFS supports basic classes and properties
+semantic_network,knowledge_graph,can_inform,true,Semantic networks can be implemented as knowledge graphs
+metadata,ai_retrieval,supports,true,Metadata improves retrieval context
+ontology,knowledge_graph,structures,true,Ontologies can define graph classes and relationship types
+rdf,knowledge_graph,can_encode,true,RDF triples can encode graph relationships
+skos,taxonomy,models,true,SKOS models broader narrower related preferred and alternate labels
+owl,ontology,models,true,OWL models ontology classes properties and constraints
+knowledge_graph,ai_retrieval,supports,true,Knowledge graphs can support grounded retrieval
+github_folder,ka,supports,true,Repository folder supports reproducible knowledge architecture examples

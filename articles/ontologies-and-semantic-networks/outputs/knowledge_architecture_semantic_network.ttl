@@ -1,0 +1,51 @@
+@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ka:Domain a rdfs:Class ;
+  rdfs:label "Domain" ;
+  rdfs:comment "Broad knowledge area or article-map series" .
+
+ka:Article a rdfs:Class ;
+  rdfs:label "Article" ;
+  rdfs:comment "Published knowledge object" .
+
+ka:Concept a rdfs:Class ;
+  rdfs:label "Concept" ;
+  rdfs:comment "Unit of meaning used across articles and systems" .
+
+ka:Standard a rdfs:Class ;
+  rdfs:label "Standard" ;
+  rdfs:comment "Formal or technical standard used for semantic modeling" .
+
+ka:Method a rdfs:Class ;
+  rdfs:label "Method" ;
+  rdfs:comment "Procedure for analysis modeling or validation" .
+
+ka:Dataset a rdfs:Class ;
+  rdfs:label "Dataset" ;
+  rdfs:comment "Structured data artifact" .
+
+ka:RepositoryFolder a rdfs:Class ;
+  rdfs:label "RepositoryFolder" ;
+  rdfs:comment "Folder containing reproducible article assets" .
+
+ka:EvidenceSource a rdfs:Class ;
+  rdfs:label "EvidenceSource" ;
+  rdfs:comment "Source supporting a claim definition method or model" .
+
+ka:RelationshipType a rdfs:Class ;
+  rdfs:label "RelationshipType" ;
+  rdfs:comment "Named semantic relationship" .
+
+ka:KnowledgeObject a rdfs:Class ;
+  rdfs:label "KnowledgeObject" ;
+  rdfs:comment "General class for objects in the knowledge system" .
+
+ka:Ontologies_and_Semantic_Networks ka:isPartOfSeries ka:Knowledge_Architecture .
+ka:Ontology_Modeling ka:isRelatedTo ka:Semantic_Network .
+ka:SKOS ka:models ka:Taxonomy_Design .
+ka:OWL ka:models ka:Ontology_Modeling .
+ka:RDF ka:canEncode ka:Knowledge_Graph .
+ka:Metadata_Systems ka:supports ka:AI_Assisted_Retrieval .
+ka:Knowledge_Graph ka:supports ka:AI_Assisted_Retrieval .
+ka:Article_Repository_Folder ka:supports ka:Ontologies_and_Semantic_Networks .

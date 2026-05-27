@@ -1,0 +1,13 @@
+node_id,label,node_type,degree,in_degree,out_degree,is_orphan
+ontology,Ontology Modeling,Concept,5,2,3,False
+knowledge_graph,Knowledge Graph,Concept,4,3,1,False
+ka,Knowledge Architecture,Domain,3,1,2,False
+ai_retrieval,AI-Assisted Retrieval,Application,2,2,0,False
+owl,OWL,Standard,2,1,1,False
+skos,SKOS,Standard,2,1,1,False
+semantic_network,Semantic Network,Concept,2,1,1,False
+taxonomy,Taxonomy Design,Concept,2,1,1,False
+github_folder,Article Repository Folder,RepositoryFolder,1,0,1,False
+metadata,Metadata Systems,Concept,1,0,1,False
+rdf,RDF,Standard,1,0,1,False
+rdfs,RDFS,Standard,1,1,0,False

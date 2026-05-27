@@ -1,0 +1,9 @@
+subject,predicate,object
+Ontologies and Semantic Networks,isPartOfSeries,Knowledge Architecture
+Ontology Modeling,isRelatedTo,Semantic Network
+SKOS,models,Taxonomy Design
+OWL,models,Ontology Modeling
+RDF,canEncode,Knowledge Graph
+Metadata Systems,supports,AI-Assisted Retrieval
+Knowledge Graph,supports,AI-Assisted Retrieval
+Article Repository Folder,supports,Ontologies and Semantic Networks

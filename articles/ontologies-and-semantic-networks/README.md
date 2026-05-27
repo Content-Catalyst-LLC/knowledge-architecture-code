@@ -1,18 +1,26 @@
 # Ontologies and Semantic Networks
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+Professional companion repository folder for the Knowledge Architecture article "Ontologies and Semantic Networks."
+
+## Purpose
+
+This folder provides reproducible assets for ontology design, semantic-network analysis, RDF-style triples, controlled vocabulary alignment, metadata relationship modeling, and knowledge-graph preparation.
 
 ## Repository Structure
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+- `python/` — semantic-network diagnostics, ontology exports, RDF/Turtle generation, and graph audit workflows
+- `r/` — semantic-network summaries, relationship diagnostics, and node/edge reporting
+- `julia/` — high-performance graph and semantic relationship exploration
+- `sql/` — ontology classes, entities, properties, triples, semantic relationships, and revision schemas
+- `rust/` — command-line ontology validation scaffold
+- `go/` — semantic edge-list validation and graph audit scaffold
+- `cpp/` — efficient adjacency-list and graph traversal examples
+- `fortran/` — matrix-oriented semantic-network diagnostics
+- `c/` — low-level CSV and edge-list parsing scaffold
+- `docs/` — article notes, ontology-design documentation, governance notes, and WordPress GitHub block
+- `data/` — small synthetic ontology and semantic-network datasets
+- `outputs/` — generated tables, RDF/Turtle files, reports, and graph diagnostics
+
+## Research Use
+
+The examples are intentionally compact but designed as professional starting points for knowledge architects, researchers, information scientists, semantic-web practitioners, research-platform designers, and AI retrieval workflows.

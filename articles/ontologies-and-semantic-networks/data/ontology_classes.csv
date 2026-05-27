@@ -1,0 +1,11 @@
+class_id,label,parent_class,definition
+Domain,Domain,,Broad knowledge area or article-map series
+Article,Article,KnowledgeObject,Published knowledge object
+Concept,Concept,KnowledgeObject,Unit of meaning used across articles and systems
+Standard,Standard,KnowledgeObject,Formal or technical standard used for semantic modeling
+Method,Method,KnowledgeObject,Procedure for analysis modeling or validation
+Dataset,Dataset,KnowledgeObject,Structured data artifact
+RepositoryFolder,RepositoryFolder,KnowledgeObject,Folder containing reproducible article assets
+EvidenceSource,EvidenceSource,KnowledgeObject,Source supporting a claim definition method or model
+RelationshipType,RelationshipType,,Named semantic relationship
+KnowledgeObject,KnowledgeObject,,General class for objects in the knowledge system

@@ -1,0 +1,10 @@
+metric,value
+node_count,12
+edge_count,13
+triple_count,8
+class_count,10
+property_count,9
+orphan_count,0
+relationship_type_count,8
+undocumented_edge_count,0
+density_directed_simple,0.0985
