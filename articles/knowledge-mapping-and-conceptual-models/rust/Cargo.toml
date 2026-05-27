@@ -1,0 +1,7 @@
+[package]
+name = "knowledge_map_validator"
+version = "0.1.0"
+edition = "2021"
+description = "Lightweight validation scaffold for Knowledge Mapping and Conceptual Models article assets."
+
+[dependencies]

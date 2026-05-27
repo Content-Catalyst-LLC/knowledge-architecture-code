@@ -3,11 +3,10 @@ __pycache__/
 *.pyc
 .Rhistory
 .RData
-.ipynb_checkpoints/
-.env
-.venv/
-venv/
+*.o
+*.out
+*.exe
+*.dSYM/
+target/
 node_modules/
-outputs/tmp/
-data/raw/private/
-*.log
+.env

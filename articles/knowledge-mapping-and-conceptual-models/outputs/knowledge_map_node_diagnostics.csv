@@ -1,0 +1,10 @@
+concept_id,label,concept_type,domain,degree,in_degree,out_degree,is_orphan
+ai_retrieval,AI-Assisted Retrieval,application,ai_systems,1,1,0,False
+conceptual_model,Conceptual Model,model,research_design,2,2,0,False
+evidence_map,Evidence Map,evidence,research_methods,1,1,0,False
+knowledge_graph,Knowledge Graph,structure,semantics,3,2,1,False
+knowledge_mapping,Knowledge Mapping,method,knowledge_architecture,4,0,4,False
+metadata,Metadata,context,infrastructure,2,1,1,False
+ontology,Ontology,structure,semantics,2,1,1,False
+repository,Repository,artifact,reproducibility,1,0,1,False
+taxonomy,Taxonomy,structure,classification,2,1,1,False

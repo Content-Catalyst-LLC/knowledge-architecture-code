@@ -1,0 +1,10 @@
+"concept_id","label","concept_type","domain","degree","is_orphan"
+"knowledge_mapping","Knowledge Mapping","method","knowledge_architecture",4,FALSE
+"conceptual_model","Conceptual Model","model","research_design",2,FALSE
+"taxonomy","Taxonomy","structure","classification",2,FALSE
+"ontology","Ontology","structure","semantics",2,FALSE
+"knowledge_graph","Knowledge Graph","structure","semantics",3,FALSE
+"metadata","Metadata","context","infrastructure",2,FALSE
+"evidence_map","Evidence Map","evidence","research_methods",1,FALSE
+"repository","Repository","artifact","reproducibility",1,FALSE
+"ai_retrieval","AI-Assisted Retrieval","application","ai_systems",1,FALSE

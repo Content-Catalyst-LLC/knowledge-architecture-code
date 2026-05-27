@@ -1,18 +1,24 @@
 # Knowledge Mapping and Conceptual Models
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+This article-level folder provides professional companion assets for the Knowledge Architecture article **Knowledge Mapping and Conceptual Models**.
 
-## Repository Structure
+The repository treats knowledge mapping as a research-grade practice for making concepts, relationships, evidence pathways, conceptual models, repository structures, and governance rules inspectable and reproducible.
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+## Folder structure
+
+- `python/` — knowledge-map graph diagnostics, evidence coverage, pathway analysis, and reproducible CSV outputs.
+- `r/` — concept coverage summaries, relationship diagnostics, and map-quality review tables.
+- `julia/` — high-performance matrix-style exploration of concept relationships and pathway density.
+- `sql/` — schema for knowledge maps, conceptual models, relationships, evidence, pathways, and revisions.
+- `rust/` — command-line validation scaffold for map manifests and relationship files.
+- `go/` — lightweight map-integrity checker and repository workflow scaffold.
+- `cpp/` — efficient graph adjacency and degree examples.
+- `fortran/` — numerical diagnostics for adjacency matrices and pathway density.
+- `c/` — low-level CSV-style relationship counting utility scaffold.
+- `docs/` — article notes, model documentation, data dictionary, validation notes, and WordPress GitHub block.
+- `data/` — small synthetic datasets for concepts, relationships, evidence, and pathways.
+- `outputs/` — generated outputs from scripts.
+
+## Purpose
+
+The companion assets demonstrate how knowledge maps and conceptual models can be represented as structured, auditable systems rather than static diagrams. The examples support concept diagnostics, evidence coverage review, relationship-type summaries, pathway analysis, repository traceability, and governance-oriented revision practices.

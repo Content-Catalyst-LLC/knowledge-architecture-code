@@ -1,0 +1,5 @@
+evidence_id,citation,source_type,url,notes
+novak_canas_2008,"Novak, J.D. and Cañas, A.J. (2008) The Theory Underlying Concept Maps and How to Construct and Use Them",methods_note,https://cmap.ihmc.us/docs/theory-of-concept-maps,Concept mapping theory and practice
+eppler_2006,"Eppler, M.J. (2006) A Comparison between Concept Maps, Mind Maps, Conceptual Diagrams, and Visual Metaphors",journal_article,https://doi.org/10.1057/palgrave.ivs.9500131,Comparison of visual knowledge representation tools
+w3c_rdf_2014,"W3C (2014) RDF 1.1 Concepts and Abstract Syntax",standard,https://www.w3.org/TR/rdf11-concepts/,Semantic triples and graph representation
+w3c_skos_2009,"W3C (2009) SKOS Simple Knowledge Organization System Reference",standard,https://www.w3.org/TR/skos-reference/,Knowledge organization systems and concept schemes

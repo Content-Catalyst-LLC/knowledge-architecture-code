@@ -1,0 +1,7 @@
+pathway_id,step_order,concept_id,pathway_type,description
+ka_pathway,1,knowledge_mapping,learning,Start with mapping the knowledge domain
+ka_pathway,2,conceptual_model,learning,Represent the problem as a conceptual model
+ka_pathway,3,taxonomy,learning,Classify concepts into categories and facets
+ka_pathway,4,ontology,learning,Formalize classes properties and relationship types
+ka_pathway,5,knowledge_graph,learning,Represent mapped relationships as a graph
+ka_pathway,6,ai_retrieval,application,Use structured maps to ground retrieval and AI-assisted workflows

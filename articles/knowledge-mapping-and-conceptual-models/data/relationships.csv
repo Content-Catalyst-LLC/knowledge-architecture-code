@@ -1,5 +1,10 @@
-source,target,relationship
-Knowledge Mapping and Conceptual Models,Taxonomy,uses
-Knowledge Mapping and Conceptual Models,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires
+source,target,relationship,evidence_status,provenance_note
+knowledge_mapping,conceptual_model,uses,documented,Article conceptual model section
+knowledge_mapping,taxonomy,can_include,documented,Taxonomy and knowledge architecture context
+knowledge_mapping,ontology,can_include,documented,Semantic modeling context
+knowledge_mapping,knowledge_graph,can_generate,documented,Graph modeling section
+metadata,evidence_map,supports,documented,Evidence and method mapping section
+repository,conceptual_model,documents,provisional,Repository documentation workflow
+knowledge_graph,ai_retrieval,grounds,documented,AI-assisted systems section
+ontology,knowledge_graph,structures,documented,Ontology and semantic network sequence
+taxonomy,metadata,informs,provisional,Taxonomy and metadata integration

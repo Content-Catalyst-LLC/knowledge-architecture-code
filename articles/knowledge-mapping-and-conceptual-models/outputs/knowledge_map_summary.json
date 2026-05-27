@@ -1,0 +1,14 @@
+{
+  "article_slug": "knowledge-mapping-and-conceptual-models",
+  "concept_count": 9,
+  "relationship_count": 9,
+  "relationship_type_count": 8,
+  "orphan_count": 0,
+  "evidence_coverage": 0.778,
+  "path_knowledge_mapping_to_ai_retrieval": [
+    "knowledge_mapping",
+    "knowledge_graph",
+    "ai_retrieval"
+  ],
+  "validation_issue_count": 0
+}
