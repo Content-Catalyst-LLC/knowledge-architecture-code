@@ -1,0 +1,7 @@
+system_id,name,system_type,scale,scope_note
+climate_system,Climate System,ecological,global,Atmospheric and earth-system climate processes
+urban_system,Urban System,mixed,local,Built environment housing heat mobility and infrastructure
+biodiversity_system,Biodiversity System,ecological,global,Species ecosystem and habitat relationships
+water_governance,Water Governance,institutional,regional,Rules institutions rights and policy affecting water use
+community_system,Community System,social,local,Lived experience vulnerability adaptation and local knowledge
+knowledge_platform,Knowledge Platform,technical,platform,Article repository metadata and AI retrieval infrastructure

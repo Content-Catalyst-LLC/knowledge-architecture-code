@@ -1,0 +1,8 @@
+evidence_type_id,label,typical_use,review_note
+observational_data,Observational Data,Environmental and social measurement,Requires source scale method and uncertainty
+remote_sensing,Remote Sensing,Land climate and ecological monitoring,Requires resolution validation and ground-truth context
+model_output,Model Output,Scenario or system simulation,Requires assumptions parameters validation and limitations
+indicator,Indicator,Progress risk or status summary,Requires definition scale source and interpretation
+policy_record,Policy Record,Governance commitments or rules,Requires jurisdiction authority and implementation status
+community_knowledge,Community Knowledge,Local expertise and lived experience,Requires consent governance and attribution
+case_study,Case Study,Place-based institutional or social-ecological analysis,Requires transferability limits and historical context

@@ -1,0 +1,11 @@
+object_id,title,object_type,has_metadata,scale,has_justice_context,has_uncertainty_context,status,relationship_degree,is_orphan,needs_review
+climate_risk_article,Climate Risk Article,article,True,regional,True,True,active,3,False,False
+heat_dataset,Urban Heat Dataset,dataset,True,local,True,True,active,3,False,False
+biodiversity_indicator,Biodiversity Indicator,indicator,True,global,False,True,active,3,False,False
+water_policy,Water Governance Policy,policy,True,regional,True,False,review_needed,2,False,True
+community_report,Community Vulnerability Report,community_record,False,local,True,True,review_needed,3,False,True
+scenario_model,Sustainability Scenario Model,model,True,national,False,True,active,3,False,False
+repository,Article Repository Folder,repository,True,platform,False,False,active,2,False,False
+governance_checklist,Governance Checklist,governance_record,True,platform,True,True,active,1,False,False
+sdg_mapping,SDG Mapping Record,indicator,True,global,True,True,active,1,False,False
+planetary_boundary_note,Planetary Boundary Context Note,concept,True,global,False,True,active,1,False,False

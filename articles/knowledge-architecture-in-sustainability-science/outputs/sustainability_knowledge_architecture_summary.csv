@@ -1,0 +1,16 @@
+metric,value
+object_count,10
+relationship_count,11
+system_count,6
+concept_count,7
+evidence_type_count,7
+metadata_coverage,0.9
+justice_context_coverage,0.6
+uncertainty_context_coverage,0.8
+relationship_traceability,0.909
+underspecified_relationship_risk,0.091
+orphan_count,0
+review_needed_count,2
+scale_count,5
+relationship_type_count,11
+governance_check_count,9

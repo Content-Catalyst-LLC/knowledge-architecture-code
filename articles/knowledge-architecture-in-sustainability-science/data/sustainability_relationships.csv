@@ -1,0 +1,12 @@
+source_object_id,relationship_type,target_object_id,provenance_note,uncertainty_note,review_status
+climate_risk_article,usesDataset,heat_dataset,article_methods,heat measurements require spatial scale review,current
+heat_dataset,requiresJusticeContext,community_report,equity_review,community vulnerability data requires care,current
+water_policy,affectsCommunity,community_report,policy_review,implementation effects uncertain,provisional
+scenario_model,supportsScenario,climate_risk_article,model_documentation,scenario assumptions affect interpretation,current
+biodiversity_indicator,informsModel,scenario_model,indicator_metadata,indicator scale mismatch possible,current
+repository,containsDataset,heat_dataset,repository_readme,synthetic data for demonstration,current
+repository,containsModel,scenario_model,repository_readme,synthetic model context,current
+governance_checklist,governsAccess,community_report,governance_review,community-governed knowledge review needed,current
+sdg_mapping,mapsTo,climate_risk_article,sdg_context,SDG alignment is interpretive,provisional
+planetary_boundary_note,framesRisk,biodiversity_indicator,boundary_context,global boundary not local target,current
+biodiversity_indicator,related,water_policy,,relationship needs clearer typing,needs_review

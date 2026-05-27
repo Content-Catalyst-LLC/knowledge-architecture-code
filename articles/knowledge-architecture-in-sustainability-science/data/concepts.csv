@@ -1,6 +1,8 @@
-concept_id,label,domain,depth
-C1,Knowledge Architecture in Sustainability Science,article,0
-C2,Taxonomy,structure,1
-C3,Ontology,semantic,1
-C4,Knowledge Graph,graph,1
-C5,Metadata,governance,2
+concept_id,preferred_label,definition,primary_system_id,status
+resilience,Resilience,Capacity to absorb disturbance recover adapt or transform,urban_system,active
+vulnerability,Vulnerability,Exposure sensitivity and limited adaptive capacity,community_system,active
+planetary_boundaries,Planetary Boundaries,Earth-system limits associated with global stability,biodiversity_system,active
+safe_operating_space,Safe Operating Space,Conditions for human development within ecological limits,climate_system,active
+justice,Justice,Distribution recognition procedure and historical responsibility,community_system,active
+adaptation,Adaptation,Adjustment to actual or expected climate and environmental change,urban_system,active
+stewardship,Stewardship,Care responsibility and long-term governance of living systems,water_governance,active

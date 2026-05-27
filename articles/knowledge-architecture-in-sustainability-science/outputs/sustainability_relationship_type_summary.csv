@@ -1,0 +1,12 @@
+relationship_type,count
+usesDataset,1
+requiresJusticeContext,1
+affectsCommunity,1
+supportsScenario,1
+informsModel,1
+containsDataset,1
+containsModel,1
+governsAccess,1
+mapsTo,1
+framesRisk,1
+related,1

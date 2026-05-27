@@ -1,0 +1,10 @@
+check_id,layer,check_name,severity
+SS-001,metadata,Every sustainability object has sufficient metadata,high
+SS-002,scale,Spatial and temporal scale are documented,high
+SS-003,justice,Relevant justice context is documented,high
+SS-004,evidence,Evidence type and method context are documented,high
+SS-005,uncertainty,Uncertainty assumptions or limitations are documented,high
+SS-006,relationships,Relationships are typed and traceable,high
+SS-007,community,Community-governed knowledge has access and consent context,high
+SS-008,ai,AI retrieval preserves scale uncertainty and justice context,high
+SS-009,revision,Indicators models and policies have review dates or revision records,medium
