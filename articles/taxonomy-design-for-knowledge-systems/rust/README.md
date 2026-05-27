@@ -1,3 +1,9 @@
-# Rust Scaffold
+# Rust
 
-Command-line validation and proof-pattern utility scaffold for `taxonomy-design-for-knowledge-systems`.
+Command-line taxonomy validation scaffold.
+
+Run from `rust/`:
+
+```bash
+cargo run
+```

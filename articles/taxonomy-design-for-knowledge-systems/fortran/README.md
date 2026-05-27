@@ -1,3 +1,10 @@
-# Fortran Scaffold
+# Fortran
 
-Recurrence, sequence, and numerical-structure examples for `taxonomy-design-for-knowledge-systems`.
+Numerical taxonomy-depth summary example.
+
+Compile from `fortran/`:
+
+```bash
+gfortran taxonomy_depth_summary.f90 -o taxonomy_depth_summary
+./taxonomy_depth_summary
+```

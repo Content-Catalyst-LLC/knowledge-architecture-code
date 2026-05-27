@@ -1,0 +1,9 @@
+object_id,term_id,assignment_type
+art_taxonomy,taxonomy,primary
+art_taxonomy,controlled_vocabularies,secondary
+art_taxonomy,metadata,secondary
+art_ontology,ontology,primary
+art_graphs,knowledge_graphs,primary
+art_metadata,metadata,primary
+repo_taxonomy,repositories,secondary
+repo_taxonomy,taxonomy,primary

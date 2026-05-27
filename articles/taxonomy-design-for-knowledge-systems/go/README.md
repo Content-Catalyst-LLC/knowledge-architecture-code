@@ -1,3 +1,9 @@
-# Go Scaffold
+# Go
 
-Graph, pathway, and repository-analysis scaffold for `taxonomy-design-for-knowledge-systems`.
+Graph and pathway analysis scaffold for taxonomy relationships.
+
+Run from `go/`:
+
+```bash
+go run .
+```

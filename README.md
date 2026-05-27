@@ -1,22 +1,20 @@
 # Knowledge Architecture Code
 
-Companion repository for the Knowledge Architecture knowledge series.
+Companion code, datasets, documentation, and reproducible research assets for the Knowledge Architecture knowledge series.
 
-This repository contains article-level folders with reproducible examples, synthetic datasets, documentation, and technical scaffolds for modeling taxonomies, ontologies, conceptual frameworks, metadata systems, semantic networks, knowledge graphs, research pathways, and governed intellectual infrastructure.
+This repository is organized around article-level folders under `articles/`. Each article folder follows a compact, professional structure:
 
-## Article Folder Pattern
-
-Each article folder uses a compact professional structure:
-
-- `python/` — graph, pathway, concept-network, validation, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffolds
-- `go/` — graph, pathway, and repository-analysis scaffolds
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository blocks
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+```text
+python/   — analytical workflows and graph/taxonomy diagnostics
+r/        — statistical summaries and reproducible reporting
+julia/    — high-performance structural exploration
+sql/      — schemas for concepts, relationships, metadata, and governance
+rust/     — command-line validation utilities
+go/       — graph and pathway analysis scaffolds
+cpp/      — efficient discrete-structure examples
+fortran/  — recurrence and numerical-structure examples
+c/        — low-level parsing and counting utilities
+docs/     — article notes and model documentation
+data/     — small synthetic datasets
+outputs/  — generated outputs
+```

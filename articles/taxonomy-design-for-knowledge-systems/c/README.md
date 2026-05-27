@@ -1,3 +1,10 @@
-# C Scaffold
+# C
 
-Low-level sequence, graph, and file-processing utilities for `taxonomy-design-for-knowledge-systems`.
+Low-level CSV line-count utility for taxonomy term files.
+
+Compile from `c/`:
+
+```bash
+cc taxonomy_line_count.c -o taxonomy_line_count
+./taxonomy_line_count
+```

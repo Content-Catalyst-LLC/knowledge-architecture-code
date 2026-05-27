@@ -1,0 +1,12 @@
+{
+  "term_count": 11,
+  "root_count": 1,
+  "max_depth": 3,
+  "mean_depth": 1.636,
+  "leaf_count": 7,
+  "relationship_count": 7,
+  "assigned_object_count": 5,
+  "unassigned_object_count": 0,
+  "depth_mismatch_count": 0,
+  "missing_scope_note_count": 0
+}

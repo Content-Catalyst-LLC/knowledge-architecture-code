@@ -1,0 +1,8 @@
+source_term_id,target_term_id,relationship_type,note
+taxonomy,controlled_vocabularies,broader_narrower,Controlled vocabularies are a narrower practice within taxonomy design
+taxonomy,metadata,related,Taxonomy supplies controlled terms for metadata systems
+taxonomy,knowledge_graphs,related,Taxonomy can provide category nodes and term relationships for graphs
+ontology,knowledge_graphs,related,Ontologies can formalize graph entities and relationships
+metadata,ai_retrieval,related,Metadata improves retrieval grounding and filtering
+taxonomy,ai_retrieval,related,Taxonomies improve AI-assisted search and classification
+semantic,platforms,related,Semantic structures support digital knowledge platforms

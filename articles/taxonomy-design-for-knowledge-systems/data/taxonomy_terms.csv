@@ -1,0 +1,12 @@
+term_id,preferred_label,parent_id,depth,facet,scope_note,status
+ka,Knowledge Architecture,,0,domain,Use for the design of intellectual infrastructure that organizes concepts relationships metadata and governance,active
+foundations,Foundations and Core Architecture,ka,1,domain,Use for foundational concepts definitions and architecture principles,active
+semantic,Taxonomies Ontologies and Semantic Structure,ka,1,domain,Use for formal and informal semantic organization systems,active
+platforms,Digital Platforms and Research Infrastructure,ka,1,domain,Use for websites repositories metadata systems digital libraries and research infrastructure,active
+taxonomy,Taxonomy Design,semantic,2,method,Use for category logic controlled vocabularies hierarchy and taxonomy governance,active
+controlled_vocabularies,Controlled Vocabularies,taxonomy,3,method,Use for preferred terms alternate terms synonyms scope notes and term governance,active
+ontology,Ontology Modeling,semantic,2,method,Use for formal entities properties relationships and semantic constraints,active
+knowledge_graphs,Knowledge Graphs,semantic,2,method,Use for node edge and semantic relationship models,active
+metadata,Metadata Systems,platforms,2,infrastructure,Use for structured context provenance status versioning and retrieval fields,active
+repositories,Research Repositories,platforms,2,infrastructure,Use for reproducible code documentation data and outputs,active
+ai_retrieval,AI-Assisted Retrieval,platforms,2,technology,Use for retrieval systems semantic search and AI-assisted organization,active

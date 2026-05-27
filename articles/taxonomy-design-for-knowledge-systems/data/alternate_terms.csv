@@ -1,0 +1,8 @@
+term_id,alternate_label,alternate_type
+taxonomy,classification system,synonym
+taxonomy,category architecture,variant
+controlled_vocabularies,preferred terms,related_phrase
+controlled_vocabularies,subject headings,related_phrase
+metadata,context metadata,variant
+knowledge_graphs,semantic graph,variant
+ai_retrieval,retrieval augmented organization,variant

@@ -1,0 +1,6 @@
+object_id,title,object_type,slug,status
+art_taxonomy,Taxonomy Design for Knowledge Systems,article,taxonomy-design-for-knowledge-systems,published
+art_ontology,Ontologies and Semantic Networks,article,ontologies-and-semantic-networks,planned
+art_graphs,Knowledge Graphs and Semantic Relationships,article,knowledge-graphs-and-semantic-relationships,planned
+art_metadata,Intellectual Infrastructure for Research Platforms,article,intellectual-infrastructure-for-research-platforms,planned
+repo_taxonomy,Taxonomy Design Repository Folder,repository_folder,articles/taxonomy-design-for-knowledge-systems,active
