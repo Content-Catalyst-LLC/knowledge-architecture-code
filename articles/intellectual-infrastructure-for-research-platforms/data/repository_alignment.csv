@@ -1,0 +1,2 @@
+article_id,repository_id,expected_slug,folder_exists_in_scaffold
+article,repository,intellectual-infrastructure-for-research-platforms,true

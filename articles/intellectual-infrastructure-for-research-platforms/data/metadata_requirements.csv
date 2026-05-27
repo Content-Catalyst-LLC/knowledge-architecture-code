@@ -1,0 +1,15 @@
+object_type,required_field,purpose
+article,title,human-readable identification
+article,slug,stable publication path
+article,series,article-map placement
+article,repository_path,reproducibility
+repository,repository_url,external access
+repository,readme,purpose and scope
+dataset,data_dictionary,interpretability
+dataset,synthetic_status,responsible interpretation
+method,method_notes,scope and limitations
+method,generates_output,reproducibility
+output,generating_script,traceability
+source,citation,evidence traceability
+governance_record,review_status,maintenance
+governance_record,review_date,revision planning

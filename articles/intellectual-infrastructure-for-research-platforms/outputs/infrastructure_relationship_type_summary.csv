@@ -1,0 +1,11 @@
+relationship_type,count
+belongsToSeries,1
+supportedByRepository,1
+containsDataset,1
+containsMethod,1
+generatesOutput,1
+usedByMethod,1
+citesSource,3
+governsObject,1
+tracksRevisionOf,1
+governsRepository,1

@@ -1,0 +1,12 @@
+object_id,title,object_type,has_metadata,has_governance,status
+article,Intellectual Infrastructure for Research Platforms,article,true,true,active
+article_map,Knowledge Architecture Article Map,article_map,true,true,active
+repository,Article Repository Folder,repository,true,true,active
+dataset,Synthetic Platform Infrastructure Dataset,dataset,true,true,active
+script,Infrastructure Audit Script,method,true,true,active
+output,Infrastructure Summary Output,output,false,false,active
+source_fair,FAIR Guiding Principles,source,true,true,active
+source_rdf,W3C RDF Standard,source,true,true,active
+source_skos,W3C SKOS Reference,source,true,true,active
+governance_record,Infrastructure Governance Checklist,governance_record,true,true,active
+revision_log,Platform Revision Log,governance_record,true,false,active

@@ -1,0 +1,10 @@
+check_id,layer,check_name,severity
+INF-001,metadata,Every active object has sufficient metadata,high
+INF-002,governance,Every critical object has governance context,high
+INF-003,repository,Repository-supported articles have matching folders,high
+INF-004,provenance,Relationships include provenance notes,high
+INF-005,reproducibility,Outputs are linked to generating methods,high
+INF-006,semantic,Relationship types are controlled and documented,medium
+INF-007,ai_retrieval,AI retrieval context distinguishes object types and status,high
+INF-008,equity,Classification and source visibility are reviewed for epistemic bias,medium
+INF-009,revision,Revision logs exist for major infrastructure changes,medium

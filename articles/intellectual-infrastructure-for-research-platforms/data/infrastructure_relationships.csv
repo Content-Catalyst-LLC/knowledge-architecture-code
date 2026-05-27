@@ -1,0 +1,13 @@
+source_object_id,relationship_type,target_object_id,provenance_note,status
+article,belongsToSeries,article_map,series_context,active
+article,supportedByRepository,repository,github_block,active
+repository,containsDataset,dataset,repository_readme,active
+repository,containsMethod,script,repository_readme,active
+script,generatesOutput,output,runbook,active
+dataset,usedByMethod,script,script_documentation,active
+article,citesSource,source_fair,references,active
+article,citesSource,source_rdf,references,active
+article,citesSource,source_skos,references,active
+governance_record,governsObject,article,governance_checklist,active
+revision_log,tracksRevisionOf,article,revision_policy,active
+governance_record,governsRepository,repository,governance_checklist,active
