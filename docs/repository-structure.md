@@ -1,14 +1,21 @@
 # Repository Structure
 
-This repository uses a compact article-level structure. Shared repository assets live at the root; article-specific assets live under `articles/<article-slug>/`.
+The Knowledge Architecture repository uses one compact article folder per article.
 
-Root-level folders:
+Example:
 
-- `articles/` — article-level research and code assets
-- `docs/` — shared repository documentation
-- `data/` — shared or cross-article data assets
-- `outputs/` — shared generated outputs
-- `scripts/` — repository-level utilities
-- `tests/` — repository-level checks
-
-Each article folder contains language-specific examples, data, documentation, and outputs.
+```text
+articles/conceptual-frameworks-in-research/
+python/ — framework network modeling and concept-relationship diagnostics
+r/ — framework coverage, concept-balance, and evidence-linkage audits
+julia/ — semantic-network and pathway analysis scaffolds
+sql/ — framework, concept, relationship, evidence, and version schemas
+rust/ — command-line validation and CSV integrity scaffold
+go/ — graph, pathway, and repository-analysis scaffold
+cpp/ — efficient edge-list and concept-count utilities
+fortran/ — numerical summaries and sequence-style examples
+c/ — low-level CSV row-count and validation utilities
+docs/ — article notes, model documentation, and WordPress repository block
+data/ — small synthetic datasets
+outputs/ — generated outputs
+```

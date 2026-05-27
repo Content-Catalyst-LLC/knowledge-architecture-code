@@ -1,0 +1,11 @@
+concept_id,evidence_id,evidence_role
+C001,E001,design_support
+C002,E002,framework_support
+C003,E003,assumption_support
+C004,E002,relationship_support
+C005,E005,analysis_support
+C006,E001,method_support
+C007,E005,interpretive_support
+C008,E003,revision_support
+C009,E001,scope_support
+C010,E003,mechanism_support

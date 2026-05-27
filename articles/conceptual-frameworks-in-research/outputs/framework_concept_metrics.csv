@@ -1,0 +1,11 @@
+concept_id,label,role,evidence_status,indegree,outdegree,degree,reachable_nodes,bridge_score
+C004,Relationships,structural,supported,4,1,5,4,4
+C002,Core Concepts,conceptual,supported,2,1,3,4,2
+C005,Evidence,empirical,supported,2,1,3,4,2
+C007,Interpretation,analytical,supported,1,1,2,4,1
+C008,Revision,governance,provisional,1,1,2,4,1
+C001,Research Problem,starting_point,supported,0,1,1,5,0
+C003,Assumptions,interpretive,provisional,0,1,1,5,0
+C006,Methods,methodological,supported,0,1,1,5,0
+C009,Boundary Conditions,scope,provisional,0,1,1,5,0
+C010,Mechanisms,explanatory,supported,0,1,1,5,0

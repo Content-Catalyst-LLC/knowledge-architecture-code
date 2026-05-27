@@ -1,3 +1,9 @@
-# Rust Scaffold
+# Rust Validator
 
-Command-line validation and proof-pattern utility scaffold for `conceptual-frameworks-in-research`.
+A compact command-line scaffold for validating the Conceptual Frameworks in Research article data.
+
+Run from this folder:
+
+```bash
+cargo run
+```

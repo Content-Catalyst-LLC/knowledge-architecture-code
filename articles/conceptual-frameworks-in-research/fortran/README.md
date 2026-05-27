@@ -1,3 +1,10 @@
 # Fortran Scaffold
 
-Recurrence, sequence, and numerical-structure examples for `conceptual-frameworks-in-research`.
+Numerical summary and sequence-style examples for conceptual framework modeling.
+
+Compile and run:
+
+```bash
+gfortran framework_summary.f90 -o framework_summary
+./framework_summary
+```

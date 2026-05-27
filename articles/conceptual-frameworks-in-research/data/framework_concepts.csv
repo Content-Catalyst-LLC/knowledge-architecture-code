@@ -1,0 +1,11 @@
+concept_id,label,role,domain,evidence_status,definition
+C001,Research Problem,starting_point,research_design,supported,The central problem or question that motivates the inquiry.
+C002,Core Concepts,conceptual,research_design,supported,The key ideas required to understand and frame the study.
+C003,Assumptions,interpretive,research_design,provisional,The premises that shape interpretation and model boundaries.
+C004,Relationships,structural,research_design,supported,The named connections among concepts constructs variables or mechanisms.
+C005,Evidence,empirical,research_design,supported,The source material data observations or documents used to support claims.
+C006,Methods,methodological,research_design,supported,The procedures used to collect interpret analyze or model evidence.
+C007,Interpretation,analytical,research_design,supported,The meaning assigned to evidence through the framework.
+C008,Revision,governance,research_design,provisional,The process of updating the framework as evidence and understanding develop.
+C009,Boundary Conditions,scope,research_design,provisional,The conditions under which the framework applies.
+C010,Mechanisms,explanatory,research_design,supported,The processes that explain how or why relationships occur.

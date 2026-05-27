@@ -1,0 +1,11 @@
+concept,Research Problem,Core Concepts,Assumptions,Relationships,Evidence,Methods,Interpretation,Revision,Boundary Conditions,Mechanisms
+Research Problem,0,1,0,0,0,0,0,0,0,0
+Core Concepts,0,0,0,1,0,0,0,0,0,0
+Assumptions,0,0,0,1,0,0,0,0,0,0
+Relationships,0,0,0,0,1,0,0,0,0,0
+Evidence,0,0,0,0,0,0,1,0,0,0
+Methods,0,0,0,0,1,0,0,0,0,0
+Interpretation,0,0,0,0,0,0,0,1,0,0
+Revision,0,1,0,0,0,0,0,0,0,0
+Boundary Conditions,0,0,0,1,0,0,0,0,0,0
+Mechanisms,0,0,0,1,0,0,0,0,0,0

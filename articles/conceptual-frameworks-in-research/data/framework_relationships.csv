@@ -1,0 +1,11 @@
+source_concept_id,target_concept_id,relationship_type,assumption_note
+C001,C002,defines_scope,The research problem determines which core concepts belong in the framework.
+C002,C004,are_connected_by,Core concepts require explicit relationships to become a framework.
+C003,C004,shape,Assumptions influence which relationships are treated as plausible.
+C004,C005,guide_selection_of,Concept relationships guide what evidence is needed.
+C006,C005,produce_or_analyze,Methods generate or interpret evidence.
+C005,C007,supports,Evidence supports interpretation.
+C007,C008,may_require,Interpretation may require framework revision.
+C008,C002,refines,Revision can refine the set of core concepts.
+C009,C004,constrains,Boundary conditions limit how relationships should be interpreted.
+C010,C004,explains,Mechanisms explain why relationships may hold.

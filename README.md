@@ -1,25 +1,22 @@
 # Knowledge Architecture Code
 
-This repository supports the Knowledge Architecture knowledge series with compact article-level folders, reproducible examples, small synthetic datasets, documentation, and multi-language modeling scaffolds.
+Companion repository for the Knowledge Architecture knowledge series.
 
-## Standard Article Folder Structure
+This repository contains article-level folders with reproducible examples, synthetic datasets, documentation, and technical scaffolds for modeling taxonomies, ontologies, conceptual frameworks, metadata systems, semantic networks, knowledge graphs, research pathways, and governed intellectual infrastructure.
 
-Each article folder follows this compact pattern:
+## Article Folder Pattern
 
-```text
-articles/article-slug/
-python/   — graph, pathway, concept-network, and knowledge-system examples
-r/        — taxonomy diagnostics, category analysis, and coherence workflows
-julia/    — semantic-network and high-performance modeling examples
-sql/      — concept, relationship, article, and metadata schemas
-rust/     — command-line validation and graph utility scaffold
-go/       — graph, pathway, and repository-analysis scaffold
-cpp/      — efficient discrete-structure and graph examples
-fortran/  — recurrence, sequence, and numerical-structure examples
-c/        — low-level sequence, graph, and file-processing utilities
-docs/     — article notes, model documentation, and WordPress GitHub block
-data/     — small synthetic datasets
-outputs/  — generated outputs
-```
+Each article folder uses a compact professional structure:
 
-The repository is designed to make knowledge architecture inspectable, reproducible, and extensible.
+- `python/` — graph, pathway, concept-network, validation, and knowledge-system examples
+- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
+- `julia/` — high-performance semantic-network and recurrence-style exploration
+- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
+- `rust/` — command-line validation and proof-pattern utility scaffolds
+- `go/` — graph, pathway, and repository-analysis scaffolds
+- `cpp/` — efficient discrete-structure and graph examples
+- `fortran/` — recurrence, sequence, and numerical-structure examples
+- `c/` — low-level sequence, graph, and file-processing utilities
+- `docs/` — article notes, model documentation, and WordPress repository blocks
+- `data/` — small synthetic datasets
+- `outputs/` — generated outputs
