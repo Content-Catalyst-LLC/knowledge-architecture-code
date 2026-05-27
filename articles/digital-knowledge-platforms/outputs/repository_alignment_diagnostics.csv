@@ -1,0 +1,4 @@
+article_id,repository_id,expected_slug,folder_exists_in_scaffold,alignment_status
+digital_platforms,repository_folder,digital-knowledge-platforms,True,aligned
+taxonomy_design,,taxonomy-design-for-knowledge-systems,True,aligned
+knowledge_graphs,,knowledge-graphs-and-semantic-relationships,True,aligned

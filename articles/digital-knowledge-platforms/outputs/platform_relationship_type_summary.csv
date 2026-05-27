@@ -1,0 +1,10 @@
+relationship_type,count
+belongsToSeries,1
+belongsToLibrary,1
+discussesRelatedArticle,3
+supportedByRepository,1
+citesSource,4
+containsDataset,1
+containsMethod,1
+generatesOutput,1
+usedByMethod,1

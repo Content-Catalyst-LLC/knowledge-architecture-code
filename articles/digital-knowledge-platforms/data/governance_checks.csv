@@ -1,0 +1,9 @@
+check_id,layer,check_name,severity
+GOV-001,metadata,Every active article has core metadata,high
+GOV-002,repository,Repository-supported articles have matching folders,high
+GOV-003,semantic,Relationships use controlled relationship types,high
+GOV-004,provenance,Relationships include provenance notes,high
+GOV-005,taxonomy,Article-map sections match taxonomy scope notes,medium
+GOV-006,ai_retrieval,AI retrieval context includes metadata and provenance,high
+GOV-007,editorial,Related articles are published and linked,medium
+GOV-008,maintenance,Review dates and revision notes are current,medium

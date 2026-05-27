@@ -1,0 +1,10 @@
+metric,value
+object_count,12
+relationship_count,14
+metadata_coverage,0.833
+relationship_traceability,1.0
+repository_alignment,1.0
+orphan_count,0
+relationship_type_count,9
+metadata_requirement_count,14
+governance_check_count,8

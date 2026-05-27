@@ -1,0 +1,13 @@
+object_id,title,object_type,slug,has_metadata,status
+publications,Publications,library,publications,true,active
+knowledge_architecture,Knowledge Architecture,article_map,knowledge-architecture,true,active
+digital_platforms,Digital Knowledge Platforms,article,digital-knowledge-platforms,true,active
+taxonomy_design,Taxonomy Design for Knowledge Systems,article,taxonomy-design-for-knowledge-systems,true,active
+ontologies_semantic_networks,Ontologies and Semantic Networks,article,ontologies-and-semantic-networks,true,active
+knowledge_graphs,Knowledge Graphs and Semantic Relationships,article,knowledge-graphs-and-semantic-relationships,true,active
+repository_folder,Digital Knowledge Platforms Repository Folder,repository,digital-knowledge-platforms,false,active
+source_w3c_rdf,W3C RDF 1.1 Concepts,source,rdf11-concepts,true,active
+source_skos,W3C SKOS Reference,source,skos-reference,true,active
+synthetic_dataset,Platform Synthetic Dataset,dataset,platform-synthetic-dataset,true,active
+platform_audit_method,Platform Audit Method,method,platform-audit-method,true,active
+platform_summary_output,Platform Summary Output,output,platform-summary-output,false,active

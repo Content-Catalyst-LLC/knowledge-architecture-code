@@ -1,0 +1,15 @@
+object_type,required_field,purpose
+article,title,human-readable identification
+article,slug,stable publication path
+article,series,article-map placement
+article,focus_keyword,search and metadata consistency
+article,excerpt,editorial summary
+article,repository_path,reproducibility when companion assets exist
+repository,repository_url,external access
+repository,local_path,local development workflow
+repository,readme,purpose and scope documentation
+source,citation,source traceability
+source,url,authority and access
+dataset,data_dictionary,interpretability
+method,method_notes,scope and limitations
+output,generating_script,reproducibility
