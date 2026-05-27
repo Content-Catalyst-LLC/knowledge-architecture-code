@@ -1,13 +1,13 @@
 # Knowledge Architecture Code
 
-This repository supports the Knowledge Architecture knowledge series with compact article-level folders, reproducible examples, small synthetic datasets, documentation, and language-specific scaffolds for modeling knowledge systems.
+Companion code, datasets, taxonomy models, ontology schemas, semantic-network workflows, and reproducible research assets for the Knowledge Architecture knowledge series.
 
 ## Repository Structure
 
-Each article uses this compact structure:
+Each article has a compact scaffold:
 
 ```text
-articles/<article-slug>/
+articles/article-slug/
 python/ — graph, pathway, concept-network, and knowledge-system examples
 r/ — taxonomy diagnostics, category analysis, and coherence workflows
 julia/ — high-performance semantic-network and recurrence-style exploration
@@ -21,5 +21,3 @@ docs/ — article notes, model documentation, and WordPress repository block
 data/ — small synthetic datasets
 outputs/ — generated outputs
 ```
-
-The structure is intentionally compact. Broader shared files such as article maps, repository documentation, and validation scripts live at the root level.
