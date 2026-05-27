@@ -1,18 +1,22 @@
 # What Is Knowledge Architecture?
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+This article folder supports the Knowledge Architecture knowledge series with reproducible examples, synthetic datasets, documentation, and multi-language modeling scaffolds.
 
 ## Repository Structure
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
+- `python/` — graph-style concept modeling, relationship diagnostics, and path analysis
+- `r/` — taxonomy balance, domain summaries, and knowledge-system audits
+- `julia/` — semantic-network matrix and centrality exploration
+- `sql/` — concept, article, relationship, metadata, and governance schemas
+- `rust/` — command-line relationship validation scaffold
+- `go/` — graph/pathway analysis scaffold
+- `cpp/` — efficient graph degree and adjacency examples
+- `fortran/` — taxonomy depth and numerical summary examples
+- `c/` — low-level CSV relationship degree utility
+- `docs/` — methods, model documentation, and WordPress GitHub block
 - `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+- `outputs/` — generated outputs from scripts
+
+## GitHub URL
+
+https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/what-is-knowledge-architecture

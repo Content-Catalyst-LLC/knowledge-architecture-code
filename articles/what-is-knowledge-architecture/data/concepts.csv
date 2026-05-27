@@ -1,6 +1,13 @@
-concept_id,label,domain,depth
-C1,What Is Knowledge Architecture?,article,0
-C2,Taxonomy,structure,1
-C3,Ontology,semantic,1
-C4,Knowledge Graph,graph,1
-C5,Metadata,governance,2
+concept_id,label,domain,depth,status
+C001,Knowledge Architecture,root,0,active
+C002,Taxonomy Design,classification,1,active
+C003,Ontology Modeling,semantics,1,active
+C004,Metadata,context,1,active
+C005,Knowledge Graphs,network,1,active
+C006,Information Architecture,navigation,1,active
+C007,Research Platforms,infrastructure,2,active
+C008,Governance,maintenance,2,active
+C009,AI-Assisted Retrieval,technology,2,active
+C010,Controlled Vocabulary,classification,2,active
+C011,Article Map,navigation,2,active
+C012,Concept Relationship,semantics,2,active

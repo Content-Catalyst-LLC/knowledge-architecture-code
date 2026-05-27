@@ -1,3 +1,9 @@
-# Go Scaffold
+# Go Graph Utility
 
-Graph, pathway, and repository-analysis scaffold for `what-is-knowledge-architecture`.
+Computes concept degree counts from `../data/relationships.csv`.
+
+Run from the `go/` folder:
+
+```bash
+go run .
+```

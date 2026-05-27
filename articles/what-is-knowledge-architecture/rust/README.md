@@ -1,3 +1,9 @@
-# Rust Scaffold
+# Rust Utility
 
-Command-line validation and proof-pattern utility scaffold for `what-is-knowledge-architecture`.
+A compact command-line utility scaffold for validating relationship data and computing simple concept degree counts.
+
+Run from the `rust/` folder:
+
+```bash
+cargo run
+```

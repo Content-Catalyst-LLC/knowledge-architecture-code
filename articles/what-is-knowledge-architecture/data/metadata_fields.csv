@@ -1,0 +1,7 @@
+field_name,purpose,required,example
+title,Identifies the knowledge object,true,What Is Knowledge Architecture?
+slug,Provides stable retrieval,true,what-is-knowledge-architecture
+series,Places object in broader architecture,true,Knowledge Architecture
+status,Clarifies maturity and publication state,true,published
+last_reviewed,Supports governance and revision,false,2026-05-27
+related_concepts,Connects object to concept graph,false,taxonomy; ontology; metadata

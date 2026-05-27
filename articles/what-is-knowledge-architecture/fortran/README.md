@@ -1,3 +1,7 @@
-# Fortran Scaffold
+# Fortran Taxonomy Depth Example
 
-Recurrence, sequence, and numerical-structure examples for `what-is-knowledge-architecture`.
+Simple numerical summary scaffold for taxonomy-depth analysis.
+
+```bash
+make run
+```

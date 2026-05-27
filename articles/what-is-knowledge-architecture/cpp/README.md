@@ -1,3 +1,7 @@
-# C++ Scaffold
+# C++ Graph Metrics
 
-Efficient discrete-structure and graph examples for `what-is-knowledge-architecture`.
+Efficient concept-degree example over the relationship CSV.
+
+```bash
+make run
+```

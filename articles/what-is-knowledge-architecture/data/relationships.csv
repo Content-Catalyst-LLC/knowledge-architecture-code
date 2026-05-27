@@ -1,5 +1,14 @@
-source,target,relationship
-What Is Knowledge Architecture?,Taxonomy,uses
-What Is Knowledge Architecture?,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires
+source,target,relationship_type,evidence_note
+Knowledge Architecture,Taxonomy Design,uses,Classification supports navigable knowledge domains.
+Knowledge Architecture,Ontology Modeling,uses,Ontologies formalize entities and relationships.
+Knowledge Architecture,Metadata,requires,Metadata preserves context and provenance.
+Knowledge Architecture,Knowledge Graphs,can_use,Graphs model semantic relationships.
+Knowledge Architecture,Information Architecture,extends,Knowledge architecture adds semantic and conceptual depth.
+Knowledge Architecture,Research Platforms,supports,Research platforms require structured knowledge environments.
+Governance,Taxonomy Design,maintains,Taxonomies require review to prevent drift.
+Governance,Metadata,maintains,Metadata schemas require review and versioning.
+Knowledge Graphs,AI-Assisted Retrieval,supports,Graph structure can improve retrieval context.
+Metadata,AI-Assisted Retrieval,improves,Metadata improves filtering and provenance.
+Controlled Vocabulary,Taxonomy Design,supports,Controlled terms improve category consistency.
+Article Map,Information Architecture,supports,Article maps support user navigation.
+Ontology Modeling,Concept Relationship,formalizes,Ontologies define relationship types.

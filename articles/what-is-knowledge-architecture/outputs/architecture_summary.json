@@ -1,0 +1,32 @@
+{
+  "article": "What Is Knowledge Architecture?",
+  "concept_count": 12,
+  "relationship_count": 13,
+  "relationship_types": {
+    "can_use": 1,
+    "extends": 1,
+    "formalizes": 1,
+    "improves": 1,
+    "maintains": 2,
+    "requires": 1,
+    "supports": 4,
+    "uses": 2
+  },
+  "domains": {
+    "classification": 2,
+    "context": 1,
+    "infrastructure": 1,
+    "maintenance": 1,
+    "navigation": 2,
+    "network": 1,
+    "root": 1,
+    "semantics": 2,
+    "technology": 1
+  },
+  "sample_path_taxonomy_to_ai": [
+    "Taxonomy Design",
+    "Governance",
+    "Metadata",
+    "AI-Assisted Retrieval"
+  ]
+}

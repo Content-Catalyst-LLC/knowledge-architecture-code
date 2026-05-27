@@ -1,0 +1,13 @@
+concept,domain,depth,degree,in_degree,out_degree
+Knowledge Architecture,root,0,6,0,6
+Metadata,context,1,3,2,1
+Taxonomy Design,classification,1,3,3,0
+AI-Assisted Retrieval,technology,2,2,2,0
+Governance,maintenance,2,2,0,2
+Information Architecture,navigation,1,2,2,0
+Knowledge Graphs,network,1,2,1,1
+Ontology Modeling,semantics,1,2,1,1
+Article Map,navigation,2,1,0,1
+Concept Relationship,semantics,2,1,1,0
+Controlled Vocabulary,classification,2,1,0,1
+Research Platforms,infrastructure,2,1,1,0

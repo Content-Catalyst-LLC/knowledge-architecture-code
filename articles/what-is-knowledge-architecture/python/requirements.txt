@@ -1,0 +1,4 @@
+# Optional packages for extended analysis
+# The main script works with the Python standard library.
+networkx>=3.0
+pandas>=2.0

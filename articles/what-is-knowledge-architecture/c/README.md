@@ -1,3 +1,7 @@
-# C Scaffold
+# C Relationship Degree Utility
 
-Low-level sequence, graph, and file-processing utilities for `what-is-knowledge-architecture`.
+Low-level CSV relationship-degree example.
+
+```bash
+make run
+```
