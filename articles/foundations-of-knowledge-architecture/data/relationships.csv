@@ -1,5 +1,15 @@
-source,target,relationship
-Foundations of Knowledge Architecture,Taxonomy,uses
-Foundations of Knowledge Architecture,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires
+source,target,relationship,weight
+Knowledge Architecture,Taxonomy Design,uses,0.95
+Knowledge Architecture,Ontology Modeling,uses,0.92
+Knowledge Architecture,Metadata Governance,requires,0.90
+Knowledge Architecture,Conceptual Frameworks,organizes,0.88
+Knowledge Architecture,Information Architecture,extends,0.76
+Ontology Modeling,Knowledge Graphs,supports,0.91
+Semantic Networks,Knowledge Graphs,supports,0.87
+Taxonomy Design,Metadata Governance,requires,0.84
+Digital Knowledge Platforms,Metadata Governance,require,0.82
+Research Repositories,Metadata Governance,require,0.80
+Conceptual Frameworks,Interdisciplinary Synthesis,support,0.79
+Knowledge Graphs,Decision Support,support,0.74
+Information Architecture,Digital Knowledge Platforms,informs,0.77
+Knowledge Architecture,Research Repositories,supports,0.70

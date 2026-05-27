@@ -1,6 +1,13 @@
-concept_id,label,domain,depth
-C1,Foundations of Knowledge Architecture,article,0
-C2,Taxonomy,structure,1
-C3,Ontology,semantic,1
-C4,Knowledge Graph,graph,1
-C5,Metadata,governance,2
+concept_id,label,domain,depth,status
+C001,Knowledge Architecture,root,0,core
+C002,Taxonomy Design,classification,1,core
+C003,Ontology Modeling,semantics,1,core
+C004,Metadata Governance,governance,1,core
+C005,Knowledge Graphs,network,2,core
+C006,Conceptual Frameworks,research,1,core
+C007,Information Architecture,navigation,1,core
+C008,Digital Knowledge Platforms,infrastructure,2,applied
+C009,Research Repositories,infrastructure,2,applied
+C010,Decision Support,decision,2,applied
+C011,Interdisciplinary Synthesis,research,2,applied
+C012,Semantic Networks,network,2,core
