@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Systems In Research Institutions,Taxonomy,uses
-Knowledge Systems In Research Institutions,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

@@ -1,0 +1,5 @@
+source,target,relationship
+Research Frameworks and Analytical Models,Taxonomy,uses
+Research Frameworks and Analytical Models,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

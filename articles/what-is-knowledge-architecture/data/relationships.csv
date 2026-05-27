@@ -1,0 +1,5 @@
+source,target,relationship
+What Is Knowledge Architecture?,Taxonomy,uses
+What Is Knowledge Architecture?,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

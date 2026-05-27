@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Architecture In Sustainability Science,Taxonomy,uses
-Knowledge Architecture In Sustainability Science,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

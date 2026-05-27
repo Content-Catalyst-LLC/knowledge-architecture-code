@@ -1,5 +1,0 @@
-source,target,relationship
-Intellectual Infrastructure For Research Platforms,Taxonomy,uses
-Intellectual Infrastructure For Research Platforms,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

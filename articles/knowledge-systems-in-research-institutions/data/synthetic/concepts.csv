@@ -1,6 +1,0 @@
-concept_id,label,domain,depth
-C1,Knowledge Systems In Research Institutions,article,0
-C2,Taxonomy,structure,1
-C3,Ontology,semantic,1
-C4,Knowledge Graph,graph,1
-C5,Metadata,governance,2

@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Architecture And Systems Thinking,Taxonomy,uses
-Knowledge Architecture And Systems Thinking,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

@@ -1,0 +1,5 @@
+source,target,relationship
+Conceptual Frameworks in Research,Taxonomy,uses
+Conceptual Frameworks in Research,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

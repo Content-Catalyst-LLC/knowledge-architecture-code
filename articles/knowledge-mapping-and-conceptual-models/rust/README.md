@@ -1,3 +1,3 @@
-# rust examples
+# Rust Scaffold
 
-Use this folder for systems-level, CLI, validation, graph-processing, or performance-oriented examples where useful for the article.
+Command-line validation and proof-pattern utility scaffold for \.

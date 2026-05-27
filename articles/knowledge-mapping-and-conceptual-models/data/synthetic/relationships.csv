@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Mapping And Conceptual Models,Taxonomy,uses
-Knowledge Mapping And Conceptual Models,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

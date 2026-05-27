@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Architecture In Governance Systems,Taxonomy,uses
-Knowledge Architecture In Governance Systems,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

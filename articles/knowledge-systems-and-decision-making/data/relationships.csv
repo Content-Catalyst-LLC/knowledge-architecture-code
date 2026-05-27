@@ -1,0 +1,5 @@
+source,target,relationship
+Knowledge Systems and Decision-Making,Taxonomy,uses
+Knowledge Systems and Decision-Making,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

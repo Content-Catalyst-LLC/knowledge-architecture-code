@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Architecture In Digital Libraries,Taxonomy,uses
-Knowledge Architecture In Digital Libraries,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

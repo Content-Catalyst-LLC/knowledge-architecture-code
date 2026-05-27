@@ -1,0 +1,5 @@
+source,target,relationship
+Framework Design in Policy Research,Taxonomy,uses
+Framework Design in Policy Research,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

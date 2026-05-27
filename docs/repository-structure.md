@@ -1,32 +1,21 @@
 # Repository Structure
 
-Each article folder contains documentation, metadata, synthetic data, taxonomy notes, ontology notes, graph assets, code folders, outputs, and tests.
+The Knowledge Architecture repository uses one compact article folder per article.
 
-Standard article folder pattern:
+Example:
 
-- `README.md`
-- `metadata/article-metadata.yml`
-- `docs/`
-- `notes/`
-- `governance/`
-- `taxonomy/`
-- `ontology/`
-- `graphs/`
-- `data/raw/`
-- `data/processed/`
-- `data/synthetic/`
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `go/`
-- `rust/`
-- `notebooks/`
-- `schemas/`
-- `outputs/figures/`
-- `outputs/tables/`
-- `outputs/reports/`
-- `tests/`
+```text
+articles/foundations-of-knowledge-architecture/
+python/ — graph, pathway, concept-network, and knowledge-system examples
+r/ — taxonomy diagnostics, category analysis, and coherence workflows
+julia/ — high-performance semantic-network and recurrence-style exploration
+sql/ — concept, relationship, taxonomy, article, and metadata schemas
+rust/ — command-line validation and proof-pattern utility scaffold
+go/ — graph, pathway, and repository-analysis scaffold
+cpp/ — efficient discrete-structure and graph examples
+fortran/ — recurrence, sequence, and numerical-structure examples
+c/ — low-level sequence, graph, and file-processing utilities
+docs/ — article notes, model documentation, and WordPress repository block
+data/ — small synthetic datasets
+outputs/ — generated outputs
+```

@@ -1,3 +1,3 @@
-# c examples
+# C Scaffold
 
-Use this folder for systems-level, CLI, validation, graph-processing, or performance-oriented examples where useful for the article.
+Low-level sequence, graph, and file-processing utilities for \.

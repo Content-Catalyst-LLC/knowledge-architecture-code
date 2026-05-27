@@ -1,5 +1,0 @@
-source,target,relationship
-Knowledge Systems And Scientific Collaboration,Taxonomy,uses
-Knowledge Systems And Scientific Collaboration,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

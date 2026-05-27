@@ -1,5 +1,0 @@
-source,target,relationship
-Foundations Of Knowledge Architecture,Taxonomy,uses
-Foundations Of Knowledge Architecture,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

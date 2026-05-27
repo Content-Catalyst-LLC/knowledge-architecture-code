@@ -10,3 +10,10 @@ CREATE TABLE IF NOT EXISTS relationships (
   target TEXT NOT NULL,
   relationship TEXT NOT NULL
 );
+
+CREATE TABLE IF NOT EXISTS article_metadata (
+  slug TEXT PRIMARY KEY,
+  title TEXT NOT NULL,
+  series TEXT NOT NULL,
+  status TEXT
+);

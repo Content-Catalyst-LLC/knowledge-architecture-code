@@ -1,0 +1,5 @@
+source,target,relationship
+AI and Knowledge Organization,Taxonomy,uses
+AI and Knowledge Organization,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

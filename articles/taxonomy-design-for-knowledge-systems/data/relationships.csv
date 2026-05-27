@@ -1,0 +1,5 @@
+source,target,relationship
+Taxonomy Design for Knowledge Systems,Taxonomy,uses
+Taxonomy Design for Knowledge Systems,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

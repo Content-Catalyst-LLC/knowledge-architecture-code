@@ -1,3 +1,3 @@
-# fortran examples
+# Fortran Scaffold
 
-Use this folder for systems-level, CLI, validation, graph-processing, or performance-oriented examples where useful for the article.
+Recurrence, sequence, and numerical-structure examples for \.

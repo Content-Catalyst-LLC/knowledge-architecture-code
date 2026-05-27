@@ -1,0 +1,5 @@
+source,target,relationship
+Designing Knowledge Systems for Education,Taxonomy,uses
+Designing Knowledge Systems for Education,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

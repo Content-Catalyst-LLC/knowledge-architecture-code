@@ -1,17 +1,16 @@
-# Synthetic taxonomy diagnostics for a Knowledge Architecture article.
+# Taxonomy diagnostics and category-depth workflow.
 
-concepts <- read.csv("data/synthetic/concepts.csv")
-relationships <- read.csv("data/synthetic/relationships.csv")
+concepts <- read.csv("data/concepts.csv")
+relationships <- read.csv("data/relationships.csv")
 
-dir.create("outputs/tables", recursive = TRUE, showWarnings = FALSE)
+dir.create("outputs", showWarnings = FALSE)
 
-depth_summary <- data.frame(
-  max_depth = max(concepts$depth),
-  mean_depth = mean(concepts$depth),
+summary <- data.frame(
   concept_count = nrow(concepts),
-  relationship_count = nrow(relationships)
+  relationship_count = nrow(relationships),
+  max_depth = max(concepts$depth),
+  mean_depth = mean(concepts$depth)
 )
 
-write.csv(depth_summary, "outputs/tables/taxonomy_depth_summary.csv", row.names = FALSE)
-
-print(depth_summary)
+write.csv(summary, "outputs/taxonomy_summary.csv", row.names = FALSE)
+print(summary)

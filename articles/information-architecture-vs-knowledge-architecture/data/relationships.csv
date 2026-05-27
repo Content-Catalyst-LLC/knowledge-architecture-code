@@ -1,0 +1,5 @@
+source,target,relationship
+Information Architecture vs. Knowledge Architecture,Taxonomy,uses
+Information Architecture vs. Knowledge Architecture,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires

@@ -1,5 +1,0 @@
-source,target,relationship
-Ontologies And Semantic Networks,Taxonomy,uses
-Ontologies And Semantic Networks,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires

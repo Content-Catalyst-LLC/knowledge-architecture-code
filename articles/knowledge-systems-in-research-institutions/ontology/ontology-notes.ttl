@@ -1,4 +1,0 @@
-@prefix ka: <https://sustainablecatalyst.com/ontology/knowledge-architecture#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
-ka:knowledgesystemsinresearchinstitutions rdfs:label "Knowledge Systems In Research Institutions" .

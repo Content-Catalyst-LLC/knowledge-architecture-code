@@ -1,0 +1,5 @@
+source,target,relationship
+Conceptual Modeling in Complex Systems,Taxonomy,uses
+Conceptual Modeling in Complex Systems,Ontology,uses
+Ontology,Knowledge Graph,supports
+Taxonomy,Metadata,requires
