@@ -1,0 +1,13 @@
+node_id,label,node_type,domain,status
+ka,Knowledge Architecture,root,knowledge-architecture,active
+foundations,Foundations and Core Architecture,domain,knowledge-architecture,active
+semantic,Taxonomies Hierarchies Ontologies and Semantic Structure,domain,knowledge-architecture,active
+platforms,Information Architecture and Research Infrastructure,domain,knowledge-architecture,active
+taxonomy,Taxonomy Design,topic,semantic-structure,active
+hierarchy,Hierarchical Knowledge Structures,topic,semantic-structure,active
+ontology,Ontologies and Semantic Networks,topic,semantic-structure,active
+graphs,Knowledge Graphs and Semantic Relationships,topic,semantic-structure,active
+metadata,Metadata Systems,topic,research-infrastructure,active
+libraries,Digital Libraries,topic,research-infrastructure,active
+article_maps,Article Maps,artifact,knowledge-architecture,active
+repository_structures,Repository Structures,artifact,research-infrastructure,active

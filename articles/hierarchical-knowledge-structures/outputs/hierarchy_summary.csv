@@ -1,0 +1,9 @@
+metric,value
+node_count,12
+edge_count,11
+root_count,1
+max_depth,2
+leaf_count,8
+missing_reference_count,0
+cycle_node_count,0
+polyhierarchical_node_count,0

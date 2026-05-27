@@ -1,0 +1,13 @@
+node_id,label,node_type,domain,status,depth,parent_count,child_count,is_root,is_leaf,is_polyhierarchical
+article_maps,Article Maps,artifact,knowledge-architecture,active,2,1,0,False,True,False
+foundations,Foundations and Core Architecture,domain,knowledge-architecture,active,1,1,1,False,False,False
+graphs,Knowledge Graphs and Semantic Relationships,topic,semantic-structure,active,2,1,0,False,True,False
+hierarchy,Hierarchical Knowledge Structures,topic,semantic-structure,active,2,1,0,False,True,False
+ka,Knowledge Architecture,root,knowledge-architecture,active,0,0,3,True,False,False
+libraries,Digital Libraries,topic,research-infrastructure,active,2,1,0,False,True,False
+metadata,Metadata Systems,topic,research-infrastructure,active,2,1,0,False,True,False
+ontology,Ontologies and Semantic Networks,topic,semantic-structure,active,2,1,0,False,True,False
+platforms,Information Architecture and Research Infrastructure,domain,knowledge-architecture,active,1,1,3,False,False,False
+repository_structures,Repository Structures,artifact,research-infrastructure,active,2,1,0,False,True,False
+semantic,Taxonomies Hierarchies Ontologies and Semantic Structure,domain,knowledge-architecture,active,1,1,4,False,False,False
+taxonomy,Taxonomy Design,topic,semantic-structure,active,2,1,0,False,True,False

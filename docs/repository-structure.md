@@ -1,20 +1,21 @@
 # Repository Structure
 
-The repository supports a compact article-level scaffold. Shared docs and datasets live at the root, while article-specific assets live under `articles/<article-slug>/`.
+Each article folder follows this compact professional structure:
 
-Each article folder should include:
+```text
+articles/article-slug/
+python/   — Python workflows and analysis scripts
+r/        — R diagnostics and reporting workflows
+julia/    — Julia numerical, graph, and systems exploration
+sql/      — SQL schemas, inserts, and audit queries
+rust/     — Rust CLI validation scaffolds
+go/       — Go command-line audit tools
+cpp/      — C++ graph and hierarchy diagnostics
+fortran/  — Fortran numerical summaries
+c/        — C utilities for low-level structural checks
+docs/     — article notes, methods, model documentation, WordPress GitHub block
+data/     — small synthetic datasets
+outputs/  — generated reports, tables, and diagnostics
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `rust/`
-- `go/`
-- `cpp/`
-- `fortran/`
-- `c/`
-- `docs/`
-- `data/`
-- `outputs/`
-
-This layout keeps article folders readable while still supporting serious computational, research, and documentation workflows.
+Shared repository-level assets may live in root folders such as `docs/`, `data/`, `outputs/`, and `scripts/`.

@@ -1,18 +1,22 @@
 # Hierarchical Knowledge Structures
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+Professional companion repository folder for the Knowledge Architecture article **Hierarchical Knowledge Structures**.
 
 ## Repository Structure
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+- `python/` — hierarchy audits, parent-child diagnostics, DAG checks, and path analysis
+- `r/` — depth, breadth, branching, balance, and leaf-rate summaries
+- `julia/` — high-performance hierarchy metrics and traversal experiments
+- `sql/` — parent-child tables, closure tables, assignments, and audit queries
+- `rust/` — command-line hierarchy validation scaffold
+- `go/` — graph and hierarchy pathway audit scaffold
+- `cpp/` — efficient tree and adjacency-list diagnostics
+- `fortran/` — numerical depth and breadth summary examples
+- `c/` — low-level hierarchy utility scaffold
+- `docs/` — methods, validation, and WordPress GitHub block
+- `data/` — small synthetic hierarchy datasets
+- `outputs/` — generated audit tables and reports
+
+## Article Link
+
+https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/hierarchical-knowledge-structures

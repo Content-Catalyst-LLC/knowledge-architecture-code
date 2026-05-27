@@ -1,0 +1,12 @@
+parent_id,child_id,relationship_type,sort_order
+ka,foundations,broader_narrower,1
+ka,semantic,broader_narrower,2
+ka,platforms,broader_narrower,3
+semantic,taxonomy,broader_narrower,1
+semantic,hierarchy,broader_narrower,2
+semantic,ontology,broader_narrower,3
+semantic,graphs,broader_narrower,4
+platforms,metadata,broader_narrower,1
+platforms,libraries,broader_narrower,2
+platforms,repository_structures,broader_narrower,3
+foundations,article_maps,broader_narrower,1
