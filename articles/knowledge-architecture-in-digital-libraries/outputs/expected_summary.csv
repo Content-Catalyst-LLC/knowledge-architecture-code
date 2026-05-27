@@ -1,0 +1,10 @@
+metric,value
+object_count,10
+relationship_count,12
+metadata_coverage,0.9
+subject_coverage,0.5
+rights_coverage,0.7
+preservation_coverage,0.6
+relationship_traceability,0.917
+orphan_count,0
+review_needed_count,3

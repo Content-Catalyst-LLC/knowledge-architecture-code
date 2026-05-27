@@ -1,0 +1,5 @@
+authority_id,preferred_label,authority_type,alternate_labels,source_vocab,status
+creator_001,Creator Authority Record,person,"Creator Variant A; Creator Variant B",local_authority,active
+subject_001,Migration History,subject,"Migration; Migrant histories; Mobility history",local_skos,active
+place_001,Community Place Name,place,"Historic colonial name; alternate spelling",local_authority,review_needed
+work_001,Digitized Monograph Work,work,"Edition title variant",bibframe_work,active

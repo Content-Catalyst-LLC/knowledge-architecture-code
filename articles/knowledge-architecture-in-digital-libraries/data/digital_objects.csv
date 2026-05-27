@@ -1,0 +1,11 @@
+object_id,title,object_type,has_metadata,has_subject,has_rights,has_preservation,status
+book_001,Digitized Monograph,book,true,true,true,true,active
+photo_001,Historical Photograph,image,true,true,false,true,review_needed
+map_001,Digitized Map,map,true,true,true,true,active
+oral_history_001,Oral History Recording,audio,true,false,true,true,review_needed
+web_archive_001,Archived Website,web_archive,false,false,false,false,review_needed
+collection_001,Community History Collection,collection,true,true,true,true,active
+creator_001,Creator Authority Record,authority,true,false,true,false,active
+subject_001,Migration History,subject,true,true,true,false,active
+rights_001,Rights Statement Record,rights,true,false,true,false,active
+preservation_001,Preservation Event Record,preservation,true,false,true,true,active

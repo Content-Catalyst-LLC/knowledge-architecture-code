@@ -1,18 +1,26 @@
 # Knowledge Architecture in Digital Libraries
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+GitHub article folder:
 
-## Repository Structure
+https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-architecture-in-digital-libraries
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+## Purpose
+
+This scaffold supports the article **Knowledge Architecture in Digital Libraries** by modeling digital libraries as knowledge systems: digital objects, collection context, metadata, subject access, authority records, rights statements, preservation events, linked-data relationships, governance review, and ethical description.
+
+The scaffold is intentionally synthetic but designed for professional adaptation to Dublin Core, MODS, MARC/BIBFRAME preparation, SKOS vocabularies, IIIF manifests, preservation metadata, rights statements, institutional repositories, and digital collections.
+
+## Structure
+
+- `python/` — metadata, subject, rights, preservation, and relationship diagnostics
+- `r/` — descriptive coverage and review summaries
+- `julia/` — digital-library quality metrics
+- `sql/` — digital object, collection, metadata, authority, subject, rights, preservation, and revision schemas
+- `rust/`, `go/`, `cpp/`, `fortran/`, `c/` — validation and metric examples
+- `docs/` — model notes, data dictionary, governance checklist, and runbook
+- `data/` — small synthetic digital-library datasets
+- `outputs/` — expected/generated outputs
+
+## Professional Use
+
+Use this as a starting scaffold for digital library metadata audits, subject coverage review, rights review, preservation assessment, authority-control diagnostics, linked-data preparation, AI-assisted metadata governance, and reparative description workflows.

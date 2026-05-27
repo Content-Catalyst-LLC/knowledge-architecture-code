@@ -1,0 +1,5 @@
+rights_id,rights_label,access_condition,reuse_condition,sensitivity_note
+rights_001,In Copyright - Educational Use Permitted,open,educational_reuse_with_attribution,none
+rights_002,Copyright Undetermined,mediated,contact_library,rights review needed
+rights_003,Community Governed Access,restricted,community_permission_required,cultural protocol applies
+rights_004,Public Domain Mark,open,public_domain,none

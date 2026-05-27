@@ -1,0 +1,6 @@
+event_id,object_id,event_type,event_date,outcome
+PREM-001,book_001,checksum,2026-05-27,pass
+PREM-002,photo_001,format_review,2026-05-27,warning
+PREM-003,map_001,checksum,2026-05-27,pass
+PREM-004,oral_history_001,format_review,2026-05-27,pass
+PREM-005,web_archive_001,preservation_review,2026-05-27,pending

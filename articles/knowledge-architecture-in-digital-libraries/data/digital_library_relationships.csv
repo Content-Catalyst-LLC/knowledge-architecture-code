@@ -1,0 +1,13 @@
+source_object_id,relationship_type,target_object_id,provenance_note,status
+book_001,belongsToCollection,collection_001,collection_record,active
+photo_001,belongsToCollection,collection_001,collection_record,active
+map_001,belongsToCollection,collection_001,collection_record,active
+oral_history_001,belongsToCollection,collection_001,collection_record,active
+web_archive_001,belongsToCollection,collection_001,accession_record,provisional
+book_001,createdBy,creator_001,catalog_record,active
+photo_001,createdBy,creator_001,,provisional
+book_001,hasSubject,subject_001,subject_analysis,active
+oral_history_001,relatedToSubject,subject_001,curatorial_note,active
+book_001,hasRights,rights_001,rights_statement,active
+photo_001,needsRightsReview,rights_001,rights_gap_review,active
+book_001,hasPreservationEvent,preservation_001,fixity_record,active

@@ -3,11 +3,9 @@ __pycache__/
 *.pyc
 .Rhistory
 .RData
-.julia/
 target/
 bin/
 build/
-cmake-build-*/
 *.o
 *.out
 *.exe
