@@ -1,0 +1,11 @@
+component_id,system_id,label,component_type,definition,scale,has_metadata,has_uncertainty_context,status
+climate_stress,urban_resilience_system,Climate Stress,driver,Environmental stress from heat flooding storms or climate variability,regional,true,true,active
+infrastructure_capacity,urban_resilience_system,Infrastructure Capacity,stock,Capacity of built systems to absorb or buffer stress,city,true,true,active
+public_health_risk,urban_resilience_system,Public Health Risk,outcome,Risk of population-level harm under system stress,community,true,true,active
+institutional_response,urban_resilience_system,Institutional Response,actor_system,Agency coordination policy implementation and emergency response,city,true,false,review_needed
+community_trust,urban_resilience_system,Community Trust,social_variable,Trust between communities institutions and response systems,community,true,true,active
+resource_allocation,urban_resilience_system,Resource Allocation,flow,Distribution of funding staff and material support,institutional,true,false,review_needed
+adaptive_learning,urban_resilience_system,Adaptive Learning,feedback_process,Capacity to revise action based on evidence and feedback,institutional,false,true,review_needed
+system_resilience,urban_resilience_system,System Resilience,emergent_property,Emergent ability of the system to maintain adapt or transform under stress,system,true,true,active
+metadata_quality,knowledge_platform_system,Metadata Quality,stock,Completeness and reliability of structured knowledge metadata,platform,true,true,active
+retrieval_quality,knowledge_platform_system,Retrieval Quality,outcome,Ability of users and AI systems to retrieve grounded relevant knowledge,platform,true,true,active

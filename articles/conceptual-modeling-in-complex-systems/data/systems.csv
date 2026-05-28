@@ -1,0 +1,3 @@
+system_id,title,system_type,scope_note,boundary_note,spatial_scale,temporal_scale,status
+urban_resilience_system,Urban Resilience System,mixed,Climate stress infrastructure public health institutions and community trust,Includes city-scale resilience dynamics and excludes national macroeconomic shocks,city,multi-decade,active
+knowledge_platform_system,Knowledge Platform System,technical,Article metadata repositories retrieval governance and model documentation,Includes article-repository-retrieval architecture and excludes unrelated platform infrastructure,platform,long-term,active

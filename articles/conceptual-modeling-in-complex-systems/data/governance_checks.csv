@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+CM-001,boundary,System boundary and exclusions are documented,high
+CM-002,components,Components are typed defined and reviewed,high
+CM-003,relationships,Relationships are directional typed and traceable,high
+CM-004,feedback,Feedback loops are identified and documented,high
+CM-005,uncertainty,Uncertainty context is recorded for components and relationships,high
+CM-006,assumptions,Assumptions are documented and sensitivity level is assigned,high
+CM-007,evidence,Evidence records distinguish literature data stakeholder knowledge and model documentation,medium
+CM-008,equity,Affected communities and power implications are reviewed where relevant,high
+CM-009,ai,AI-generated model structures are labeled provisional and reviewed,high
+CM-010,revision,Model revisions and review status are tracked,medium

@@ -1,0 +1,6 @@
+assumption_id,system_id,assumption_text,assumption_type,evidence_note,sensitivity_level,review_status
+A-001,urban_resilience_system,Infrastructure capacity can buffer public health risk under climate stress,causal,risk and resilience literature,high,current
+A-002,urban_resilience_system,Institutional response is partly triggered by visible public health risk,behavioral,policy response logic,medium,provisional
+A-003,urban_resilience_system,Community trust shapes response effectiveness and feedback quality,behavioral,stakeholder and public health literature,high,provisional
+A-004,urban_resilience_system,Adaptive learning can improve future institutional response,causal,organizational learning theory,medium,needs_review
+A-005,knowledge_platform_system,Metadata quality improves retrieval quality,causal,information retrieval and knowledge architecture logic,high,current

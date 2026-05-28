@@ -1,0 +1,11 @@
+component_id,system_id,label,component_type,has_metadata,scale,has_uncertainty_context,status,relationship_degree,is_orphan,needs_review
+climate_stress,urban_resilience_system,Climate Stress,driver,True,regional,True,active,2,False,False
+infrastructure_capacity,urban_resilience_system,Infrastructure Capacity,stock,True,city,True,active,3,False,False
+public_health_risk,urban_resilience_system,Public Health Risk,outcome,True,community,True,active,4,False,False
+institutional_response,urban_resilience_system,Institutional Response,actor_system,True,city,False,review_needed,5,False,True
+community_trust,urban_resilience_system,Community Trust,social_variable,True,community,True,active,2,False,False
+resource_allocation,urban_resilience_system,Resource Allocation,flow,True,institutional,False,review_needed,2,False,True
+adaptive_learning,urban_resilience_system,Adaptive Learning,feedback_process,False,institutional,True,review_needed,1,False,True
+system_resilience,urban_resilience_system,System Resilience,emergent_property,True,system,True,active,1,False,False
+metadata_quality,knowledge_platform_system,Metadata Quality,stock,True,platform,True,active,2,False,False
+retrieval_quality,knowledge_platform_system,Retrieval Quality,outcome,True,platform,True,active,2,False,False

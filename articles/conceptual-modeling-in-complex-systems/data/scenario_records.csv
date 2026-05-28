@@ -1,0 +1,4 @@
+scenario_id,system_id,scenario_name,driver_note,assumption_note,outcome_note,uncertainty_note
+SC-001,urban_resilience_system,High Climate Stress Low Trust,Heat and flooding increase while institutional trust remains low,Response feedback weakens due to low participation,Public health risk rises and learning slows,Behavioral and institutional uncertainty high
+SC-002,urban_resilience_system,Adaptive Investment Pathway,Climate stress increases but resources and learning improve capacity,Institutional feedback loop strengthens over time,System resilience improves with delayed benefits,Depends on funding continuity
+SC-003,knowledge_platform_system,Metadata Improvement Pathway,Metadata standards and review improve,Retrieval feedback identifies gaps,Search and AI retrieval quality improves,Depends on governance and review cadence

@@ -1,0 +1,6 @@
+evidence_id,title,evidence_type,source_note,method_note,quality_note,uncertainty_note,access_condition
+EV-001,Complex Systems Literature Review,literature_review,Complex systems and systems thinking literature,conceptual synthesis,strong conceptual support,domain transfer requires caution,open
+EV-002,Urban Resilience Risk Assessment,risk_assessment,Synthetic assessment for article scaffold,scenario-based analysis,demonstration only,not empirical data,open
+EV-003,Stakeholder Review Notes,stakeholder_review,Synthetic participatory modeling note,qualitative synthesis,illustrative,requires real community governance in practice,restricted_if_real
+EV-004,Platform Design Note,design_documentation,Synthetic knowledge platform documentation,architecture review,demonstration only,not production telemetry,open
+EV-005,Simulation Documentation Standard,model_documentation,ODD and simulation documentation literature,documentation protocol,strong for model reporting,adapt to method context,open

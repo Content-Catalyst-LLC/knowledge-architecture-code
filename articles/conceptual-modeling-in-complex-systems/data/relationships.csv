@@ -1,5 +1,13 @@
-source,target,relationship
-Conceptual Modeling in Complex Systems,Taxonomy,uses
-Conceptual Modeling in Complex Systems,Ontology,uses
-Ontology,Knowledge Graph,supports
-Taxonomy,Metadata,requires
+source_component_id,relationship_type,target_component_id,polarity,delay_note,provenance_note,uncertainty_note,feedback_relevant,review_status
+climate_stress,increases,public_health_risk,positive,short_to_medium,literature_review,local vulnerability varies,false,current
+climate_stress,degrades,infrastructure_capacity,negative,medium,risk_assessment,asset exposure and maintenance vary,false,current
+infrastructure_capacity,buffers,public_health_risk,negative,short,systems_map,buffering depends on maintenance,false,current
+public_health_risk,triggers,institutional_response,positive,short,policy_logic,response depends on legitimacy,true,current
+institutional_response,directs,resource_allocation,positive,short,governance_review,budget and authority constraints,true,current
+resource_allocation,reinforces,infrastructure_capacity,positive,long,investment_logic,lagged capacity gains,true,current
+institutional_response,affects,community_trust,mixed,medium,stakeholder_review,effect depends on transparency,true,current
+community_trust,feedsBackTo,institutional_response,positive,medium,participatory_model,trust may shape compliance and feedback,true,current
+adaptive_learning,improves,institutional_response,positive,medium,,needs evidence and assumptions,true,needs_review
+system_resilience,related,public_health_risk,unknown,unknown,,relationship needs clearer typing,false,needs_review
+metadata_quality,improves,retrieval_quality,positive,short,platform_design_note,depends on indexing and governance,true,current
+retrieval_quality,feedsBackTo,metadata_quality,positive,medium,platform_review,search behavior can expose metadata gaps,true,current
