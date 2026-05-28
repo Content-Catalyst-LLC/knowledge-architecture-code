@@ -1,0 +1,13 @@
+object_id,title,object_type,has_metadata,scale,has_feedback_role,status,relationship_degree,is_orphan,needs_review
+article_map,Article Map,article_map,True,platform,True,active,5,False,False
+concept_framework,Conceptual Framework,framework,True,domain,True,active,3,False,False
+evidence_record,Evidence Record,evidence,True,source,False,active,3,False,False
+model_record,Model Record,model,True,analytical,True,active,3,False,False
+decision_record,Decision Record,decision,True,institutional,True,active,2,False,False
+outcome_indicator,Outcome Indicator,outcome,True,system,True,active,2,False,False
+revision_log,Revision Log,governance,False,platform,True,review_needed,3,False,True
+ai_retrieval_record,AI Retrieval Record,ai,True,platform,False,active,3,False,False
+repository_record,Repository Record,repository,True,platform,True,active,1,False,False
+governance_check,Governance Check,governance,True,platform,True,active,1,False,False
+boundary_note,Boundary Note,framework,True,domain,False,active,1,False,False
+assumption_register,Assumption Register,governance,True,platform,True,active,1,False,False

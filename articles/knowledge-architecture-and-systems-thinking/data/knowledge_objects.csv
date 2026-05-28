@@ -1,0 +1,13 @@
+object_id,title,object_type,has_metadata,scale,has_feedback_role,status
+article_map,Article Map,article_map,true,platform,true,active
+concept_framework,Conceptual Framework,framework,true,domain,true,active
+evidence_record,Evidence Record,evidence,true,source,false,active
+model_record,Model Record,model,true,analytical,true,active
+decision_record,Decision Record,decision,true,institutional,true,active
+outcome_indicator,Outcome Indicator,outcome,true,system,true,active
+revision_log,Revision Log,governance,false,platform,true,review_needed
+ai_retrieval_record,AI Retrieval Record,ai,true,platform,false,active
+repository_record,Repository Record,repository,true,platform,true,active
+governance_check,Governance Check,governance,true,platform,true,active
+boundary_note,Boundary Note,framework,true,domain,false,active
+assumption_register,Assumption Register,governance,true,platform,true,active

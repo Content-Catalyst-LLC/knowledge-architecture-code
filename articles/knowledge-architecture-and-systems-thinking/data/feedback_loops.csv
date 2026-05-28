@@ -1,0 +1,6 @@
+loop_id,loop_name,loop_type,description,evidence_note,review_status
+L-001,Outcome-to-Revision Loop,learning,Decision outcomes feed back into revision logs and article-map updates,systems architecture note,current
+L-002,AI Retrieval Correction Loop,corrective,AI retrieval gaps flag metadata and revision work,AI governance review,current
+L-003,Repository Validation Loop,corrective,Repository tests and outputs support model-record and article updates,repository workflow,provisional
+L-004,Governance Review Loop,balancing,Governance checks stabilize quality by triggering review and correction,governance checklist,current
+L-005,Conceptual Expansion Loop,reinforcing,Article-map growth expands frameworks which reveal new evidence needs,editorial learning,provisional

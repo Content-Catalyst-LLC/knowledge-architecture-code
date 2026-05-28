@@ -1,0 +1,6 @@
+evidence_id,object_id,evidence_type,source_note,quality_note,uncertainty_note
+EV-001,concept_framework,systems_thinking_literature,Meadows Senge Checkland Sterman and systems theory,strong conceptual support,domain transfer requires judgment
+EV-002,model_record,model_documentation,Conceptual model and computational scaffold,synthetic demonstration,not empirical validation
+EV-003,ai_retrieval_record,retrieval_log,Synthetic AI retrieval record,demonstration only,requires real retrieval evaluation in production
+EV-004,governance_check,governance_protocol,Governance checklist and review rules,architecture-level support,needs periodic review
+EV-005,repository_record,repository_documentation,Companion repository scaffold,professional demonstration,examples are synthetic

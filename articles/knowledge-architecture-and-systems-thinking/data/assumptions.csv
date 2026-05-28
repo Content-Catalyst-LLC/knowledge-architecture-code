@@ -1,0 +1,8 @@
+assumption_id,assumption_text,assumption_type,sensitivity_level,review_status
+A-001,Article maps can function as systems maps when relationships are explicit,boundary,medium,current
+A-002,Typed relationships improve AI retrieval quality and human navigation,relationship,high,current
+A-003,Feedback loops are necessary for long-term knowledge-system resilience,governance,high,current
+A-004,Scale metadata reduces misuse of evidence across contexts,evidence,high,current
+A-005,AI-generated relationship suggestions should be treated as provisional,AI,high,current
+A-006,Category design reflects mental models and should remain contestable,category,high,current
+A-007,Repository validation can reveal article and model maintenance needs,governance,medium,provisional

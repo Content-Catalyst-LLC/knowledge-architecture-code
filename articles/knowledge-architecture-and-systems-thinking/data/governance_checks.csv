@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+ST-001,boundary,System boundaries and adjacent contexts are documented,high
+ST-002,objects,Knowledge objects are typed and have metadata,high
+ST-003,relationships,Relationships are typed directional and traceable,high
+ST-004,feedback,Major knowledge objects participate in learning or review loops,high
+ST-005,scale,Scale context is documented for major objects,medium
+ST-006,assumptions,Mental models and category assumptions are explicit,high
+ST-007,evidence,Evidence links include quality and uncertainty notes,high
+ST-008,governance,Revision logs and governance checks are preserved,high
+ST-009,AI,AI retrieval uses provenance metadata and human review,high
+ST-010,equity,Classification and relationship design are reviewed for exclusion or erasure,high

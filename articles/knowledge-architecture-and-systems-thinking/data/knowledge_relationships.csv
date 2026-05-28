@@ -1,0 +1,15 @@
+source_object_id,relationship_type,target_object_id,provenance_note,uncertainty_note,feedback_relevant,review_status
+article_map,organizes,concept_framework,series_architecture,category logic can change,false,current
+concept_framework,usesEvidence,evidence_record,reference_map,evidence quality varies,false,current
+evidence_record,supportsModel,model_record,methods_note,model assumptions may change,false,current
+model_record,informsDecision,decision_record,decision_file,model output is not judgment,false,current
+decision_record,monitoredBy,outcome_indicator,evaluation_plan,indicator may miss context,true,current
+outcome_indicator,feedsBackTo,revision_log,review_cycle,feedback may be delayed,true,current
+revision_log,revises,article_map,editorial_update,revision process needs metadata,true,needs_review
+ai_retrieval_record,retrieves,evidence_record,retrieval_log,retrieval may miss context,false,current
+ai_retrieval_record,flagsGapFor,revision_log,ai_review,AI gap detection requires human review,true,current
+repository_record,supports,model_record,repository_readme,code examples are synthetic,false,current
+governance_check,governsReviewOf,article_map,governance_protocol,review cadence must be maintained,true,current
+assumption_register,documentsAssumptionsFor,concept_framework,architecture_notes,assumptions require revision,true,current
+boundary_note,setsBoundaryFor,article_map,boundary_note,scope may need expansion,false,current
+article_map,related,ai_retrieval_record,,relationship needs clearer typing,false,needs_review
