@@ -1,0 +1,7 @@
+retrieval_id,index_id,retrieved_object_id,rank_position,reviewed,needs_review
+RET-001,embedding_index,article_ai_ko,1,True,False
+RET-002,embedding_index,metadata_schema,1,True,False
+RET-003,embedding_index,knowledge_graph,2,True,False
+RET-004,embedding_index,source_hierarchy,1,True,False
+RET-005,embedding_index,equity_review,1,True,False
+RET-006,embedding_index,knowledge_graph,3,False,True

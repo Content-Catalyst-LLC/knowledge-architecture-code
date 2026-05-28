@@ -1,0 +1,4 @@
+correction_id,object_type,object_id,correction_type,correction_note,prior_value,revised_value,changed_at,reviewed_by
+COR-001,relationship,embedding_index_to_knowledge_graph,relationship_type,Replace vague related relationship with a clearer relationship type,related,candidateForHybridRetrieval,2026-05-27,human_review
+COR-002,metadata,ai_summary,metadata_completion,Add required metadata and review context,missing_metadata,complete_metadata_required,2026-05-27,human_review
+COR-003,taxonomy,taxonomy,equity_review,Review terms for exclusion or outdated labels,unreviewed,equity_review_required,2026-05-27,equity_review

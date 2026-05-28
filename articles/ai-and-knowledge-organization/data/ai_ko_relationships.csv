@@ -1,0 +1,16 @@
+source_object_id,relationship_type,target_object_id,provenance_note,uncertainty_note,review_status
+article_ai_ko,describedBy,metadata_schema,article_metadata,metadata may need extension,current
+metadata_schema,supportsClassification,taxonomy,architecture_notes,taxonomy scope may change,current
+controlled_vocabulary,normalizesTermsFor,taxonomy,vocabulary_notes,preferred labels need review,current
+taxonomy,informsOntology,ontology,ontology_design_notes,ontology provenance incomplete,provisional
+ontology,definesGraphStructure,knowledge_graph,schema_review,requires formal review,current
+article_ai_ko,indexedIn,embedding_index,embedding_pipeline_log,embedding model requires evaluation,needs_review
+retrieval_record,retrieves,article_ai_ko,retrieval_log,relevance should be evaluated,current
+rag_trace,groundsOutput,ai_summary,rag_trace,source context may be incomplete,current
+ai_summary,groundedBy,retrieval_record,rag_trace,AI output requires human review,needs_review
+human_review,reviews,ai_summary,review_log,review criteria need documentation,current
+correction_record,revises,taxonomy,taxonomy_change_log,revision may affect retrieval,current
+correction_record,updates,metadata_schema,metadata_revision_log,schema changes require migration,current
+source_hierarchy,governsRankingOf,retrieval_record,source_ranking_policy,ranking policy needs periodic review,current
+equity_review,reviews,taxonomy,equity_review_note,classification can reproduce exclusion,current
+embedding_index,related,knowledge_graph,,relationship needs clearer typing,needs_review

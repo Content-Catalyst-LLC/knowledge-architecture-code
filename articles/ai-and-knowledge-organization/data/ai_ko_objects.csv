@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_provenance,has_review_context,status
+article_ai_ko,AI and Knowledge Organization,article,true,true,true,active
+metadata_schema,Metadata Schema,schema,true,true,true,active
+taxonomy,Knowledge Architecture Taxonomy,taxonomy,true,true,true,active
+controlled_vocabulary,Controlled Vocabulary,taxonomy,true,true,true,active
+ontology,Knowledge Organization Ontology,ontology,true,false,true,provisional
+knowledge_graph,Knowledge Graph,graph,true,true,true,active
+embedding_index,Embedding Index,vector_index,true,false,false,review_needed
+retrieval_record,Retrieval Record,retrieval,true,true,false,review_needed
+ai_summary,AI Summary,ai_output,false,true,false,review_needed
+human_review,Human Review Record,review,true,true,true,active
+correction_record,Correction Record,governance,true,true,true,active
+source_hierarchy,Source Hierarchy Rules,governance,true,true,true,active
+equity_review,Equity and Representation Review,review,true,true,true,active
+rag_trace,RAG Trace Record,retrieval,true,true,true,active

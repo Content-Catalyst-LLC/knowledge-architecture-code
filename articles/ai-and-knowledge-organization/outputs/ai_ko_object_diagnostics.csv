@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_provenance,has_review_context,status,relationship_degree,is_orphan,needs_review
+article_ai_ko,AI and Knowledge Organization,article,True,True,True,active,3,False,False
+metadata_schema,Metadata Schema,schema,True,True,True,active,3,False,False
+taxonomy,Knowledge Architecture Taxonomy,taxonomy,True,True,True,active,5,False,False
+controlled_vocabulary,Controlled Vocabulary,taxonomy,True,True,True,active,1,False,False
+ontology,Knowledge Organization Ontology,ontology,True,False,True,provisional,2,False,True
+knowledge_graph,Knowledge Graph,graph,True,True,True,active,2,False,False
+embedding_index,Embedding Index,vector_index,True,False,False,review_needed,2,False,True
+retrieval_record,Retrieval Record,retrieval,True,True,False,review_needed,3,False,True
+ai_summary,AI Summary,ai_output,False,True,False,review_needed,3,False,True
+human_review,Human Review Record,review,True,True,True,active,1,False,False
+correction_record,Correction Record,governance,True,True,True,active,2,False,False
+source_hierarchy,Source Hierarchy Rules,governance,True,True,True,active,1,False,False
+equity_review,Equity and Representation Review,review,True,True,True,active,1,False,False
+rag_trace,RAG Trace Record,retrieval,True,True,True,active,1,False,False

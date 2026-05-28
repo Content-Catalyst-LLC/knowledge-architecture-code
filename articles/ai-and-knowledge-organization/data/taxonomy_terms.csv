@@ -1,0 +1,8 @@
+term_id,preferred_label,alternative_labels,scope_note,broader_term_id,review_status
+knowledge_architecture,Knowledge Architecture,knowledge design; intellectual infrastructure,Design of knowledge structures for discovery use revision and governance,,current
+metadata,Metadata,descriptive metadata; governance metadata,Data describing knowledge objects,knowledge_architecture,current
+taxonomy,Taxonomy,classification; category system,Hierarchical or structured category system,knowledge_architecture,current
+ontology,Ontology,semantic model; concept model,Formal definition of object and relationship types,knowledge_architecture,provisional
+knowledge_graph,Knowledge Graph,semantic graph; graph knowledge base,Graph of entities concepts and relationships,knowledge_architecture,current
+retrieval_augmented_generation,Retrieval-Augmented Generation,RAG,Generative AI grounded in retrieved source material,artificial_intelligence,current
+source_hierarchy,Source Hierarchy,source ranking; authority rules,Rules for source authority and ranking,knowledge_architecture,current

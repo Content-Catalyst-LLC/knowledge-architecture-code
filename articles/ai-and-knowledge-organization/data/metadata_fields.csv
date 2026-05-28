@@ -1,0 +1,11 @@
+field_id,label,definition,required,field_type,governance_note
+title,Title,Human-readable title,true,text,Required for all objects
+object_type,Object Type,Controlled object type,true,controlled_value,Must use approved object-type vocabulary
+source_type,Source Type,Primary secondary commentary dataset model or AI-generated,true,controlled_value,Supports source hierarchy
+created_at,Created At,Creation date,true,date,Supports currency and versioning
+updated_at,Updated At,Last update date,false,date,Supports revision review
+review_status,Review Status,Provisional reviewed deprecated needs_review,true,controlled_value,Supports governance workflows
+provenance_note,Provenance Note,Origin source method or pipeline context,true,text,Required for trust and auditability
+license_note,License Note,Reuse and licensing conditions,false,text,Required for public repository objects
+sensitivity_note,Sensitivity Note,Privacy community governance or access limitation,false,text,Required for sensitive knowledge
+jurisdiction_or_scope,Jurisdiction or Scope,Domain jurisdiction population or scope limitation,false,text,Important for legal policy and governance sources

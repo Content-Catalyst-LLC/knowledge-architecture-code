@@ -1,0 +1,9 @@
+{
+  "article_title": "AI and Knowledge Organization",
+  "slug": "ai-and-knowledge-organization",
+  "series": "Knowledge Architecture",
+  "category": "Thinking",
+  "focus_keyword": "AI and knowledge organization",
+  "github_folder": "https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/ai-and-knowledge-organization",
+  "description": "Companion research scaffold for AI-assisted knowledge organization, including metadata, taxonomies, ontologies, knowledge graphs, embeddings, retrieval records, RAG grounding, provenance, source hierarchy, human review, and governance."
+}

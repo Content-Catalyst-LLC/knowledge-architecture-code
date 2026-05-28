@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+AIKO-001,metadata,Knowledge objects include required metadata fields,high
+AIKO-002,provenance,Metadata labels relationships and outputs include provenance,high
+AIKO-003,taxonomy,Taxonomy terms include scope notes and review status,high
+AIKO-004,ontology,Ontology classes and relationship types are defined and reviewed,high
+AIKO-005,retrieval,Retrieval records preserve query result rank relevance and review status,high
+AIKO-006,RAG,AI outputs are grounded in retrieval records or citations,high
+AIKO-007,source_hierarchy,Source hierarchy rules distinguish authority evidence type scope and currency,high
+AIKO-008,human_review,AI-generated labels summaries and relationships have review status,high
+AIKO-009,equity,Classification and retrieval are reviewed for representation and exclusion,high
+AIKO-010,correction,Errors become correction records taxonomy changes or metadata improvements,medium

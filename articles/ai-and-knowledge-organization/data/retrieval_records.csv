@@ -1,0 +1,7 @@
+retrieval_id,index_id,query_text,retrieved_object_id,rank_position,relevance_note,reviewed
+RET-001,embedding_index,AI and knowledge organization article_ai_ko,article_ai_ko,1,Exact article match,true
+RET-002,embedding_index,metadata schema for AI retrieval,metadata_schema,1,Strong schema relevance,true
+RET-003,embedding_index,ontology knowledge graph AI,knowledge_graph,2,Relevant but needs ontology context,true
+RET-004,embedding_index,source hierarchy for RAG,source_hierarchy,1,Relevant governance record,true
+RET-005,embedding_index,equity in AI classification,equity_review,1,Relevant review record,true
+RET-006,embedding_index,vector graph relation,knowledge_graph,3,Semantic similarity but relationship is unclear,false

@@ -1,0 +1,9 @@
+rule_id,domain,source_type,authority_rank,rule_note,review_status
+SH-001,knowledge_organization,W3C standard,1,Use for SKOS and web standard references,current
+SH-002,metadata,standards_body,1,Use for metadata schema standards,current
+SH-003,AI_governance,NIST guidance,1,Use for AI risk management and governance,current
+SH-004,AI_education,UNESCO guidance,1,Use for global education AI governance,current
+SH-005,research,peer_reviewed_article,2,Use for scholarly evidence,current
+SH-006,research,book,3,Use for foundational scholarship,current
+SH-007,general,blog_post,5,Use only as commentary or context,provisional
+SH-008,general,AI_generated_summary,6,Do not treat as source evidence without grounding,needs_review

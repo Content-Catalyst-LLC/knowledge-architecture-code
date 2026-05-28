@@ -1,0 +1,5 @@
+review_id,object_type,object_id,review_type,review_status,review_note,reviewed_at
+HR-001,ai_output,OUT-001,summary_review,reviewed,Summary grounded in approved article and metadata records,2026-05-27
+HR-002,ai_output,OUT-002,classification_review,reviewed,Classification aligns with taxonomy,2026-05-27
+HR-003,ai_output,OUT-003,recommendation_review,provisional,Related article recommendations need editorial review,2026-05-27
+HR-004,relationship,embedding_index_to_knowledge_graph,relationship_review,needs_review,Relation is weakly typed and should be revised,2026-05-27

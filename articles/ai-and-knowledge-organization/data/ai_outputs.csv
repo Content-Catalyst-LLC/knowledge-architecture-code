@@ -1,0 +1,5 @@
+output_id,output_type,prompt_note,model_note,grounding_note,review_status,created_at
+OUT-001,summary,Summarize AI and knowledge organization article,synthetic_ai_workflow,Grounded in article and metadata records,reviewed,2026-05-27
+OUT-002,classification,Classify article into knowledge architecture taxonomy,synthetic_ai_workflow,Grounded in taxonomy terms,reviewed,2026-05-27
+OUT-003,recommendation,Recommend related articles,synthetic_ai_workflow,Grounded in relationship records,provisional,2026-05-27
+OUT-004,relationship_inference,Suggest relation between embeddings and knowledge graph,synthetic_ai_workflow,Grounding is weak and requires review,needs_review,2026-05-27
