@@ -1,0 +1,5 @@
+evidence_id,title,evidence_type,method_note,quality_note,uncertainty_note,equity_note,status
+evidence_study,Evaluation Study,evaluation_evidence,Quasi-experimental or evaluation synthesis,moderate,external validity varies,equity effects require disaggregation,active
+evidence_community,Community Feedback,community_knowledge,Structured feedback or participatory review,strong contextual insight,not statistically representative,essential for affected-group context,active
+evidence_model,Scenario Model Output,model_output,Scenario-based model,illustrative,model assumptions affect outcomes,may miss distributional harm,active
+evidence_admin,Administrative Records,administrative_data,Operational data extract,high coverage for formal system,missingness and coding bias possible,may miss informal experiences,active

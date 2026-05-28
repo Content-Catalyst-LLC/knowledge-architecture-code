@@ -1,0 +1,6 @@
+assumption_id,question_id,assumption_text,assumption_type,sensitivity_level,review_status
+A-001,decision_question,Evaluation evidence is sufficiently relevant to the decision context,evidence,high,provisional
+A-002,decision_question,Community feedback identifies implementation risks not visible in administrative data,equity,high,current
+A-003,decision_question,Option A can be implemented within current institutional capacity,implementation,medium,provisional
+A-004,decision_question,Outcome indicators will capture meaningful change,measurement,medium,needs_review
+A-005,decision_question,Feedback can be incorporated before the next review cycle,learning,medium,provisional

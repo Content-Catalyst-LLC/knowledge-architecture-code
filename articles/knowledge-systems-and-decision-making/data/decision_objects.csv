@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_equity_context,has_review_context,status
+decision_question,Decision Question,decision_question,true,true,true,active
+evidence_study,Evaluation Study,evidence,true,false,true,active
+evidence_community,Community Feedback,evidence,true,true,true,active
+evidence_model,Scenario Model Output,evidence,true,false,true,active
+option_a,Option A,option,true,true,false,proposed
+option_b,Option B,option,true,false,false,proposed
+criterion_effectiveness,Effectiveness Criterion,criterion,true,false,true,active
+criterion_equity,Equity Criterion,criterion,true,true,true,active
+criterion_feasibility,Feasibility Criterion,criterion,true,false,true,active
+decision_record,Decision Record,decision,true,true,true,active
+outcome_indicator,Outcome Indicator,outcome,true,true,false,review_needed
+feedback_record,Feedback Record,feedback,false,true,true,review_needed
+governance_record,Governance Review Record,governance_record,true,true,true,active
+assumption_register,Assumption Register,assumption,true,false,true,active

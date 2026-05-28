@@ -1,0 +1,17 @@
+metric,value
+object_count,14
+relationship_count,16
+evidence_source_count,4
+actor_count,5
+assumption_count,5
+outcome_feedback_record_count,4
+metadata_coverage,0.929
+equity_context_coverage,0.643
+review_context_coverage,0.786
+relationship_traceability,0.938
+underspecified_relationship_risk,0.063
+feedback_link_share,0.063
+orphan_count,0
+review_needed_count,2
+relationship_type_count,13
+governance_check_count,10

@@ -1,0 +1,7 @@
+criterion_id,label,criterion_type,weight,value_note
+criterion_effectiveness,Effectiveness,effectiveness,0.30,Expected improvement in intended outcome
+criterion_equity,Equity,equity,0.25,Distributional procedural and affected-group considerations
+criterion_feasibility,Feasibility,feasibility,0.20,Capacity authority resources and implementation realism
+criterion_cost,Cost,cost,0.10,Fiscal or resource burden
+criterion_legitimacy,Legitimacy,legitimacy,0.10,Trust transparency participation and accountability
+criterion_learning,Learning Potential,learning,0.05,Ability to generate feedback and improve future decisions

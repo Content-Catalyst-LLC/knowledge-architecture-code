@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_equity_context,has_review_context,status,relationship_degree,is_orphan,needs_review
+decision_question,Decision Question,decision_question,True,True,True,active,3,False,False
+evidence_study,Evaluation Study,evidence,True,False,True,active,2,False,False
+evidence_community,Community Feedback,evidence,True,True,True,active,2,False,False
+evidence_model,Scenario Model Output,evidence,True,False,True,active,1,False,False
+option_a,Option A,option,True,True,False,proposed,5,False,False
+option_b,Option B,option,True,False,False,proposed,3,False,False
+criterion_effectiveness,Effectiveness Criterion,criterion,True,False,True,active,2,False,False
+criterion_equity,Equity Criterion,criterion,True,True,True,active,1,False,False
+criterion_feasibility,Feasibility Criterion,criterion,True,False,True,active,2,False,False
+decision_record,Decision Record,decision,True,True,True,active,7,False,False
+outcome_indicator,Outcome Indicator,outcome,True,True,False,review_needed,1,False,True
+feedback_record,Feedback Record,feedback,False,True,True,review_needed,1,False,True
+governance_record,Governance Review Record,governance_record,True,True,True,active,1,False,False
+assumption_register,Assumption Register,assumption,True,False,True,active,1,False,False

@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+DK-001,question,Decision question and context are explicit,high
+DK-002,evidence,Evidence sources include type method quality and uncertainty notes,high
+DK-003,options,Options are connected to criteria and evidence,high
+DK-004,equity,Equity context and affected groups are documented,high
+DK-005,traceability,Relationships include provenance,high
+DK-006,assumptions,Assumptions are documented and sensitivity is reviewed,high
+DK-007,feedback,Outcomes and feedback are linked to decision records,high
+DK-008,governance,Decision authority review status and accountability are documented,high
+DK-009,ai,AI-assisted decision support preserves provenance uncertainty and human review,high
+DK-010,revision,Decision records include review triggers or revision pathways,medium

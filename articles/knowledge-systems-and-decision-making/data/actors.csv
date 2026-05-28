@@ -1,0 +1,6 @@
+actor_id,name,actor_type,authority_note,affected_status,participation_status
+decision_authority,Decision Authority,institution,Can approve or reject the decision,not_directly_affected,active
+analyst_team,Analyst Team,research_team,Prepares evidence and options,not_directly_affected,active
+affected_community,Affected Community,community,Provides lived experience and feedback,directly_affected,consulted
+implementation_unit,Implementation Unit,organization,Implements selected option,operationally_affected,active
+governance_body,Governance Body,review_body,Reviews decision process and accountability,not_directly_affected,active

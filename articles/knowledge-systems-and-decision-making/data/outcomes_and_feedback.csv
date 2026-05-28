@@ -1,0 +1,5 @@
+record_id,record_type,linked_decision_id,label,summary,action_required,review_status
+outcome_indicator,outcome,decision_record,Outcome Indicator,Tracks post-decision performance,true,provisional
+feedback_record,feedback,decision_record,Feedback Record,Captures affected-group and implementation feedback,true,needs_review
+review_record,review,decision_record,Review Record,Documents governance review status,true,current
+revision_trigger,revision,decision_record,Revision Trigger,Specifies when decision should be revisited,true,provisional

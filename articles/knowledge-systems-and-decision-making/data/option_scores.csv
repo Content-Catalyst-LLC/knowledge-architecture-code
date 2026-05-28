@@ -1,0 +1,13 @@
+option_id,criterion_id,score,score_note,evidence_id
+option_a,criterion_effectiveness,0.78,Evaluation evidence suggests plausible outcome improvement,evidence_study
+option_a,criterion_equity,0.72,Community feedback suggests better affected-group alignment,evidence_community
+option_a,criterion_feasibility,0.68,Implementation is possible but capacity-limited,evidence_admin
+option_a,criterion_cost,0.55,Moderate cost burden,evidence_admin
+option_a,criterion_legitimacy,0.75,Transparent process and feedback pathway,evidence_community
+option_a,criterion_learning,0.80,Strong feedback potential,evidence_model
+option_b,criterion_effectiveness,0.62,Model suggests possible benefits but weaker evidence,evidence_model
+option_b,criterion_equity,0.40,Equity effects underdeveloped,evidence_community
+option_b,criterion_feasibility,0.74,Operationally easier to implement,evidence_admin
+option_b,criterion_cost,0.70,Lower direct resource burden,evidence_admin
+option_b,criterion_legitimacy,0.45,Limited stakeholder support,evidence_community
+option_b,criterion_learning,0.50,Feedback pathway less clear,evidence_model
