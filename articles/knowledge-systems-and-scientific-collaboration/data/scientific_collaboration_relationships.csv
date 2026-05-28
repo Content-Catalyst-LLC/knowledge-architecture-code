@@ -1,0 +1,17 @@
+source_object_id,relationship_type,target_object_id,provenance_note,uncertainty_note,review_status
+research_question,operationalizedBy,protocol,study_design_record,research question may evolve,current
+protocol,producesData,dataset,protocol_version,protocol deviations require tracking,current
+dataset,describedBy,data_dictionary,metadata_record,data dictionary must stay synchronized,current
+dataset,analyzedBy,analysis_script,workflow_record,script provenance incomplete,needs_review
+analysis_script,dependsOn,environment_file,repository_record,dependency versions require maintenance,current
+analysis_script,generates,figure_output,workflow_log,output needs review,current
+figure_output,supportsClaimIn,publication,figure_caption,claim support depends on analysis validity,current
+peer_review,reviews,publication,review_record,review metadata incomplete,needs_review
+revision_record,revises,analysis_script,change_log,revision should include test result,current
+revision_record,updates,publication,revision_note,publication correction status must be clear,current
+ethics_record,governs,dataset,ethics_protocol,sensitive data conditions apply,current
+repository_record,stores,analysis_script,repository_readme,repository requires tests,current
+repository_record,stores,data_dictionary,repository_readme,metadata file versioning required,current
+ai_literature_review,supportsBackgroundFor,research_question,ai_trace,AI-generated summary needs review,needs_review
+replication_record,tests,publication,replication_note,replication context differs,current
+figure_output,related,dataset,,relationship needs clearer typing,needs_review

@@ -1,0 +1,5 @@
+software_id,title,software_type,repository_path,environment_note,license_note,test_status,review_status
+analysis_script,Analysis Script,python_script,python/scientific_collaboration_knowledge_system_audit.py,Python standard library only,MIT-compatible synthetic example,partial,needs_review
+r_diagnostics,R Diagnostics Script,r_script,r/scientific_collaboration_knowledge_system_diagnostics.R,Base R only,MIT-compatible synthetic example,not_run,provisional
+sql_schema,Scientific Collaboration Schema,sql_schema,sql/scientific_collaboration_knowledge_system_schema.sql,SQLite-compatible schema,MIT-compatible synthetic example,not_run,current
+julia_metrics,Julia Metrics Script,julia_script,julia/scientific_collaboration_metrics.jl,Julia standard library only,MIT-compatible synthetic example,not_run,current

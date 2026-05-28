@@ -11,7 +11,7 @@ Each article folder may include:
 - `python/` — diagnostics, graph modeling, metadata audits, and reproducible utilities
 - `r/` — summaries, coverage audits, and analytical tables
 - `julia/` — mathematical or computational exploration
-- `sql/` — schemas for concepts, relationships, metadata, evidence, repositories, governance, and revisions
+- `sql` — schemas for concepts, relationships, metadata, evidence, repositories, governance, and revisions
 - `rust/` — CLI validation or strongly typed tooling
 - `go/` — lightweight services or validation utilities
 - `cpp/` — efficient structural analysis examples

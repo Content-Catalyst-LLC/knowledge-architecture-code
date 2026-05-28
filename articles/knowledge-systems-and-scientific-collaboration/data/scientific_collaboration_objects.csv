@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_provenance,has_review_context,status
+research_question,Research Question,question,true,true,true,active
+protocol,Study Protocol,method,true,true,true,active
+dataset,Research Dataset,data,true,true,true,active
+data_dictionary,Data Dictionary,metadata,true,true,true,active
+analysis_script,Analysis Script,software,true,false,false,review_needed
+environment_file,Environment File,software,true,true,true,active
+figure_output,Figure Output,output,true,true,false,review_needed
+publication,Research Publication,publication,true,true,true,active
+peer_review,Peer Review Record,review,false,true,true,review_needed
+revision_record,Revision Record,governance,true,true,true,active
+ethics_record,Ethics Approval Record,ethics,true,true,true,active
+repository_record,Repository Record,governance,true,true,true,active
+ai_literature_review,AI Literature Review Trace,ai,true,true,false,review_needed
+replication_record,Replication Record,review,true,true,true,active

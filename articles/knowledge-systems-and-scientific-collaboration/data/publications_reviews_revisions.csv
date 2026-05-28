@@ -1,0 +1,6 @@
+record_id,record_type,linked_object_id,title,status,review_note
+publication,publication,publication,Research Publication,active,Publication links claims to data code and figures
+peer_review,peer_review,publication,Peer Review Record,review_needed,Peer-review metadata incomplete
+revision_record,revision,analysis_script,Revision Record,active,Revision improves script provenance and test notes
+replication_record,replication,publication,Replication Record,active,Replication context and limitations documented
+correction_note,correction,publication,Correction Note,provisional,Correction workflow available if analysis changes

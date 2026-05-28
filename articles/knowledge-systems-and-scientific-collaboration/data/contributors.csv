@@ -1,0 +1,8 @@
+contributor_id,display_name,role,institution,contribution_note
+C001,Contributor One,domain_scientist,university,Develops theory research questions and scientific interpretation
+C002,Contributor Two,data_steward,university,Maintains metadata data dictionary and provenance records
+C003,Contributor Three,software_engineer,research_institute,Builds computational workflow tests and repository structure
+C004,Contributor Four,statistician,research_institute,Supports study design inference and uncertainty analysis
+C005,Contributor Five,community_partner,community_org,Contributes local context priorities and interpretation
+C006,Contributor Six,ethics_reviewer,governance_body,Reviews consent privacy and responsible research conditions
+C007,Contributor Seven,field_researcher,field_station,Collects observations and documents site context

@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_provenance,has_review_context,status,relationship_degree,is_orphan,needs_review
+research_question,Research Question,question,True,True,True,active,2,False,False
+protocol,Study Protocol,method,True,True,True,active,2,False,False
+dataset,Research Dataset,data,True,True,True,active,5,False,False
+data_dictionary,Data Dictionary,metadata,True,True,True,active,2,False,False
+analysis_script,Analysis Script,software,True,False,False,review_needed,5,False,True
+environment_file,Environment File,software,True,True,True,active,1,False,False
+figure_output,Figure Output,output,True,True,False,review_needed,3,False,True
+publication,Research Publication,publication,True,True,True,active,4,False,False
+peer_review,Peer Review Record,review,False,True,True,review_needed,1,False,True
+revision_record,Revision Record,governance,True,True,True,active,2,False,False
+ethics_record,Ethics Approval Record,ethics,True,True,True,active,1,False,False
+repository_record,Repository Record,governance,True,True,True,active,2,False,False
+ai_literature_review,AI Literature Review Trace,ai,True,True,False,review_needed,1,False,True
+replication_record,Replication Record,review,True,True,True,active,1,False,False

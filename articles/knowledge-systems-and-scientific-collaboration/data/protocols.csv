@@ -1,0 +1,5 @@
+protocol_id,title,protocol_type,version_note,method_note,deviation_note,review_status
+protocol,Study Protocol,study_design,v1.0,Defines data collection and analysis plan,None recorded,current
+field_protocol,Field Protocol,data_collection,v1.1,Defines field observation procedure,Weather-related timing deviations,current
+analysis_protocol,Analysis Protocol,computational,v0.9,Defines preprocessing modeling and visualization,Requires code review,needs_review
+ethics_protocol,Ethics Protocol,governance,v1.0,Defines consent privacy access and benefit-sharing conditions,None recorded,current

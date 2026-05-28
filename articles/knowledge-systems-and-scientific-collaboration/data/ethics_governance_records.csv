@@ -1,0 +1,6 @@
+record_id,record_type,linked_object_id,title,status,governance_note
+ethics_record,ethics,dataset,Ethics Approval Record,active,Dataset governed by consent access and privacy notes
+data_use_agreement,data_governance,dataset,Data Use Agreement,active,Reuse conditions documented
+community_stewardship,community_governance,qualitative_notes,Community Stewardship Record,provisional,Community interpretation and access rules should be reviewed
+ai_review_record,ai_governance,ai_literature_review,AI Review Record,needs_review,AI-generated literature summaries require human review
+authorship_record,authorship,publication,Authorship and Contribution Record,active,Contributor roles and credit documented

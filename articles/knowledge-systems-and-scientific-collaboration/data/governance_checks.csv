@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+SCI-001,project,Research question project scope and governance are documented,high
+SCI-002,contributors,Contributor roles credit and institutional affiliations are visible,high
+SCI-003,data,Datasets include metadata data dictionaries provenance and access conditions,high
+SCI-004,methods,Protocols include version method deviation and review notes,high
+SCI-005,software,Code environment dependencies tests and expected outputs are documented,high
+SCI-006,publication,Publications link claims to data code figures review and corrections,high
+SCI-007,ethics,Ethics consent privacy and data governance records are linked to research objects,high
+SCI-008,FAIR,Outputs are findable accessible interoperable and reusable where ethical,high
+SCI-009,AI,AI-assisted research traces preserve sources limitations and human review,high
+SCI-010,equity,Global local technical junior and community contributions are represented fairly,high
