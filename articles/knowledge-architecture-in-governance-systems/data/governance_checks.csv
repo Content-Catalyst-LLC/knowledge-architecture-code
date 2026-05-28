@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+GA-001,authority,Institution jurisdiction mandate and decision authority are documented,high
+GA-002,rules,Rules are linked to decisions and review pathways,high
+GA-003,evidence,Evidence sources include type method quality and uncertainty notes,high
+GA-004,participation,Participation records include response and influence notes,high
+GA-005,accountability,Decision records include appeal audit or review pathway,high
+GA-006,equity,Affected groups distributional effects and contestability are documented,high
+GA-007,traceability,Governance relationships include provenance,high
+GA-008,audit,Audit findings are linked to implementation and revision records,high
+GA-009,revision,Governance systems preserve institutional memory and follow-up status,medium
+GA-010,ai,AI-assisted governance preserves provenance human review auditability and contestability,high

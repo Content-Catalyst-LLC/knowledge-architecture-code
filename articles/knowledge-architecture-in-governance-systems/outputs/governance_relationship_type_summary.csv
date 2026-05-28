@@ -1,0 +1,16 @@
+relationship_type,count
+issuedBy,1
+authorizedBy,1
+supportedByEvidence,1
+fundedBy,1
+informsDecision,1
+participatesIn,1
+implements,1
+monitorsOutcomeOf,1
+reviews,1
+respondsToReview,1
+revises,1
+governsReviewOf,1
+governsAIUseFor,1
+providesContestabilityFor,1
+related,1

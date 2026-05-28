@@ -1,0 +1,5 @@
+institution_id,name,institution_type,jurisdiction,mandate_note,accountability_note,status
+institution_agency,Public Governance Agency,agency,local_public_governance,Implements public program decisions under legal mandate,Subject to audit public reporting and appeal,active
+oversight_body,Independent Oversight Body,oversight_body,local_public_governance,Reviews implementation integrity and accountability,Publishes audit findings and follow-up status,active
+civic_review_body,Civic Review Body,civic_body,community_governance,Reviews public participation and affected-group concerns,Provides consultation response review,active
+judicial_review_body,Judicial Review Body,court,legal_review,Reviews legality rights and procedural fairness,Provides appeal or judicial review pathway,active

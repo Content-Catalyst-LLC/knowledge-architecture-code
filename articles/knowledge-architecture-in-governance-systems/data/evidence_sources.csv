@@ -1,0 +1,6 @@
+evidence_id,title,evidence_type,method_note,quality_note,uncertainty_note,equity_note,status
+evidence_report,Evidence Report,research_report,Policy evidence synthesis,moderate,source scope and methods require review,distributional implications require analysis,active
+admin_data,Administrative Data,administrative_data,Program records and service data,high formal coverage,may miss informal or excluded groups,requires category review,active
+consultation_record,Public Consultation Record,participation_record,Structured public and affected-group consultation,strong contextual relevance,participation reach may be uneven,central to legitimacy,active
+audit_finding,Audit Finding,audit_record,Independent or internal audit,requires complete metadata,finding severity depends on criteria,equity effects may require separate review,review_needed
+budget_line,Budget Line,budget_record,Program budget allocation,official fiscal source,fiscal assumptions can change,distributional allocation should be reviewed,active

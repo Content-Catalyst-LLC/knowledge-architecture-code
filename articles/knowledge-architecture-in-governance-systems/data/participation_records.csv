@@ -1,0 +1,5 @@
+participation_id,decision_id,actor_id,participation_method,summary,response_note,influence_note,review_status
+P-001,policy_decision,affected_community,public_consultation,Affected residents identified implementation barriers and trust concerns,Agency acknowledged input and added feedback mechanism,Influenced implementation and review design,current
+P-002,policy_decision,civic_review_body,civic_review,Civic review body requested clearer public rationale and appeal pathway,Agency added public rationale note and appeal path,Influenced accountability design,current
+P-003,policy_decision,implementation_unit,implementation_review,Implementation team identified capacity constraints,Agency adjusted timeline and resource allocation,Influenced implementation plan,provisional
+P-004,policy_decision,oversight_body,audit_review,Oversight body requested follow-up status after audit,Agency added revision record and follow-up field,Influenced audit workflow,current

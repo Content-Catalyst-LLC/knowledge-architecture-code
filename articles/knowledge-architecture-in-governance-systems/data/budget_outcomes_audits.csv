@@ -1,0 +1,6 @@
+record_id,record_type,linked_decision_id,label,summary,follow_up_required,review_status
+budget_line,budget,policy_decision,Budget Line,Illustrative program allocation connected to decision,true,current
+outcome_indicator,outcome,policy_decision,Outcome Indicator,Tracks implementation outcome and distributional effects,true,provisional
+audit_finding,audit,policy_decision,Audit Finding,Reviews implementation integrity and evidence traceability,true,needs_review
+revision_record,revision,policy_decision,Revision Record,Documents corrective action after review,true,current
+appeal_pathway,accountability,policy_decision,Appeal Pathway,Provides challenge or contestability mechanism,true,current

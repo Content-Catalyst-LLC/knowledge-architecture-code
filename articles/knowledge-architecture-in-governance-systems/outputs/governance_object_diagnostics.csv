@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_accountability_context,has_equity_context,status,relationship_degree,is_orphan,needs_review
+institution_agency,Public Governance Agency,institution,True,True,False,active,1,False,False
+legal_mandate,Legal Mandate,rule,True,True,False,active,1,False,False
+policy_decision,Policy Decision,decision,True,True,True,active,11,False,False
+evidence_report,Evidence Report,evidence,True,False,False,active,1,False,False
+budget_line,Budget Line,resource,True,True,False,active,2,False,False
+consultation_record,Public Consultation Record,participation,True,True,True,active,2,False,False
+affected_community,Affected Community,actor,True,False,True,active,2,False,False
+implementation_plan,Implementation Plan,implementation,True,True,True,active,2,False,False
+outcome_indicator,Outcome Indicator,outcome,True,False,True,review_needed,1,False,True
+audit_finding,Audit Finding,audit,False,True,False,review_needed,2,False,True
+revision_record,Revision Record,revision,True,True,True,active,2,False,False
+governance_review_record,Governance Review Record,governance_record,True,True,True,active,1,False,False
+ai_review_record,AI Governance Review Record,governance_record,True,True,True,active,1,False,False
+appeal_pathway,Appeal Pathway,accountability,True,True,True,active,1,False,False

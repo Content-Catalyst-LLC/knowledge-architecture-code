@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_accountability_context,has_equity_context,status
+institution_agency,Public Governance Agency,institution,true,true,false,active
+legal_mandate,Legal Mandate,rule,true,true,false,active
+policy_decision,Policy Decision,decision,true,true,true,active
+evidence_report,Evidence Report,evidence,true,false,false,active
+budget_line,Budget Line,resource,true,true,false,active
+consultation_record,Public Consultation Record,participation,true,true,true,active
+affected_community,Affected Community,actor,true,false,true,active
+implementation_plan,Implementation Plan,implementation,true,true,true,active
+outcome_indicator,Outcome Indicator,outcome,true,false,true,review_needed
+audit_finding,Audit Finding,audit,false,true,false,review_needed
+revision_record,Revision Record,revision,true,true,true,active
+governance_review_record,Governance Review Record,governance_record,true,true,true,active
+ai_review_record,AI Governance Review Record,governance_record,true,true,true,active
+appeal_pathway,Appeal Pathway,accountability,true,true,true,active

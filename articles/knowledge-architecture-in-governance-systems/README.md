@@ -1,18 +1,44 @@
 # Knowledge Architecture in Governance Systems
 
-Article-level companion folder for the Knowledge Architecture knowledge series.
+This folder contains professional companion assets for the article:
+
+**Knowledge Architecture in Governance Systems**
+
+GitHub article folder:
+
+https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/knowledge-architecture-in-governance-systems
+
+## Purpose
+
+This scaffold models knowledge architecture in governance systems: institutions, mandates, rules, decisions, evidence sources, actors, participation records, budgets, outcomes, audits, revisions, accountability context, equity context, participation-response quality, evidence traceability, and AI-assisted governance readiness.
+
+The examples are synthetic but designed for serious governance, institutional-accountability, public-policy, transparency, audit, open-government, and knowledge-architecture analysis. They can be adapted to governance registers, regulatory databases, decision logs, public consultation systems, audit trails, institutional dashboards, open-data portals, and AI-assisted governance workflows.
 
 ## Repository Structure
 
-- `python/` — graph, pathway, concept-network, and knowledge-system examples
-- `r/` — taxonomy diagnostics, category analysis, and coherence workflows
-- `julia/` — high-performance semantic-network and recurrence-style exploration
-- `sql/` — concept, relationship, taxonomy, article, and metadata schemas
-- `rust/` — command-line validation and proof-pattern utility scaffold
-- `go/` — graph, pathway, and repository-analysis scaffold
-- `cpp/` — efficient discrete-structure and graph examples
-- `fortran/` — recurrence, sequence, and numerical-structure examples
-- `c/` — low-level sequence, graph, and file-processing utilities
-- `docs/` — article notes, model documentation, and WordPress repository block
-- `data/` — small synthetic datasets
-- `outputs/` — generated outputs
+- `python/` — governance-object, evidence, accountability, equity, participation, relationship, review, and traceability diagnostics
+- `r/` — coverage summaries, governance object summaries, relationship summaries, participation and review diagnostics
+- `julia/` — governance knowledge-architecture quality metrics
+- `sql/` — schemas for institutions, rules, decisions, evidence, actors, participation, budgets, outcomes, audits, revisions, relationships, and review records
+- `rust/` — CLI-style governance architecture validation scaffold
+- `go/` — lightweight governance coverage and traceability utility
+- `cpp/` — efficient diagnostic metric examples
+- `fortran/` — numerical governance quality metric example
+- `c/` — low-level coverage metric example
+- `docs/` — model notes, data dictionary, governance checklist, and runbook
+- `data/` — small synthetic governance knowledge-system datasets
+- `outputs/` — expected/generated outputs
+
+## Professional Use
+
+This scaffold supports:
+
+- governance knowledge-system audits
+- authority and mandate traceability review
+- evidence-to-decision accountability analysis
+- public participation and response diagnostics
+- equity and contestability review
+- audit and revision workflow design
+- AI-assisted governance review
+- institutional memory and transparency infrastructure
+
