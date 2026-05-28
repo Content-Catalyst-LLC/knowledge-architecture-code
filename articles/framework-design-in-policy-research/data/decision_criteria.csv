@@ -1,0 +1,7 @@
+criterion_id,label,criterion_type,weight,value_note
+effectiveness,Effectiveness,effectiveness,0.25,Expected improvement in housing stability
+equity,Equity,equity,0.25,Distributional effects for affected and vulnerable households
+feasibility,Feasibility,feasibility,0.15,Administrative and implementation capacity
+fiscal_sustainability,Fiscal Sustainability,fiscal,0.15,Budget affordability and long-term funding
+legality,Legality,legal,0.10,Legal authority and rights compliance
+public_legitimacy,Public Legitimacy,legitimacy,0.10,Transparency trust and procedural fairness

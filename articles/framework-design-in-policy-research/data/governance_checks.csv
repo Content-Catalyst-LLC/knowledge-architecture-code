@@ -1,0 +1,10 @@
+check_id,layer,check_name,severity
+PF-001,problem,Problem definition includes scope jurisdiction and affected population,high
+PF-002,evidence,Evidence sources include type method quality and uncertainty notes,high
+PF-003,causality,Policy options are linked to causal pathways,high
+PF-004,stakeholders,Affected communities and implementing institutions are represented,high
+PF-005,equity,Equity context is built into options criteria and evaluation,high
+PF-006,tradeoffs,Decision criteria weights and value judgments are transparent,medium
+PF-007,implementation,Implementation capacity and institutional authority are documented,high
+PF-008,evaluation,Indicators baselines and evaluation questions are documented,high
+PF-009,ai,AI-assisted policy retrieval preserves evidence type jurisdiction and uncertainty,high

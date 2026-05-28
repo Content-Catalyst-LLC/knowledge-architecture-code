@@ -1,0 +1,5 @@
+evidence_id,title,evidence_type,method_note,quality_note,uncertainty_note,equity_note,status
+evidence_admin_data,Administrative Housing Data,administrative_data,Program and court records,High coverage for formal systems,Misses informal displacement,Limited visibility into tenant experience,active
+evidence_community_input,Community Testimony,community_knowledge,Structured listening sessions,Strong contextual insight,Not statistically representative,Essential for lived experience and implementation harms,active
+evidence_eval_literature,Eviction Prevention Evaluation Literature,evaluation_evidence,Review of program evaluations,Moderate causal relevance,External validity varies,Equity effects depend on targeting,active
+evidence_budget_estimate,Rental Assistance Budget Estimate,fiscal_analysis,Cost estimate with sensitivity range,Preliminary,Depends on caseload and rent assumptions,Distribution depends on eligibility,review_needed

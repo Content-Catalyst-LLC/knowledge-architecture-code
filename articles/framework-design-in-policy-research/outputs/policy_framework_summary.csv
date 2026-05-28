@@ -1,0 +1,16 @@
+metric,value
+object_count,10
+relationship_count,10
+evidence_source_count,4
+stakeholder_count,5
+criterion_count,6
+option_score_count,8
+metadata_coverage,0.9
+equity_context_coverage,0.7
+causal_context_coverage,0.6
+relationship_traceability,0.9
+underspecified_relationship_risk,0.1
+orphan_count,0
+review_needed_count,1
+relationship_type_count,9
+governance_check_count,9

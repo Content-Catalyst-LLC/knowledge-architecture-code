@@ -1,0 +1,6 @@
+stakeholder_id,name,stakeholder_type,role_note,affected_status,authority_level,participation_status
+stakeholder_tenants,Tenant Households,affected_community,Experience housing instability and program access barriers,directly_affected,low,consulted
+stakeholder_landlords,Landlords,private_actor,Accept payments and shape housing availability,affected,medium,limited
+stakeholder_city_agency,City Housing Agency,public_agency,Implements rental assistance and reporting,implementer,high,active
+stakeholder_legal_aid,Legal Aid Organizations,civil_society,Supports tenants and identifies rights issues,advocate,medium,active
+stakeholder_courts,Housing Court,legal_institution,Processes eviction cases and procedural rules,institutional,high,limited

@@ -1,0 +1,11 @@
+object_id,title,object_type,has_metadata,has_equity_context,has_causal_context,status,relationship_degree,is_orphan,needs_review
+problem_housing_instability,Housing Instability,policy_problem,True,True,True,active,4,False,False
+evidence_admin_data,Administrative Housing Data,evidence,True,False,True,active,1,False,False
+evidence_community_input,Community Testimony,evidence,True,True,False,active,1,False,False
+option_rental_assistance,Rental Assistance,policy_option,True,True,True,proposed,5,False,False
+option_zoning_reform,Zoning Reform,policy_option,True,False,True,proposed,2,False,False
+institution_city_agency,City Housing Agency,institution,True,False,False,active,1,False,False
+stakeholder_tenants,Tenant Households,stakeholder,True,True,False,active,1,False,False
+indicator_eviction_rate,Eviction Rate,indicator,True,True,True,active,1,False,False
+evaluation_plan,Evaluation Plan,evaluation,False,True,True,review_needed,3,False,True
+governance_record,Framework Review Record,governance_record,True,True,False,active,1,False,False

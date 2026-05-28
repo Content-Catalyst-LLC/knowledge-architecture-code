@@ -1,0 +1,9 @@
+option_id,criterion_id,score,score_note,evidence_id
+option_rental_assistance,effectiveness,0.80,Direct pathway to reduce eviction risk,evidence_eval_literature
+option_rental_assistance,equity,0.75,Can be targeted to high-risk households,evidence_community_input
+option_rental_assistance,feasibility,0.70,Uses existing agency infrastructure,evidence_admin_data
+option_rental_assistance,fiscal_sustainability,0.55,Requires sustained funding,evidence_budget_estimate
+option_zoning_reform,effectiveness,0.60,Longer-term supply effects uncertain,evidence_eval_literature
+option_zoning_reform,equity,0.45,May not help current tenants without protections,evidence_community_input
+option_zoning_reform,feasibility,0.50,Requires political and legal coordination,evidence_admin_data
+option_zoning_reform,fiscal_sustainability,0.80,Lower direct fiscal cost,evidence_budget_estimate
