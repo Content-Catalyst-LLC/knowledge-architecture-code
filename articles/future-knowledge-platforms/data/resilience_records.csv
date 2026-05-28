@@ -1,0 +1,7 @@
+resilience_id,object_id,resilience_type,status,risk_note,stewardship_action
+RES-001,code_repository,dependency_review,partial,Software dependencies may decay,Add dependency audit and tests
+RES-002,foundational_article,content_review,current,References and claims require periodic review,Schedule annual content review
+RES-003,taxonomy,taxonomy_drift,provisional,Categories may drift as platform grows,Maintain taxonomy change log
+RES-004,knowledge_graph,graph_quality,needs_review,Some relationships are weakly typed,Review relationship ontology
+RES-005,article_map,link_integrity,current,Links can break over time,Run periodic link check
+RES-006,metadata_schema,exportability,current,Metadata should remain portable,Maintain CSV and SQL exports

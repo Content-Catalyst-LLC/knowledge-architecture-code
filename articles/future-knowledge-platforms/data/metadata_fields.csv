@@ -1,0 +1,11 @@
+field_id,label,definition,required,field_type,governance_note
+title,Title,Human-readable title,true,text,Required for all platform objects
+object_type,Object Type,Controlled platform object type,true,controlled_value,Supports semantic platform structure
+slug,Slug,Stable URL slug,true,text,Supports persistent discovery
+review_status,Review Status,Provisional reviewed deprecated needs_review,true,controlled_value,Supports trust and governance
+provenance_note,Provenance Note,Origin source or method context,true,text,Required for auditability
+reuse_condition,Reuse Condition,License access or attribution condition,true,text,Supports reuse and open knowledge stewardship
+accessibility_status,Accessibility Status,Accessibility review state,false,controlled_value,Required for public-facing resources
+ai_use_note,AI Use Note,Whether AI was used and how it was reviewed,false,text,Required for AI-assisted outputs
+source_hierarchy,Source Hierarchy,Source authority or evidence ranking,false,text,Supports trustworthy retrieval
+resilience_status,Resilience Status,Backup version migration or dependency status,false,text,Supports long-term stewardship

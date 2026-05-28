@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_provenance,has_reuse_context,has_review_context,status
+article_map,Article Map,article_map,true,true,true,true,active
+foundational_article,Foundational Article,article,true,true,true,true,active
+dataset_record,Dataset Record,dataset,true,true,true,true,active
+code_repository,Code Repository,repository,true,true,true,true,active
+metadata_schema,Metadata Schema,schema,true,true,true,true,active
+taxonomy,Platform Taxonomy,taxonomy,true,true,true,true,active
+knowledge_graph,Knowledge Graph,graph,true,true,false,true,provisional
+ai_retrieval_record,AI Retrieval Record,ai_retrieval,true,true,false,false,review_needed
+ai_summary,AI Summary,ai_output,false,true,false,false,review_needed
+governance_record,Governance Record,governance,true,true,true,true,active
+correction_log,Correction Log,governance,true,true,true,true,active
+accessibility_record,Accessibility Record,accessibility,true,false,true,true,review_needed
+source_hierarchy,Source Hierarchy Rules,governance,true,true,true,true,active
+resilience_record,Platform Resilience Record,resilience,true,true,true,true,active

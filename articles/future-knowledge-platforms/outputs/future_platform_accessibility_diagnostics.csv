@@ -1,0 +1,6 @@
+object_id,accessibility_completeness,semantic_structure_status,review_status,needs_review
+foundational_article,1.0,complete,current,False
+article_map,1.0,complete,current,False
+dataset_record,1.0,complete,current,False
+ai_summary,0.667,partial,needs_review,True
+knowledge_graph,0.0,partial,needs_review,True

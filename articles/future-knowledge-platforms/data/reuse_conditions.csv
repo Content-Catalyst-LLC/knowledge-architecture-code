@@ -1,0 +1,6 @@
+reuse_id,object_id,license_note,attribution_note,sensitivity_note,access_condition,review_status
+REUSE-001,foundational_article,Public article reuse with attribution,Attribution required,No sensitive content,public,current
+REUSE-002,dataset_record,Synthetic example data,Attribution recommended,Synthetic data only,public,current
+REUSE-003,code_repository,MIT-compatible example,Attribution recommended,No sensitive code,public,current
+REUSE-004,knowledge_graph,Prototype semantic structure,Attribution recommended,Graph relations provisional,public,provisional
+REUSE-005,ai_summary,AI-assisted output,Attribution to source article required,Requires human review before reuse,restricted,needs_review

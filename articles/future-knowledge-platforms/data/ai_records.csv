@@ -1,0 +1,6 @@
+record_id,record_type,linked_object_id,grounding_note,human_review_status,created_at
+AI-001,retrieval,foundational_article,Retrieved through semantic and metadata search,reviewed,2026-05-27
+AI-002,output,ai_summary,Grounded in retrieval record AI-001,needs_review,2026-05-27
+AI-003,metadata_suggestion,metadata_schema,Suggested missing AI-use metadata field,provisional,2026-05-27
+AI-004,relationship_suggestion,knowledge_graph,Suggested graph-to-retrieval relationship,needs_review,2026-05-27
+AI-005,gap_detection,taxonomy,Flagged taxonomy area requiring future review,provisional,2026-05-27

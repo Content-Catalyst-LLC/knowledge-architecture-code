@@ -1,0 +1,7 @@
+governance_id,object_type,object_id,governance_type,governance_note,review_status,reviewed_at
+GOV-001,ai_output,ai_summary,ai_review,AI summaries require source grounding and human review,needs_review,2026-05-27
+GOV-002,taxonomy,taxonomy,taxonomy_review,Taxonomy changes require change log and review,current,2026-05-27
+GOV-003,repository,code_repository,reproducibility_review,Repositories require README license runbook and expected outputs,current,2026-05-27
+GOV-004,article,foundational_article,editorial_review,Article requires source review and correction pathways,current,2026-05-27
+GOV-005,accessibility,accessibility_record,accessibility_review,Public-facing objects require accessibility records,needs_review,2026-05-27
+GOV-006,resilience,resilience_record,stewardship_review,Platform requires backup migration and dependency planning,current,2026-05-27

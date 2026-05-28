@@ -1,0 +1,5 @@
+repository_id,linked_object_id,repository_type,repository_url,license_note,readme_status,reproducibility_status,review_status
+repo_001,foundational_article,code,https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/future-knowledge-platforms,MIT-compatible synthetic example,complete,partial,current
+repo_002,dataset_record,data,https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/future-knowledge-platforms/data,CC-BY compatible synthetic example,complete,partial,current
+repo_003,metadata_schema,documentation,https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/future-knowledge-platforms/docs,CC-BY compatible synthetic example,complete,complete,current
+repo_004,knowledge_graph,model,https://github.com/Content-Catalyst-LLC/knowledge-architecture-code/tree/main/articles/future-knowledge-platforms,MIT-compatible synthetic example,partial,missing,needs_review

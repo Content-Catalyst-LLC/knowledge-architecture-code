@@ -1,0 +1,6 @@
+accessibility_id,object_id,has_alt_text,has_captions,has_transcript,semantic_structure_status,review_status
+ACC-001,foundational_article,true,true,true,complete,current
+ACC-002,article_map,true,true,true,complete,current
+ACC-003,dataset_record,true,true,true,complete,current
+ACC-004,ai_summary,false,true,true,partial,needs_review
+ACC-005,knowledge_graph,false,false,false,partial,needs_review

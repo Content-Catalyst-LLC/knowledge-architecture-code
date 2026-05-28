@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_provenance,has_reuse_context,has_review_context,status,relationship_degree,is_orphan,needs_review
+article_map,Article Map,article_map,True,True,True,True,active,2,False,False
+foundational_article,Foundational Article,article,True,True,True,True,active,6,False,False
+dataset_record,Dataset Record,dataset,True,True,True,True,active,2,False,False
+code_repository,Code Repository,repository,True,True,True,True,active,2,False,False
+metadata_schema,Metadata Schema,schema,True,True,True,True,active,1,False,False
+taxonomy,Platform Taxonomy,taxonomy,True,True,True,True,active,2,False,False
+knowledge_graph,Knowledge Graph,graph,True,True,False,True,provisional,2,False,False
+ai_retrieval_record,AI Retrieval Record,ai_retrieval,True,True,False,False,review_needed,4,False,True
+ai_summary,AI Summary,ai_output,False,True,False,False,review_needed,2,False,True
+governance_record,Governance Record,governance,True,True,True,True,active,1,False,False
+correction_log,Correction Log,governance,True,True,True,True,active,1,False,False
+accessibility_record,Accessibility Record,accessibility,True,False,True,True,review_needed,1,False,True
+source_hierarchy,Source Hierarchy Rules,governance,True,True,True,True,active,1,False,False
+resilience_record,Platform Resilience Record,resilience,True,True,True,True,active,1,False,False

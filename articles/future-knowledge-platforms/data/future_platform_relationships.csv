@@ -1,0 +1,15 @@
+source_object_id,relationship_type,target_object_id,provenance_note,uncertainty_note,review_status
+article_map,organizes,foundational_article,editorial_architecture,article map may evolve,current
+foundational_article,usesEvidence,dataset_record,article_reference,dataset context requires maintenance,current
+foundational_article,supportedByRepository,code_repository,github_link,repository requires ongoing dependency review,current
+metadata_schema,describes,dataset_record,metadata_policy,metadata schema may expand,current
+taxonomy,structures,article_map,taxonomy_review,taxonomy drift possible,current
+knowledge_graph,connects,foundational_article,graph_build_log,graph relationship requires review,current
+ai_retrieval_record,retrieves,foundational_article,retrieval_trace,retrieval quality requires testing,current
+ai_summary,groundedBy,ai_retrieval_record,rag_trace,AI summary needs human review,needs_review
+governance_record,requiresReview,ai_summary,ai_governance_policy,review criteria should be explicit,current
+correction_log,updates,taxonomy,taxonomy_change_log,taxonomy update may affect navigation,current
+accessibility_record,reviewsAccessibilityOf,foundational_article,accessibility_audit,accessibility provenance incomplete,needs_review
+source_hierarchy,governsRankingOf,ai_retrieval_record,source_hierarchy_policy,ranking policy needs review,current
+resilience_record,stewards,code_repository,platform_resilience_plan,dependency decay risk,current
+knowledge_graph,related,ai_retrieval_record,,relationship needs clearer typing,needs_review

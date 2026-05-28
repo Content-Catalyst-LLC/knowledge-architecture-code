@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+FKP-001,metadata,Knowledge objects include required metadata and review status,high
+FKP-002,taxonomy,Taxonomy terms and article maps are reviewed for drift and coherence,high
+FKP-003,knowledge_graph,Relationships are typed directional and provenance-backed,high
+FKP-004,AI,AI retrieval and outputs preserve grounding and human review status,high
+FKP-005,repository,Articles connect to repositories when code data or workflows support reuse,medium
+FKP-006,accessibility,Public-facing platform objects include accessibility review,high
+FKP-007,reuse,Licenses attribution and sensitive knowledge conditions are documented,high
+FKP-008,governance,Corrections revisions and review records are preserved,high
+FKP-009,equity,Platform categories and source rankings are reviewed for representation and exclusion,high
+FKP-010,resilience,Backups versioning documentation and dependency review support long-term stewardship,high
