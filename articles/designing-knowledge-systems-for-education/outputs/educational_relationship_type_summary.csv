@@ -1,0 +1,14 @@
+relationship_type,count
+hasSubConcept,1
+supportsObjective,2
+teachesObjective,1
+illustratesObjective,1
+practicesObjective,1
+assessesObjective,2
+evaluatesAssessment,1
+generatesFeedback,1
+feedsBackTo,1
+revises,1
+storesResource,2
+governsAIUseFor,1
+related,1

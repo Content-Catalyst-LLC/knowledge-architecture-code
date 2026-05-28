@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_accessibility_context,has_review_context,status,relationship_degree,is_orphan,needs_review
+concept_systems_thinking,Systems Thinking,concept,True,True,True,active,1,False,False
+concept_feedback_loops,Feedback Loops,concept,True,True,True,active,3,False,False
+objective_explain_feedback,Explain Feedback Loops,objective,True,True,True,active,4,False,False
+objective_apply_feedback,Apply Feedback Concepts,objective,True,True,True,active,3,False,False
+resource_reading,Introductory Reading,resource,True,True,True,active,3,False,False
+resource_diagram,Feedback Diagram,resource,True,False,False,review_needed,4,False,True
+practice_task,Feedback Mapping Practice,practice,True,True,True,active,2,False,False
+assessment_quiz,Concept Check Quiz,assessment,True,True,True,active,2,False,False
+performance_assessment,System Map Assignment,assessment,True,True,True,active,2,False,False
+rubric,Explanation Rubric,rubric,True,True,True,active,1,False,False
+feedback_record,Feedback Record,feedback,False,True,True,review_needed,2,False,True
+revision_log,Revision Log,governance,True,True,True,active,2,False,False
+repository_record,OER Repository Record,repository,True,True,True,active,2,False,False
+ai_review_record,AI Learning Support Review,governance,True,True,True,active,1,False,False

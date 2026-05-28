@@ -1,0 +1,15 @@
+object_id,title,object_type,has_metadata,has_accessibility_context,has_review_context,status
+concept_systems_thinking,Systems Thinking,concept,true,true,true,active
+concept_feedback_loops,Feedback Loops,concept,true,true,true,active
+objective_explain_feedback,Explain Feedback Loops,objective,true,true,true,active
+objective_apply_feedback,Apply Feedback Concepts,objective,true,true,true,active
+resource_reading,Introductory Reading,resource,true,true,true,active
+resource_diagram,Feedback Diagram,resource,true,false,false,review_needed
+practice_task,Feedback Mapping Practice,practice,true,true,true,active
+assessment_quiz,Concept Check Quiz,assessment,true,true,true,active
+performance_assessment,System Map Assignment,assessment,true,true,true,active
+rubric,Explanation Rubric,rubric,true,true,true,active
+feedback_record,Feedback Record,feedback,false,true,true,review_needed
+revision_log,Revision Log,governance,true,true,true,active
+repository_record,OER Repository Record,repository,true,true,true,active
+ai_review_record,AI Learning Support Review,governance,true,true,true,active

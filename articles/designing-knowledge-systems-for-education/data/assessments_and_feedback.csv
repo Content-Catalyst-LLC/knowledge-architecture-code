@@ -1,0 +1,6 @@
+record_id,record_type,linked_object_id,title,purpose,revision_required,review_status
+assessment_quiz,assessment,objective_explain_feedback,Concept Check Quiz,Formative check for explaining feedback loops,false,current
+performance_assessment,assessment,objective_apply_feedback,System Map Assignment,Performance task for applying systems concepts,false,current
+rubric,rubric,performance_assessment,Explanation Rubric,Evaluates clarity accuracy transfer and reflection,false,current
+feedback_record,feedback,assessment_quiz,Feedback Record,Documents learner misconceptions and feedback,true,needs_review
+revision_log,revision,resource_diagram,Revision Log,Records accessibility and curriculum revisions,true,current

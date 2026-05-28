@@ -1,0 +1,6 @@
+resource_id,accessibility_completeness,review_status,needs_review
+resource_reading,1.0,current,False
+resource_diagram,0.25,needs_review,True
+practice_task,1.0,current,False
+performance_assessment,1.0,current,False
+dataset_learning_paths,1.0,current,False

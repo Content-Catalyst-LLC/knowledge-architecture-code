@@ -1,0 +1,5 @@
+objective_id,title,objective_text,cognitive_level,competency_area,status
+objective_explain_feedback,Explain Feedback Loops,Explain how reinforcing and balancing feedback loops affect system behavior,understand,systems_thinking,active
+objective_apply_feedback,Apply Feedback Concepts,Apply feedback-loop concepts to a real or simulated learning system,apply,systems_thinking,active
+objective_evaluate_alignment,Evaluate Alignment,Evaluate whether objectives resources assessments and feedback are aligned,evaluate,curriculum_design,active
+objective_design_pathway,Design Learning Pathway,Design a coherent learning pathway with prerequisites and feedback,create,knowledge_architecture,active

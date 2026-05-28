@@ -1,0 +1,6 @@
+accessibility_id,resource_id,has_alt_text,has_captions,has_transcript,keyboard_accessible,language_support_note,format_alternative_note,review_status
+ACC-001,resource_reading,true,true,true,true,Plain-language summary recommended,HTML and PDF alternatives,current
+ACC-002,resource_diagram,false,false,false,true,Long description needed,Text description required,needs_review
+ACC-003,practice_task,true,true,true,true,Glossary included,Worksheet and text alternatives,current
+ACC-004,performance_assessment,true,true,true,true,Rubric language should be reviewed,Written and oral alternatives,current
+ACC-005,dataset_learning_paths,true,true,true,true,Data dictionary included,CSV and markdown alternatives,current

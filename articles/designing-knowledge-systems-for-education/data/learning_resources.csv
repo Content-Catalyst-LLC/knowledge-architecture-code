@@ -1,0 +1,6 @@
+resource_id,title,resource_type,subject_area,difficulty_level,estimated_time_minutes,license_note,accessibility_note,review_status
+resource_reading,Introductory Reading,reading,knowledge_architecture,introductory,25,OER-compatible draft,Readable structure and headings,current
+resource_diagram,Feedback Diagram,diagram,systems_thinking,introductory,10,OER-compatible draft,Needs alt text and long description,needs_review
+practice_task,Feedback Mapping Practice,practice,systems_thinking,intermediate,35,OER-compatible draft,Accessible worksheet available,current
+performance_assessment,System Map Assignment,project,systems_thinking,intermediate,90,OER-compatible draft,Rubric and alternative formats available,current
+dataset_learning_paths,Learning Pathway Dataset,dataset,learning_analytics,intermediate,45,Synthetic data only,CSV and data dictionary included,current

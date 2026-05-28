@@ -1,0 +1,11 @@
+check_id,layer,check_name,severity
+EDU-001,curriculum,Concepts prerequisites and learning pathways are documented,high
+EDU-002,objectives,Objectives are clear aligned and assessable,high
+EDU-003,resources,Learning resources include metadata level license and review status,high
+EDU-004,assessment,Assessments are aligned with objectives,high
+EDU-005,feedback,Feedback records connect assessment to revision and learner support,high
+EDU-006,accessibility,Accessibility metadata is complete for all resources,high
+EDU-007,equity,Examples sources and pathways are reviewed for inclusion,high
+EDU-008,repository,OER and repository records include license version and revision notes,medium
+EDU-009,ai,AI-assisted learning tools preserve provenance review and human accountability,high
+EDU-010,privacy,Learner data and analytics are governed responsibly,high
